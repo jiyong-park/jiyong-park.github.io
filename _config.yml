@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Jiyong Park"
 title_separator          : "-"
 name                     : "Jiyong Park"
-description              : "Jiyong's Personal website"
+description              : "Jiyong's Personal Website"
 url                      : "https://jiyong-park.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am a PhD candidate at KAIST College of Business."
   location         : "Seoul, Korea"
-  email            :
+  email            : "jiyong.park@kaist.ac.kr"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
