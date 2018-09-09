@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "Jiyong Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am a PhD candidate at KAIST College of Business."
   location         : "Seoul, Korea"
   email            :
   uri              :
@@ -111,7 +111,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "i.jiyong.park"
   foursquare       :
   github           :
   gitlab           :
