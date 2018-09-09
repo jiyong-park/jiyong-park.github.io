@@ -1,8 +1,7 @@
 ---
-layout: posts
 title:  "Welcome to Jekyll!"
 category: jekyll
 comments: true
 ---
 
-제발 나타나라 3차 수정
+레이아웃
