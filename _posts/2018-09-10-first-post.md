@@ -1,7 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "Welcome to Jekyll!"
-categories: jekyll
+category: jekyll
+comments: true
 ---
 
-제발 나타나라 2차 수정
+제발 나타나라 3차 수정
