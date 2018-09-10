@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /categories/
-title: "Posts by Category"
+permalink: /research/
+title: "Research"
 author_profile: true
 ---
 {% include group-by-array collection=site.posts field="categories" %}
