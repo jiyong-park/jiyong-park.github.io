@@ -1,6 +1,7 @@
 ---
 title:  "Welcome to Jekyll!"
 category: jekyll
+excerpt: "this is my research"
 comments: true
 ---
 

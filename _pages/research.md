@@ -1,15 +1,16 @@
 ---
-layout: archive
-permalink: /categories/
+permalink: /research/
 title: "Research"
-excerpt: "this is my research"
-author_profile: true
+last_modified_at: 2018-09-10
+toc: true
 ---
-{% include group-by-array collection=site.posts field="categories" %}
-{% for category in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
+
+Research
+
+
+
+## Credits
+
+## Credits
+
+### Credits
