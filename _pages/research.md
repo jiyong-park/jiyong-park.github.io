@@ -2,6 +2,7 @@
 layout: archive
 permalink: /research/
 title: "Research"
+excerpt: "this is my research"
 author_profile: true
 ---
 {% include group-by-array collection=site.posts field="categories" %}
