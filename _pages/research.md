@@ -5,15 +5,18 @@ last_modified_at: 2018-09-10
 toc: true
 ---
 
-Research
+
+## Working Papers
 
 
-## Manuscripts under Review
-
-## Working Papers 
-(Manuscripts in preparation for submission; Full draft available on request)
-
-## Work-in-Progress
+### Manuscripts under Review
 
 
-## Conference Presentation
+### Manuscripts in preparation for submission
+Full draft available on request
+
+
+### Work-in-Progress
+
+
+## Conference Presentations

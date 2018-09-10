@@ -5,8 +5,6 @@ last_modified_at: 2018-09-10
 toc: true
 ---
 
-industry project
-
 
 ## 2018
 
