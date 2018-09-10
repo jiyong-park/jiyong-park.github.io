@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /research/
+permalink: /categories/
 title: "Research"
 excerpt: "this is my research"
 author_profile: true

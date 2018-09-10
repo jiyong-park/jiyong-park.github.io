@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: /about/
   - title: "Research"
-    url: /research/
+    url: /categories/
   - title: "Industry Project"
     url: /industry-project/
   - title: "Teaching"
