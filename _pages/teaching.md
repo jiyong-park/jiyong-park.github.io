@@ -2,13 +2,13 @@
 permalink: /teaching/
 title: "Teaching"
 last_modified_at: 2018-09-10
-toc: true
+toc: false
 ---
 
 
 ## 2018
-* KAIST MIS Summer Session (2018 summer)\
-> Research Design for Data Analytics	
+* KAIST MIS Summer Session (2018 summer)
+> **Research Design for Data Analytics**	
 	* Instructor
 	* Non-credit session (newly developed session) (57 PhD/MS students enrolled)
 	* Module 1: (lecture) Research Design for Data Analytics (8 classes, 4 weeks)
@@ -20,7 +20,7 @@ toc: true
 
 ## 2017
 * KAIST MIS Summer Session (2017 summer)
-> Introduction to Economics of IS and Research Methodology
+> **Introduction to Economics of IS and Research Methodology**
 	* Instructor
 	* Non-credit session (newly developed session) (32 PhD/MS students enrolled)
 	* [Session website] [3]
