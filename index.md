@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-![alt text](/assets/images/home-photo.jpg)
+![](/assets/images/home-photo.jpg)
 
 ### Jiyong Park
 #### KAIST College of Business
