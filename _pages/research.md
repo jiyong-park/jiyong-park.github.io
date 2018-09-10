@@ -19,8 +19,8 @@ toc: true
 
 ### Manuscripts in preparation for submission[^1]
 1. **Park, J.** “Information Technology on the Beat: How Advanced Technology Enhances Policing and Public Safety”
-2. **Park, J.** and Kim, J. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach," in preparation to submit to Management Science
-3. **Park, J.**, Kim, J., and Lee, B. "Co-Evolution of Automation and Nature of Work in the 21st Century," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in Information Systems Research
+2. **Park, J.** and Kim, J. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach," in preparation to submit to *Management Science*
+3. **Park, J.**, Kim, J., and Lee, B. "Co-Evolution of Automation and Nature of Work in the 21st Century," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in *Information Systems Research*
 
 [^1]: Full draft available on request
 
