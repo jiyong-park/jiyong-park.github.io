@@ -8,7 +8,7 @@ toc: true
 ## Education
 * **Korea Advanced Institute of Science and Technology ([KAIST][1]), Seoul, Korea**
 	February 2014 - August 2019 (expected)
-	* Ph.D. Candidate in *Management Engineering* (a combined master's and doctoral program) 
+	* Ph.D. Candidate in *Management Engineering*
 	* Concentration: Information Systems, Economics of IS, Green IT
 	* Dissertation: “Toward the Sustainable Society: Three Essays on the Societal Impacts of Information Systems and Technology”
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
