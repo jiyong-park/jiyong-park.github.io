@@ -3,11 +3,8 @@ layout: single
 author_profile: true
 ---
 
+![](/assets/images/home-photo.jpg)
 
-
-### Jiyong Park
-### KAIST College of Business
-### 
 
 
 I am a PhD Candidate at KAIST College of Business. Given that business and technology do not exist separately from the social ecology, I am interested in the role of information systems and technology for the sustainable society, beyond a driver of productivity growth and business value creation. My research interests especially lie at the intersection between economic and societal aspects of advanced technology.
