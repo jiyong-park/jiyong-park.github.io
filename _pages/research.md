@@ -47,4 +47,3 @@ toc: true
 17. **Park, J.** and Lee, B., 2015. "The Distinct Effects of Information Technology and Communication Technology on Inequality: An Empirical Investigation", *Post-ICIS KrAIS Research Workshop, Fort Worth, Texas, USA* **[Best Student Paper Award]**
 18. **Park, J.** and Lee, B., 2015. "The Distinct Effects of Information Technology and Communication Technology on Inequality: An Empirical Analysis from the Knowledge Hierarchy Perspective", ***Workshop on Information Systems and Economics (WISE), Dallas, Texas, USA***
 19. **Park, J.** and Lee, B., 2015. "Has Information and Communication Technology Changed the Dynamics of Inequality? An Empirical Study from the Knowledge Hierarchy Perspective", ***International Conference on Information Systems (ICIS), Fort Worth, Texas, USA***
-

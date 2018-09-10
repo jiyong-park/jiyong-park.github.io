@@ -67,10 +67,10 @@ toc: true
 	* International Conference on Electronic Commerce (ICEC)
 
 * Organizing Committee Member
-	* Web Coordinator ([webpage][4]), Workshop on Information Systems and Economics (WISE) 2017 at Seoul, Korea (Post-ICIS workshop)
-	* Organizing Committee & Web Coordinator ([webpage][5]), Bright Internet Global Summit (BIGS) 2018 at San Francisco, USA (Pre-ICIS workshop)
-	* Organizing Committee & Web Coordinator ([webpage][6]), Bright Internet Global Summit (BIGS) 2017 at Seoul, Korea (Pre-ICIS workshop)
-	* Web Coordinator ([webpage][7]), Bright Internet China Symposium (BICS) 2018 at Beijing, China
+	* Web Coordinator ([website][4]), Workshop on Information Systems and Economics (WISE) 2017 at Seoul, Korea (Post-ICIS workshop)
+	* Organizing Committee & Web Coordinator ([website][5]), Bright Internet Global Summit (BIGS) 2018 at San Francisco, USA (Pre-ICIS workshop)
+	* Organizing Committee & Web Coordinator ([website][6]), Bright Internet Global Summit (BIGS) 2017 at Seoul, Korea (Pre-ICIS workshop)
+	* Web Coordinator ([website][7]), Bright Internet China Symposium (BICS) 2018 at Beijing, China
 
 * Council Member at the University
 	* Student Member of the Curriculum Council at KAIST (June 2018 - Present)
