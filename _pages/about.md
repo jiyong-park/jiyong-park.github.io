@@ -6,14 +6,14 @@ toc: true
 ---
 
 ## Education
-* **Korea Advanced Institute of Science and Technology ([KAIST][1]), Seoul, Korea**
+* **Korea Advanced Institute of Science and Technology (**[KAIST][1]**), Seoul, Korea**
 	February 2014 - August 2019 (expected)
 	* Ph.D. Candidate in Management Engineering (a combined master's and doctoral program) 
 	* Concentration: Information Systems, Economics of IS, Green IT
 	* Dissertation Title: “Toward the Sustainable Society: Three Essays on the Societal Impacts of Information Systems and Technology”
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
 
-* **Pohang University of Science and Technology ([POSTECH][2]), Pohang, Korea**
+* **Pohang University of Science and Technology (**[POSTECH][2]**), Pohang, Korea**
 	March 2008 - February 2014
 	* Bachelor’s in Industrial and Management Engineering
 	* Double Major in Mathematics
@@ -27,7 +27,7 @@ toc: true
 
 
 ## Research and Teaching Interest
-* I am interested in the role of information systems and technology as an enabler of sustainability, beyond a driver of productivity growth and business value creation. My research interests especially lie at **the intersection between economic and societal aspects of advanced technology**. My research topics include as follows ([See Research by Topic][3]):
+* I am interested in the role of information systems and technology as an enabler of sustainability, beyond a driver of productivity growth and business value creation. My research interests especially lie at **the intersection between economic and societal aspects of advanced technology**. My research topics include as follows:
 	1. Societal Impacts of Information Technology and Machine Learning
 	2. Automation, Productivity, and Future of Work
 	3. Information Technology for Environmental Sustainability
@@ -83,7 +83,6 @@ toc: true
 
 [1]: https://www.business.kaist.edu/
 [2]: http://postech.edu/eng/
-[3]: https://jiyong-park.github.io/tags
 [4]: https://wiseconf2017.wixsite.com/wise
 [5]: http://brightinternet.org/bigs2018/
 [6]: https://bigsconf2017.wixsite.com/bigs2017

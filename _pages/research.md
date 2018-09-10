@@ -26,6 +26,7 @@ toc: true
 
 ### Work-in-Progress
 1. "Consumer Reactions to Data Breach: Evidence from a Natural Experiment of Large-Scale Data Breach"
+2. "What is Local Seldom Remains Local: Social Media, Foreign Chatter, and Stock Performance of Multinational Firms"
 
 ## Conference Presentations
 1. **Park, J.** and Kim, J., 2018. "Fixing Racial Discrimination through Analytics on Online Platforms: A Neural Machine Translation Approach", ***International Conference on Information Systems (ICIS), San Francisco, USA** (scheduled)*
