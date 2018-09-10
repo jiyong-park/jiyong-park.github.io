@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Jiyong Park"
 description              : "Jiyong's Personal Website"
 url                      : "https://jiyong-park.github.io/"
-baseurl                  : "/home"
+baseurl                  : 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -106,7 +106,7 @@ author:
   location         : "Seoul, Korea"
   email            : "jiyong.park@kaist.ac.kr"
   uri              :
-  home             : /home/
+  home             : /home
   bitbucket        :
   codepen          :
   dribbble         :
