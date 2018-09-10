@@ -1,7 +1,8 @@
 ---
 title:  "Welcome to Jekyll!"
-category: working-paper
 excerpt: "this is my working research"
+category: Working Paper, Econometrics
+tag: Future of Work
 ---
 
 페이지야 나타나라

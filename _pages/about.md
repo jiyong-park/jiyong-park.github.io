@@ -6,32 +6,42 @@ toc: true
 ---
 
 ## Education
-* **Korea Advanced Institute of Science and Technology ([KAIST][1]), Seoul, Korea**, February 2014 - August 2019 (expected)
+* **Korea Advanced Institute of Science and Technology ([KAIST][1]), Seoul, Korea**
+	February 2014 - August 2019 (expected)
 	* Ph.D. Candidate in Management Engineering (a combined master's and doctoral program) 
 	* Concentration: Information Systems, Economics of IS, Green IT
 	* Dissertation Title: “Toward the Sustainable Society: Three Essays on the Societal Impacts of Information Systems and Technology”
-	* Committee: Byungtae Lee (Chair), Wonseok Oh, Juhee Kwon (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
+	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
 
-* **Pohang University of Science and Technology (POSTECH), Pohang, Korea**, March 2008 - February 2014
+* **Pohang University of Science and Technology ([POSTECH][2]), Pohang, Korea**
+	March 2008 - February 2014
 	* Bachelor’s in Industrial and Management Engineering
 	* Double Major in Mathematics
 	* Minor in Computer Science and Engineering
 	* Graduate with Magna Cum Laude
 
-* **Hong Kong University of Science and Technology (HKUST), Hong Kong**, February 2013 - May 2013
+* **Hong Kong University of Science and Technology (HKUST), Hong Kong**
+	February 2013 - May 2013
 	* Exchange Student in the School of Engineering
 	* Dean's List
 
-## Research Interest
-* I am interested in the role of information systems and technology as an enabler of sustainability, beyond a driver of productivity growth and business value creation. My research interests especially lie at **the intersection between economic and societal aspects of advanced technology**. My research topics include as follows:
-	(1) Societal Impacts of Information Technology and Machine Learning
-	(2) Automation, Productivity, and Future of Work
-	(3) Information Technology for Environmental Sustainability
+
+## Research and Teaching Interest
+* I am interested in the role of information systems and technology as an enabler of sustainability, beyond a driver of productivity growth and business value creation. My research interests especially lie at **the intersection between economic and societal aspects of advanced technology**. My research topics include as follows ([See Research by Topic][3]):
+	1. Societal Impacts of Information Technology and Machine Learning
+	2. Automation, Productivity, and Future of Work
+	3. Information Technology for Environmental Sustainability
 * Methodologically, I am well-trained in **Econometrics** (including randomized experiments, quasi-experiments, instrument variable approach), as well as **Data Analytics** (including machine learning, natural language processing).
 
 
-## Honors and Awards
+## Technical Skills
+* Programming Language
+	* Python, Deep Learning Framework (PyTorch, TensorFlow), Java, C++, C, Geographic Information System (GIS)
+* Statistical Software and Database
+	* STATA, R, Mathematica, MySQL
 
+
+## Honors and Awards
 * Best Student Paper Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2017
 * Honorable Mention Research Award, KAIST Graduate School of Green Growth, 2017
@@ -48,21 +58,19 @@ toc: true
 
 ## Academic and Internal Services
 * Ad Hoc Reviewers
-(Journal)
 	* Information Systems Frontiers
 	* Asia Pacific Journal of Information Systems
 	* Information Systems Review
-(Conference / Workshop)
 	* International Conference on Information Systems (ICIS)
 	* INFORMS Conference on Information Systems and Technology (CIST)
 	* Hawaii International Conference on System Sciences (HICSS)
 	* International Conference on Electronic Commerce (ICEC)
 
 * Organizing Committee Member
-	* Web Coordinator (webpage), Workshop on Information Systems and Economics (WISE) 2017 at Seoul, Korea (Post-ICIS workshop)
-	* Organizing Committee & Web Coordinator (webpage), Bright Internet Global Summit (BIGS) 2018 at San Francisco, USA (Pre-ICIS workshop)
-	* Web Coordinator (webpage), Bright Internet Global Summit (BIGS) 2017 at Seoul, Korea (Pre-ICIS workshop)
-	* Web Coordinator (webpage), Bright Internet China Symposium (BICS) 2018 at Beijing, China
+	* Web Coordinator ([webpage][4]), Workshop on Information Systems and Economics (WISE) 2017 at Seoul, Korea (Post-ICIS workshop)
+	* Organizing Committee & Web Coordinator ([webpage][5]), Bright Internet Global Summit (BIGS) 2018 at San Francisco, USA (Pre-ICIS workshop)
+	* Organizing Committee & Web Coordinator ([webpage][6]), Bright Internet Global Summit (BIGS) 2017 at Seoul, Korea (Pre-ICIS workshop)
+	* Web Coordinator ([webpage][7]), Bright Internet China Symposium (BICS) 2018 at Beijing, China
 
 * Council Member at the University
 	* Student Member of the Curriculum Council at KAIST (June 2018 - Present)
@@ -74,3 +82,9 @@ toc: true
 
 
 [1]: https://www.business.kaist.edu/
+[2]: http://postech.edu/eng/
+[3]: https://jiyong-park.github.io/tags
+[4]: https://wiseconf2017.wixsite.com/wise
+[5]: http://brightinternet.org/bigs2018/
+[6]: https://bigsconf2017.wixsite.com/bigs2017
+[7]: http://brightinternet.org/bics2018/
