@@ -8,9 +8,12 @@ toc: true
 Research
 
 
+## Manuscripts under Review
 
-## Credits
+## Working Papers 
+(Manuscripts in preparation for submission; Full draft available on request)
 
-## Credits
+## Work-in-Progress
 
-### Credits
+
+## Conference Presentation

@@ -1,16 +1,16 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 last_modified_at: 2018-09-10
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. 
+About Me
 
-hahaha
+## Education
 
-## Credits
+## Research Interest
 
-## Credits
+## Honors and Awards
 
-### Credits
+## Academic and Internal Services
