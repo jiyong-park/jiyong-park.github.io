@@ -66,7 +66,7 @@ toc: true
 	* Hawaii International Conference on System Sciences (HICSS)
 	* International Conference on Electronic Commerce (ICEC)
 
-* Organizing Committee Member
+* Conference/Workshop Committee Member
 	* Web Coordinator ([website][4]), Workshop on Information Systems and Economics (WISE) 2017 at Seoul, Korea (Post-ICIS workshop)
 	* Organizing Committee & Web Coordinator ([website][5]), Bright Internet Global Summit (BIGS) 2018 at San Francisco, USA (Pre-ICIS workshop)
 	* Organizing Committee & Web Coordinator ([website][6]), Bright Internet Global Summit (BIGS) 2017 at Seoul, Korea (Pre-ICIS workshop)
