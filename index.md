@@ -15,4 +15,4 @@ Sustainable development consists of the “triple bottom line”—economic, env
 2. Automation, Productivity, and Future of Work
 3. Information Technology for Environmental Sustainability
 
-I have presented my research at several leading academic conferences/workshps, including International Conference on Information Systems (ICIS), Workshop on Information Systems and Economics (WISE), and the INFORMS Conference of Information Systems and Technology (CIST), among others.
+I have presented my research at several leading academic conferences/workshops, including International Conference on Information Systems (ICIS), Workshop on Information Systems and Economics (WISE), and the INFORMS Conference of Information Systems and Technology (CIST), among others.
