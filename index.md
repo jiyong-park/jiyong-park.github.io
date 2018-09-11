@@ -20,4 +20,4 @@ In the Introduction of his book entitled “Capital in the Twenty-First Century,
 
 > “But by patiently searching for facts and patterns and calmly analyzing the economic, social, and political mechanisms that might explain them, it can inform democratic debate and focus attention on the right questions.”
 
-In my view, this is the role social scientists should play.
+This is what I view as the role social scientists should play.
