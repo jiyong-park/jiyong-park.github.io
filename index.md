@@ -16,3 +16,9 @@ Sustainable development consists of the “triple bottom line”—economic, env
 3. Information Technology for Environmental Sustainability
 
 I have presented my research at several leading academic conferences/workshops, including International Conference on Information Systems (ICIS), Workshop on Information Systems and Economics (WISE), and the INFORMS Conference of Information Systems and Technology (CIST), among others.
+
+In the Introduction of his book entitled “Capital in the Twenty-First Century,” economist Thomas Piketty states that
+> “Social scientific research is and always will be tentative and imperfect.”
+> “But by patiently searching for facts and patterns and calmly analyzing the economic, social, and political mechanisms that might explain them, it can inform democratic debate and focus attention on the right questions.” 
+
+In my view, this is the role social scientists should play.
