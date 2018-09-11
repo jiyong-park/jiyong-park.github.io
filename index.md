@@ -8,9 +8,9 @@ author_profile: true
 # Jiyong Park 
 
 
-I am a PhD Candidate at KAIST College of Business. Given that business and technology do not exist separately from the social ecology, I am interested in the role of information systems and technology for the sustainable society, beyond a driver of productivity growth and business value creation. 
+I am a PhD Candidate at KAIST College of Business. As information technology has penetrated into all aspects of our society – individuals, organizations, society, and nations – business and technology are increasingly assimilated to the social eco-system. In this regard, I am interested in the role of information systems and technology for the sustainable society, beyond a driver of productivity growth and business value creation. 
 
-Sustainable development consists of the “triple bottom line”—economic, environmental and social dimensions. My research interests especially lie at the intersection between economic and societal aspects of advanced technology. Specifically, my research topics include as follows:
+Sustainable development consists of the “triple bottom line” — economic, environmental and social dimensions. My research interests especially lie at the intersection between economic and societal aspects of advanced technology. Specifically, my research topics include as follows:
 1. Societal Impacts of Information Technology and Machine Learning
 2. Automation, Productivity, and Future of Work
 3. Information Technology for Environmental Sustainability
