@@ -8,7 +8,7 @@ author_profile: true
 # Jiyong Park 
 
 
-I am a PhD Candidate at KAIST College of Business. Given that business and technology permeate all levels of society – individuals, organizations, communities, and nations, I am interested in the role of information systems and technology for the sustainable society, beyond a driver of productivity growth and business value creation. 
+I am a PhD Candidate at KAIST College of Business. Given that information technology has permeated all levels of society – individuals, organizations, communities, and nations, I am interested in the role of information systems and technology for the sustainable society, beyond a driver of productivity growth and business value creation. 
 
 Sustainable development consists of the “triple bottom line” — economic, environmental and social dimensions. My research interests especially lie at the intersection between economic and societal aspects of advanced technology. Specifically, my research topics include as follows:
 1. Societal Impacts of Information Technology and Machine Learning
