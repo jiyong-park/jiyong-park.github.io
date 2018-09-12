@@ -27,7 +27,7 @@ toc: true
 
 
 ## Research and Teaching Interest
-* I am interested in the role of information systems and technology as an enabler of sustainability, beyond a driver of productivity growth and business value creation. My research interests especially lie at **the intersection between economic and societal aspects of advanced technology**. My research topics include as follows:
+* I am interested in the role of information systems and technology as an enabler of sustainability, beyond a driver of productivity growth and business value creation. My research interests especially lie at **the intersection between economic and societal aspects of advanced technology**. My research has been primarily oriented toward three areas:
 	1. Societal Impacts of Information Technology and Machine Learning
 	2. Automation, Productivity, and Future of Work
 	3. Information Technology for Environmental Sustainability
