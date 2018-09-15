@@ -1,24 +1,24 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2018-09-10
+last_modified_at: 2018-09-14
 toc: true
 ---
 
 ## Education
-* **Korea Advanced Institute of Science and Technology ([KAIST][1]), Seoul, Korea**
+* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea**
 	* Ph.D. Candidate in *Management Engineering* (Major: Information Systems)
 		* February 2015 - August 2019 (expected)
 	* Dissertation: “Toward the Sustainable Society: Three Essays on the Societal Impacts of Information Systems and Technology”
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
 
-* **Korea Advanced Institute of Science and Technology ([KAIST][1]), Seoul, Korea**
+* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea**
 	* M.S. in *Management Engineering* (Major: Information Systems)
 		* February 2014 - January 2015
 	* Advisor: Dr. Byungtae Lee
 
 
-* **Pohang University of Science and Technology ([POSTECH][2]), Pohang, Korea**
+* **Pohang University of Science and Technology (POSTECH), Pohang, Korea**
 	* B.S. in *Industrial and Management Engineering*
 		* March 2008 - February 2014
 	* Double Major in *Mathematics*
