@@ -4,9 +4,9 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "Industry Project"
-    url: /industry-project/
   - title: "Teaching"
     url: /teaching/
+  - title: "Industry Project"
+    url: /industry-project/
   - title: "CV"
     url: "http://bit.ly/2N2hFsf"

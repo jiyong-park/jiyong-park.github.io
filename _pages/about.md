@@ -7,23 +7,28 @@ toc: true
 
 ## Education
 * **Korea Advanced Institute of Science and Technology ([KAIST][1]), Seoul, Korea**
-	February 2014 - August 2019 (expected)
-	* Ph.D. Candidate in *Management Engineering*
-	* Concentration: Information Systems, Economics of IS, Green IT
+	* February 2015 - August 2019 (expected)
+	* Ph.D. Candidate in *Management Engineering* (Major: Information Systems)
 	* Dissertation: “Toward the Sustainable Society: Three Essays on the Societal Impacts of Information Systems and Technology”
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
 
+* **Korea Advanced Institute of Science and Technology ([KAIST][1]), Seoul, Korea**
+	* February 2014 - January 2015
+	* M.S. in *Management Engineering* (Major: Information Systems)
+	* Advisor: Dr. Byungtae Lee
+
+
 * **Pohang University of Science and Technology ([POSTECH][2]), Pohang, Korea**
-	March 2008 - February 2014
-	* Bachelor’s in *Industrial and Management Engineering*
+	* March 2008 - February 2014
+	* B.S. in *Industrial and Management Engineering*
 	* Double Major in *Mathematics*
 	* Minor in *Computer Science and Engineering*
-	* Graduate with *Magna Cum Laude*
+	* Graduate with Magna Cum Laude
 
 * **Hong Kong University of Science and Technology (HKUST), Hong Kong**
-	February 2013 - May 2013
+	* February 2013 - May 2013
 	* Exchange Student in the School of Engineering
-	* *Dean's List*
+	* Dean's List
 
 
 ## Research and Teaching Interest
@@ -31,7 +36,7 @@ toc: true
 	1. Societal Impacts of Information Technology and Machine Learning
 	2. Automation, Productivity, and Future of Work
 	3. Information Technology for Environmental Sustainability
-* Methodologically, I am well-trained in **Econometrics** (including randomized experiments, quasi-experiments, instrument variable approach), as well as **Data Analytics** (including machine learning, natural language processing).
+* Methodologically, I am well-trained in **Econometrics** (including randomized experiments, quasi-experiments, instrument variable approach), as well as **Data Analytics** (including machine learning, natural language processing). Recently, I am particularly interested in integrating applied econometrics, data analytics, and machine learning into a single framework.
 
 
 ## Technical Skills
@@ -67,10 +72,9 @@ toc: true
 	* International Conference on Electronic Commerce (ICEC)
 
 * Conference/Workshop Committee Member
-	* Web Coordinator ([website][4]), Workshop on Information Systems and Economics (WISE) 2017 at Seoul, Korea (Post-ICIS workshop)
+	* Student Organizer ([website][4]), Workshop on Information Systems and Economics (WISE) 2017 at Seoul, Korea (Post-ICIS workshop)
 	* Organizing Committee & Web Coordinator ([website][5]), Bright Internet Global Summit (BIGS) 2018 at San Francisco, USA (Pre-ICIS workshop)
 	* Organizing Committee & Web Coordinator ([website][6]), Bright Internet Global Summit (BIGS) 2017 at Seoul, Korea (Pre-ICIS workshop)
-	* Web Coordinator ([website][7]), Bright Internet China Symposium (BICS) 2018 at Beijing, China
 
 * Council Member at the University
 	* Student Member of the Curriculum Council at KAIST (June 2018 - Present)

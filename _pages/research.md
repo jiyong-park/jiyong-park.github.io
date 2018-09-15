@@ -11,23 +11,24 @@ toc: true
 
 ## Working Papers
 ### Manuscripts under Review
-1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," **under 3rd round at *Information Systems Research***
-2. **Park, J.**, Han, K., and Lee, B. “An Empirical Analysis of Cloud Computing and Energy Efficiency: A Stochastic Frontier Approach,” **under 2nd round at *Management Science***
-3. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," **under 2nd round at *MIS Quarterly***
-4. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” submitted to *Information Systems Research*
+1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," **under revision for 3rd round review at *Information Systems Research***
+2. **Park, J.**, Han, K., and Lee, B. “An Empirical Analysis of Cloud Computing and Energy Efficiency: A Stochastic Frontier Approach,” **under revision for 2nd round review at *Management Science***
+3. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," **under 2nd round review at *MIS Quarterly***
 5. **Park, J.**, Kim, J., Cho, D. and Lee, B. “Pitching with Style: The Role of Entrepreneur’s Video Pitch on Online Crowdfunding,” submitted to *MIS Quarterly*
 
 ### Manuscripts in preparation for submission[^1]
-1. **Park, J.** “Information Technology on the Beat: How Advanced Technology Enhances Policing and Public Safety”
-2. **Park, J.** and Kim, J. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach," in preparation to submit to *Management Science*
-3. **Park, J.**, Kim, J., and Lee, B. "Co-Evolution of Automation and Nature of Work in the 21st Century," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in *Information Systems Research*
+1. **Park, J.** “Information Technology on the Beat: How Advanced Technology Enhances Policing and Public Safety” in preparation to submit to *Information Systems Research*
+2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” in preparation to submit to *Information Systems Research*
+3. **Park, J.** and Kim, J. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach," in preparation to submit to *Management Science*
+4. **Park, J.**, Kim, J., and Lee, B. "Co-Evolution of Automation and Nature of Work in the 21st Century," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in *Information Systems Research*
 
 [^1]: Full draft available on request
 
 ### Work-in-Progress
-1. "The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing"
-2. "Consumer Reactions to Data Breach: Evidence from a Natural Experiment of Large-Scale Data Breach"
-3. "What is Local Seldom Remains Local: Social Media, Foreign Chatter, and Stock Performance of Multinational Firms"
+1. “The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing,” in progress of manuscript writing after data analysis (using robot data from International Federation of Robotics)
+2. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation,” in progress of data analysis (using developer-level performance data from one of major IT companies in Korea)
+3. "What is Local Seldom Remains Local: Social Media, Foreign Chatter, and Stock Performance of Multinational Firms" in progress of data analysis (using 1. 9 billion tweets data)
+
 
 ## Conference Presentations
 1. **Park, J.** and Kim, J., 2018. "Fixing Racial Discrimination through Analytics on Online Platforms: A Neural Machine Translation Approach", ***International Conference on Information Systems (ICIS), San Francisco, USA** (scheduled)*
