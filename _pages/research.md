@@ -27,7 +27,7 @@ toc: true
 ### Work-in-Progress
 1. “The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing,” in progress of manuscript writing after data analysis (using robot data from International Federation of Robotics)
 2. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation,” in progress of data analysis (using developer-level performance data from one of major IT companies in Korea)
-3. "What is Local Seldom Remains Local: Social Media, Foreign Chatter, and Stock Performance of Multinational Firms" in progress of data analysis (using 1. 9 billion tweets data)
+3. "What is Local Seldom Remains Local: Social Media, Foreign Chatter, and Stock Performance of Multinational Firms" in progress of data analysis (using 1. 9 billion tweets data from Twitter)
 
 
 ## Conference Presentations

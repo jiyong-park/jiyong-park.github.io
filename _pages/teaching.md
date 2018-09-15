@@ -21,7 +21,7 @@ toc: false
 ## 2017
 * KAIST MIS Summer Session 2017 (summer)
 > **Introduction to Economics of IS and Research Methodology**
-	* Non-credit technical session (32 PhD/MS students enrolled)
+	* Non-credit session (32 PhD/MS students enrolled)
 		* Organized, developed, and instructed the session
 	* [Session website] [3]
 

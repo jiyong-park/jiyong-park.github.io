@@ -7,27 +7,27 @@ toc: true
 
 ## Education
 * **Korea Advanced Institute of Science and Technology ([KAIST][1]), Seoul, Korea**
-	* February 2015 - August 2019 (expected)
 	* Ph.D. Candidate in *Management Engineering* (Major: Information Systems)
+		* February 2015 - August 2019 (expected)
 	* Dissertation: “Toward the Sustainable Society: Three Essays on the Societal Impacts of Information Systems and Technology”
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
 
 * **Korea Advanced Institute of Science and Technology ([KAIST][1]), Seoul, Korea**
-	* February 2014 - January 2015
 	* M.S. in *Management Engineering* (Major: Information Systems)
+		* February 2014 - January 2015
 	* Advisor: Dr. Byungtae Lee
 
 
 * **Pohang University of Science and Technology ([POSTECH][2]), Pohang, Korea**
-	* March 2008 - February 2014
 	* B.S. in *Industrial and Management Engineering*
+		* March 2008 - February 2014
 	* Double Major in *Mathematics*
 	* Minor in *Computer Science and Engineering*
 	* Graduate with Magna Cum Laude
 
 * **Hong Kong University of Science and Technology (HKUST), Hong Kong**
-	* February 2013 - May 2013
 	* Exchange Student in the School of Engineering
+		* February 2013 - May 2013
 	* Dean's List
 
 
@@ -37,7 +37,6 @@ toc: true
 	2. Automation, Productivity, and Future of Work
 	3. Information Technology for Environmental Sustainability
 * Methodologically, I am well-trained in **Econometrics** (including randomized experiments, quasi-experiments, instrument variable approach), as well as **Data Analytics** (including machine learning, natural language processing). Recently, I am particularly interested in integrating applied econometrics, data analytics, and machine learning into a single framework.
-
 
 ## Technical Skills
 * Programming Language
@@ -72,7 +71,8 @@ toc: true
 	* International Conference on Electronic Commerce (ICEC)
 
 * Conference/Workshop Committee Member
-	* Student Organizer ([website][4]), Workshop on Information Systems and Economics (WISE) 2017 at Seoul, Korea (Post-ICIS workshop)
+	* Student Organizer, Workshop on Information Systems and Economics (WISE) 2017 at Seoul, Korea (Post-ICIS workshop)
+		* Made a [website][4], coordinated registration, and organized student volunteers during the conference
 	* Organizing Committee & Web Coordinator ([website][5]), Bright Internet Global Summit (BIGS) 2018 at San Francisco, USA (Pre-ICIS workshop)
 	* Organizing Committee & Web Coordinator ([website][6]), Bright Internet Global Summit (BIGS) 2017 at Seoul, Korea (Pre-ICIS workshop)
 
