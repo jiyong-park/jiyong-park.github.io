@@ -6,33 +6,28 @@ toc: true
 ---
 
 ## Education
-* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea**
-	* Ph.D. Candidate in *Management Engineering* (Major: Information Systems)
-		* February 2015 - August 2019 (expected)
+* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (February 2015 - August 2019 (expected))
+	* Ph.D. Candidate (ABD) in *Management Engineering* (Major: Information Systems)
 	* Dissertation: “Toward the Sustainable Society: Three Essays on the Societal Impacts of Information Systems and Technology”
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
 
-* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea**
+* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (February 2014 - January 2015)
 	* M.S. in *Management Engineering* (Major: Information Systems)
-		* February 2014 - January 2015
 	* Advisor: Dr. Byungtae Lee
 
-
-* **Pohang University of Science and Technology (POSTECH), Pohang, Korea**
-	* B.S. in *Industrial and Management Engineering*
-		* March 2008 - February 2014
-	* Double Major in *Mathematics*
+* **Pohang University of Science and Technology (POSTECH), Pohang, Korea** (March 2008 - February 2014)
+	* B.Eng. in *Industrial and Management Engineering*
+	* B.S. in *Mathematics*
 	* Minor in *Computer Science and Engineering*
 	* Graduate with Magna Cum Laude
 
-* **Hong Kong University of Science and Technology (HKUST), Hong Kong**
-	* Exchange Student in the School of Engineering
-		* February 2013 - May 2013
+* **Hong Kong University of Science and Technology (HKUST), Hong Kong** (February 2013 - May 2013)
+	* Exchange Student at the School of Engineering
 	* Dean's List
 
 
 ## Research and Teaching Interest
-* I am interested in the role of information systems and technology as an enabler of sustainability, beyond a driver of productivity growth and business value creation. My research interests especially lie at **the intersection between economic and societal aspects of advanced technology**. My research has been primarily oriented toward three areas:
+* I am interested in the role of information systems and technology as a primary means to reconciling economic and business value with social and environmental sustainability. My research interests especially lie at **the intersection between economic value and societal impacts of advanced technology**. My research has been primarily oriented toward three areas:
 	1. Societal Impacts of Information Technology and Machine Learning
 	2. Automation, Productivity, and Future of Work
 	3. Information Technology for Environmental Sustainability
@@ -40,9 +35,9 @@ toc: true
 
 ## Technical Skills
 * Programming Language
-	* Python, Deep Learning Framework (PyTorch, TensorFlow), Java, C++, C, Geographic Information System (GIS)
+	* Python, Deep Learning Framework (PyTorch, TensorFlow), Java, C++, C, Mathematica, ArcGIS
 * Statistical Software and Database
-	* STATA, R, Mathematica, MySQL
+	* STATA, R, SAS, SQL, Big Data Framework (Hadoop, Hive, Spark)
 
 
 ## Honors and Awards

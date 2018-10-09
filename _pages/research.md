@@ -13,14 +13,14 @@ toc: true
 ### Manuscripts under Review
 1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," **under revision for 3rd round review at *Information Systems Research***
 2. **Park, J.**, Han, K., and Lee, B. “An Empirical Analysis of Cloud Computing and Energy Efficiency: A Stochastic Frontier Approach,” **under revision for 2nd round review at *Management Science***
-3. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," **under 2nd round review at *MIS Quarterly***
-5. **Park, J.**, Kim, J., Cho, D. and Lee, B. “Pitching with Style: The Role of Entrepreneur’s Video Pitch on Online Crowdfunding,” submitted to *MIS Quarterly*
+3. **Park, J.**, Kim, J., Cho, D. and Lee, B. “Pitching with Style: The Role of Entrepreneur’s Video Pitch on Online Crowdfunding,” submitted to *MIS Quarterly*
 
 ### Manuscripts in preparation for submission[^1]
 1. **Park, J.** “Information Technology on the Beat: How Advanced Technology Enhances Policing and Public Safety” in preparation to submit to *Information Systems Research*
-2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” in preparation to submit to *Information Systems Research*
-3. **Park, J.** and Kim, J. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach," in preparation to submit to *Management Science*
-4. **Park, J.**, Kim, J., and Lee, B. "Co-Evolution of Automation and Nature of Work in the 21st Century," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in *Information Systems Research*
+2. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in *Information Systems Research*
+3. **Park, J.**, Kim, J., and Lee, B. "Co-Evolution of Automation and Nature of Work in the 21st Century," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in *Information Systems Research*
+4. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” in preparation to submit to *Information Systems Research*
+5. **Park, J.** and Kim, J. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach," in preparation to submit to *Management Science*
 
 [^1]: Full draft available on request
 
@@ -31,7 +31,7 @@ toc: true
 
 
 ## Conference Presentations
-1. **Park, J.** and Kim, J., 2018. "Fixing Racial Discrimination through Analytics on Online Platforms: A Neural Machine Translation Approach", ***International Conference on Information Systems (ICIS), San Francisco, USA** (scheduled)*
+1. **Park, J.** and Kim, J., 2018. "Fixing Racial Discrimination through Analytics on Online Platforms: A Neural Machine Translation Approach", ***International Conference on Information Systems (ICIS), San Francisco, California, USA** (scheduled)*
 2. **Park, J.** and Kim, J., 2018. " Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach", ***INFORMS Conference on Information Systems and Technology (CIST), Phoenix, Arizona, USA** (scheduled)*
 3. Lee, Y., **Park, J.** and Lee, B., 2018. "Battle of Sharing Economy: The Contingent Effects of Ride-Sharing on Taxi Industry", *Hawaii International Conference on System Sciences (HICSS), Hawaii, USA*
 4. **Park, J.**, Kim, J. and Lee, B., 2017. "Are All Faces Created Equal? An Empirical Analysis of Face Disclosure and Facial Expression in Crowdfunding", *Post-ICIS KrAIS Research Workshop, Seoul, Korea* **[Best Student Paper Award]**

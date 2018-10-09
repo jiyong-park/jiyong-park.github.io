@@ -14,7 +14,7 @@ toc: false
 	* Module 1: (lecture) Research Design for Data Analytics (8 classes, 4 weeks)
 	* Module 2: (hands-on) Causal Inference with STATA (4 classes, 2 weeks)
 	* Module 3: (hands-on) Deep Learning with PyTorch (8 classes, 4 weeks)
-	* [Session website][1] / [Github for hands-on codes][2]
+	* [Session website][1] / [GitHub for hands-on codes][2]
 
 
 

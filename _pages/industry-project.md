@@ -7,7 +7,7 @@ toc: false
 
 
 ## 2018
-* The Effects of Blockchain Technology on Employment, *Korea Blockchain Association* (August 2018 – September 2018)
+* The Impact of Blockchain Technology on Employment, *Korea Blockchain Association* (August 2018 – September 2018)
 	* Serve as the Project Manager
 
 ## 2017
