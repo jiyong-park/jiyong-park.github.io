@@ -1,12 +1,12 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2018-09-14
+last_modified_at: 2018-10-08
 toc: true
 ---
 
 ## Education
-* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (February 2015 - August 2019 (expected))
+* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (February 2015 - August 2019, expected)
 	* Ph.D. Candidate (ABD) in *Management Engineering* (Major: Information Systems)
 	* Dissertation: “Toward the Sustainable Society: Three Essays on the Societal Impacts of Information Systems and Technology”
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
@@ -27,7 +27,7 @@ toc: true
 
 
 ## Research and Teaching Interest
-* I am interested in the role of information systems and technology as a primary means to reconciling economic and business value with social and environmental sustainability. My research interests especially lie at **the intersection between economic value and societal impacts of advanced technology**. My research has been primarily oriented toward three areas:
+* As information technology has permeated all aspects of businesses and the broader society, I am interested in the role of information systems and technology as a primary means to the co-creation of profits, social and environmental benefits and the balance among them. My research interests especially lie at **the intersection between economic value and societal impacts of advanced technology**. My research has been primarily oriented toward three areas:
 	1. Societal Impacts of Information Technology and Machine Learning
 	2. Automation, Productivity, and Future of Work
 	3. Information Technology for Environmental Sustainability
