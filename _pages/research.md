@@ -20,14 +20,14 @@ toc: true
 2. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in *Information Systems Research*
 3. **Park, J.**, Kim, J., and Lee, B. "Co-Evolution of Automation and Nature of Work in the 21st Century," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in *Information Systems Research*
 4. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” in preparation to submit to *Information Systems Research*
-5. **Park, J.** and Kim, J. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach," in preparation to submit to *Management Science*
 
 [^1]: Full draft available on request
 
 ### Work-in-Progress
-1. “The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing,” in progress of manuscript writing after data analysis (using robot data from International Federation of Robotics)
-2. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation,” in progress of data analysis (using developer-level performance data from one of major IT companies in Korea)
-3. "What is Local Seldom Remains Local: Social Media, Foreign Chatter, and Stock Performance of Multinational Firms" in progress of data analysis (using 1. 9 billion tweets data from Twitter)
+1. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach," in progress of manuscript writing after deep learning implementation (using 3 million sentences from Kickstarter projects)
+2. “The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing,” in progress of manuscript writing after data analysis (using robot data from International Federation of Robotics)
+3. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation,” in progress of data analysis (using developer-level performance data from one of major IT companies in Korea)
+4. "What is Local Seldom Remains Local: Social Media, Foreign Chatter, and Stock Performance of Multinational Firms" in progress of data analysis (using 1. 9 billion tweets data from Twitter)
 
 
 ## Conference Presentations
