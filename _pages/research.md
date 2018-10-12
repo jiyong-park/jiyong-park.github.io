@@ -39,7 +39,8 @@ toc: true
 6. **Park, J.**, Kim, J. and Lee, B., 2017. "Face Premium or Discount? The Contingent Effects of Face Disclosure and Facial Expression in Crowdfunding", ***Workshop on Information Systems and Economics (WISE)**, Seoul, Korea*
 7. **Park, J.**, Han, K. and Lee, B., 2017. "Energy Efficiency in the Cloud: An Empirical Analysis of Information Technology Outsourcing, Cloud Computing, and Energy Efficiency", ***International Conference on Information Systems (ICIS)**, Seoul, Korea*
 8. Kim, J. and **Park, J.**, 2017. "Does Facial Expression Matter Even Online? An Empirical Analysis of Facial Expression of Emotion and Crowdfunding Success", ***International Conference on Information Systems (ICIS)**, Seoul, Korea*
-9. **Park, J.**, Han, K. and Lee, B., 2017. "Is Cloud Computing Green? An Empirical Analysis of Information Technology Outsourcing and Energy Efficiency", ***INFORMS Conference on Information Systems and Technology (CIST)**, Huston, Texas, USA* **[Best Student Paper Runner-up]**
+9. **Park, J.**, Han, K. and Lee, B., 2017. "Is Cloud Computing Green? An Empirical Analysis of Information Technology Outsourcing and Energy Efficiency", ***INFORMS Conference on Information Systems and Technology (CIST)**, Huston, Texas, USA* 
+**[Best Student Paper Runner-up]**
 10. Kim, J. and **Park, J.**, 2017. "The Anatomy of Facial Expression in Online Crowdfunding Platform: A Machine Learning Approach", *International Conference on Electronic Commerce (ICEC), Pangyo, Korea*
 11. **Park, J.**, Han, K. and Lee, B., 2016. "Reconciling Economic and Environmental Goals: An Empirical Investigation of Information Technology and Energy Productivity", *Post-ICIS KrAIS Research Workshop, Dublin, Ireland* **[Best Student Paper Award]**
 12. Lee, Y., **Park, J.** and Lee, B., 2016. "Battle of Sharing Economy: The Impact of Ride-Sharing on Taxi Industry", ***Workshop on Information Systems and Economics (WISE)**, Dublin, Ireland*
