@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-last_modified_at: 2018-10-08
+last_modified_at: 2018-11-15
 toc: true
 ---
 
@@ -13,13 +13,13 @@ toc: true
 ### Manuscripts under Review
 1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," **under revision for 3rd round review at *Information Systems Research***
 2. **Park, J.**, Han, K., and Lee, B. “An Empirical Analysis of Cloud Computing and Energy Efficiency: A Stochastic Frontier Approach,” **under revision for 2nd round review at *Management Science***
-3. **Park, J.**, Kim, J., Cho, D. and Lee, B. “Pitching with Style: The Role of Entrepreneur’s Video Pitch on Online Crowdfunding,” submitted to *MIS Quarterly*
+3. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under 1st review at *Information Systems Research*
+4. **Park, J.**, Kim, J., Cho, D. and Lee, B. “Pitching with Style: The Role of Entrepreneur’s Video Pitch on Online Crowdfunding,” under 1st round review at *MIS Quarterly*
 
 ### Manuscripts in preparation for submission[^1]
 1. **Park, J.** “Information Technology on the Beat: How Advanced Technology Enhances Policing and Public Safety” in preparation to submit to *Information Systems Research*
-2. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in *Information Systems Research*
-3. **Park, J.**, Kim, J., and Lee, B. "Co-Evolution of Automation and Nature of Work in the 21st Century," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in *Information Systems Research*
-4. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” in preparation to submit to *Information Systems Research*
+2. **Park, J.**, Kim, J., and Lee, B. "Co-Evolution of Automation and Nature of Work in the 21st Century," in preparation to submit to Special Issue on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society in *Information Systems Research*
+3. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” in preparation to submit to *Information Systems Research*
 
 [^1]: Full draft available on request
 
