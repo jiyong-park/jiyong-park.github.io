@@ -29,7 +29,7 @@ toc: true
 2. “The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing” with Sungho Eun and Byungtae Lee (KAIST), in progress of manuscript writing after data analysis
 3. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation,” in progress of data analysis
 4. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach” with Jongho Kim (KAIST) in progress of manuscript writing after deep learning implementation
-5. “Consumer Reactions to Data Breach: An Empirical Analysis of Individual Mobile Usage Patterns Responding to a Large-Scale Data Breach” with Nakyung Kyung (KAIST) and Juhee Kwon (CityU HK), in progress of manuscript writing
+5. “Consumer Reactions to Data Breach: An Empirical Analysis of Individual Mobile Usage Patterns Responding to a Large-Scale Data Breach” with Nakyung Kyung, Byungtae Lee (KAIST) and Juhee Kwon (CityU HK), in progress of manuscript writing
 6. “Converting Supporters into Investors: Evidence from Reward-based and Equity-based Crowdfunding” with Keongtae Kim (CUHK), in progress of data analysis
 
 
