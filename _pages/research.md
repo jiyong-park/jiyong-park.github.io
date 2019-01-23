@@ -18,11 +18,9 @@ toc: true
 5. **Park, J.**, Kim, J., Cho, D. and Lee, B. “Pitching with Style: The Role of Entrepreneur’s Video Pitch on Online Crowdfunding,” under 1st round review at *Journal of Management Information Systems*
 6. **Park, J.**, Cho, D., Lee, J. and Lee, B. “Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” under 2nd round review at *ACM Transaction on Management Information Systems*
 
-### Manuscripts in preparation for submission[^1]
+### Manuscripts in preparation for submission
 1. **Park, J.** “Information Technology on the Beat: How Advanced Technology Enhances Policing and Public Safety” in preparation to submit to *MIS Quarterly*
 2. **Park, J.**, Kim, J., and Lee, B. "Co-Evolution of Automation and Nature of Work in the 21st Century," in preparation to submit to *Information & Management*
-
-[^1]: Full draft available on request
 
 ### Work-in-Progress
 1. “Transaction Costs and Information Technology Investment” with Kunsoo Han (McGill U.), Byungwan Koh (Korea U.), and Barrie Nault (U. Calgary), in progress of manuscript writing after data analysis
@@ -35,23 +33,23 @@ toc: true
 
 
 ## Conference Presentations
-1. **Park, J.** and Kim, J., 2018. "Fixing Racial Discrimination through Analytics on Online Platforms: A Neural Machine Translation Approach", ***International Conference on Information Systems (ICIS)**, San Francisco, California, USA*
-2.	Eun, S., **Park, J.** and Lee, B., 2018. " The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing", ***Workshop on Information Systems and Economics (WISE)**, San Francisco, California, USA*
-3. **Park, J.** and Kim, J., 2018. " Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach", ***INFORMS Conference on Information Systems and Technology (CIST)**, Phoenix, Arizona, USA*
+1. **Park, J.** and Kim, J., 2018. "Fixing Racial Discrimination through Analytics on Online Platforms: A Neural Machine Translation Approach", *International Conference on Information Systems (ICIS), San Francisco, California, USA*
+2.	Eun, S., **Park, J.** and Lee, B., 2018. " The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing", *Workshop on Information Systems and Economics (WISE), San Francisco, California, USA*
+3. **Park, J.** and Kim, J., 2018. " Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach", *INFORMS Conference on Information Systems and Technology (CIST), Phoenix, Arizona, USA*
 4. Lee, Y., **Park, J.** and Lee, B., 2018. "Battle of Sharing Economy: The Contingent Effects of Ride-Sharing on Taxi Industry", *Hawaii International Conference on System Sciences (HICSS), Hawaii, USA*
 5. **Park, J.**, Kim, J. and Lee, B., 2017. "Are All Faces Created Equal? An Empirical Analysis of Face Disclosure and Facial Expression in Crowdfunding", *Post-ICIS KrAIS Research Workshop, Seoul, Korea* **[Best Student Paper Award]**
-6. **Park, J.**, Kim, J. and Lee, B., 2017. "Face Premium or Discount? The Contingent Effects of Face Disclosure and Facial Expression in Crowdfunding", ***Workshop on Information Systems and Economics (WISE)**, Seoul, Korea*
-7. **Park, J.**, Han, K. and Lee, B., 2017. "Energy Efficiency in the Cloud: An Empirical Analysis of Information Technology Outsourcing, Cloud Computing, and Energy Efficiency", ***International Conference on Information Systems (ICIS)**, Seoul, Korea*
-8. Kim, J. and **Park, J.**, 2017. "Does Facial Expression Matter Even Online? An Empirical Analysis of Facial Expression of Emotion and Crowdfunding Success", ***International Conference on Information Systems (ICIS)**, Seoul, Korea*
-9. **Park, J.**, Han, K. and Lee, B., 2017. "Is Cloud Computing Green? An Empirical Analysis of Information Technology Outsourcing and Energy Efficiency", ***INFORMS Conference on Information Systems and Technology (CIST)***, *Huston, Texas, USA* **[Best Student Paper Runner-up]**
+6. **Park, J.**, Kim, J. and Lee, B., 2017. "Face Premium or Discount? The Contingent Effects of Face Disclosure and Facial Expression in Crowdfunding", **Workshop on Information Systems and Economics (WISE), Seoul, Korea*
+7. **Park, J.**, Han, K. and Lee, B., 2017. "Energy Efficiency in the Cloud: An Empirical Analysis of Information Technology Outsourcing, Cloud Computing, and Energy Efficiency", *International Conference on Information Systems (ICIS), Seoul, Korea*
+8. Kim, J. and **Park, J.**, 2017. "Does Facial Expression Matter Even Online? An Empirical Analysis of Facial Expression of Emotion and Crowdfunding Success", *International Conference on Information Systems (ICIS), Seoul, Korea*
+9. **Park, J.**, Han, K. and Lee, B., 2017. "Is Cloud Computing Green? An Empirical Analysis of Information Technology Outsourcing and Energy Efficiency", *INFORMS Conference on Information Systems and Technology (CIST)*, *Huston, Texas, USA* **[Best Student Paper Runner-up]**
 10. Kim, J. and **Park, J.**, 2017. "The Anatomy of Facial Expression in Online Crowdfunding Platform: A Machine Learning Approach", *International Conference on Electronic Commerce (ICEC), Pangyo, Korea*
 11. **Park, J.**, Han, K. and Lee, B., 2016. "Reconciling Economic and Environmental Goals: An Empirical Investigation of Information Technology and Energy Productivity", *Post-ICIS KrAIS Research Workshop, Dublin, Ireland* **[Best Student Paper Award]**
-12. Lee, Y., **Park, J.** and Lee, B., 2016. "Battle of Sharing Economy: The Impact of Ride-Sharing on Taxi Industry", ***Workshop on Information Systems and Economics (WISE)**, Dublin, Ireland*
-13. **Park, J.**, Kim, J. and Lee, B., 2016. "Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation", ***International Conference on Information Systems (ICIS)**, Dublin, Ireland*
-14. Suh, C., **Park, J.**, Kim, J. and Lee, B., 2016. "What is Local Seldom Remains Local: Foreign Chatter and Stock Performance of Multinational Firms", ***International Conference on Information Systems (ICIS)**, Dublin, Ireland*
-15. **Park, J.**, Han, K. and Lee, B., 2016. "Impact of Information Technology on Energy Productivity: An Empirical Investigation", ***INFORMS Conference on Information Systems and Technology (CIST)**, Nashville, Tennessee, USA*
+12. Lee, Y., **Park, J.** and Lee, B., 2016. "Battle of Sharing Economy: The Impact of Ride-Sharing on Taxi Industry", *Workshop on Information Systems and Economics (WISE), Dublin, Ireland*
+13. **Park, J.**, Kim, J. and Lee, B., 2016. "Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation", *International Conference on Information Systems (ICIS), Dublin, Ireland*
+14. Suh, C., **Park, J.**, Kim, J. and Lee, B., 2016. "What is Local Seldom Remains Local: Foreign Chatter and Stock Performance of Multinational Firms", *International Conference on Information Systems (ICIS), Dublin, Ireland*
+15. **Park, J.**, Han, K. and Lee, B., 2016. "Impact of Information Technology on Energy Productivity: An Empirical Investigation", *INFORMS Conference on Information Systems and Technology (CIST), Nashville, Tennessee, USA*
 16. **Park, J.**, Cho, D., Lee, J. and Lee, B., 2016. "The Internet is not Always Malicious: An Empirical Investigation of Socioeconomic Status, Social Capital, and Internet Crime", *The Korea Society of Management Information Systems (KMIS) Fall Conference, Seoul, Korea* **[Best Paper Award]**
 17. **Park, J.**, Kim, J. and Lee, B., 2016. "Are Uber Really to Blame for Sexual Assault? Evidence from New York City", *International Conference on Electronic Commerce (ICEC), Suwon, Korea* **[Best Paper Award]**
 18. **Park, J.** and Lee, B., 2015. "The Distinct Effects of Information Technology and Communication Technology on Inequality: An Empirical Investigation", *Post-ICIS KrAIS Research Workshop, Fort Worth, Texas, USA* **[Best Student Paper Award]**
-19. **Park, J.** and Lee, B., 2015. "The Distinct Effects of Information Technology and Communication Technology on Inequality: An Empirical Analysis from the Knowledge Hierarchy Perspective", ***Workshop on Information Systems and Economics (WISE)**, Dallas, Texas, USA*
-20. **Park, J.** and Lee, B., 2015. "Has Information and Communication Technology Changed the Dynamics of Inequality? An Empirical Study from the Knowledge Hierarchy Perspective", ***International Conference on Information Systems (ICIS)**, Fort Worth, Texas, USA*
+19. **Park, J.** and Lee, B., 2015. "The Distinct Effects of Information Technology and Communication Technology on Inequality: An Empirical Analysis from the Knowledge Hierarchy Perspective", *Workshop on Information Systems and Economics (WISE), Dallas, Texas, USA*
+20. **Park, J.** and Lee, B., 2015. "Has Information and Communication Technology Changed the Dynamics of Inequality? An Empirical Study from the Knowledge Hierarchy Perspective", *International Conference on Information Systems (ICIS), Fort Worth, Texas, USA*
