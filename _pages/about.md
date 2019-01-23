@@ -26,7 +26,7 @@ toc: true
 	* Dean's List
 
 
-## Research and Teaching Interest
+## Research Interest
 * As information technology has permeated all aspects of businesses and the broader society, I am interested in the role of information systems and technology as a primary means to the co-creation of profits, social and environmental benefits and the balance among them. My research interests especially lie at **the intersection between economic value and societal impacts of advanced technology**. My research has been primarily oriented toward three areas:
 	1. Societal Impacts of Information Technology and Machine Learning
 	2. Automation, Productivity, and Future of Work
