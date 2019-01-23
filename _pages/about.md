@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2018-10-08
+last_modified_at: 2019-01-20
 toc: true
 ---
 
@@ -13,7 +13,7 @@ toc: true
 
 * **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (February 2014 - January 2015)
 	* M.S. in *Management Engineering* (Major: Information Systems)
-	* Advisor: Dr. Byungtae Lee
+	* MS-Ph.D. Integrated Degree Program
 
 * **Pohang University of Science and Technology (POSTECH), Pohang, Korea** (March 2008 - February 2014)
 	* B.Eng. in *Industrial and Management Engineering*
@@ -66,8 +66,7 @@ toc: true
 	* International Conference on Electronic Commerce (ICEC)
 
 * Conference/Workshop Committee Member
-	* Student Organizer, Workshop on Information Systems and Economics (WISE) 2017 at Seoul, Korea (Post-ICIS workshop)
-		* Made a [website][4], coordinated registration, and organized student volunteers during the conference
+	* Student Organizer, Workshop on Information Systems and Economics (WISE) [2017][4] at Seoul, Korea (Post-ICIS workshop)
 	* Organizing Committee & Web Coordinator ([website][5]), Bright Internet Global Summit (BIGS) 2018 at San Francisco, USA (Pre-ICIS workshop)
 	* Organizing Committee & Web Coordinator ([website][6]), Bright Internet Global Summit (BIGS) 2017 at Seoul, Korea (Pre-ICIS workshop)
 
