@@ -15,7 +15,7 @@ toc: true
 2. **Park, J.**, Han, K., and Lee, B. “An Empirical Analysis of Cloud Computing and Energy Efficiency: A Stochastic Frontier Approach,” under revision for 2nd round review at *Management Science*
 3. **Park, J.** and Lee, B. "Skill-Biased Intelligence Augmentation: An Empirical Analysis of Information and Communication Technology and Wage Structure," under 1st round review at *Information Systems Research*
 4. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” under 1st round review at *Information Systems Research*
-5. **Park, J.**, Kim, J., Cho, D. and Lee, B. “Pitching with Style: The Role of Entrepreneur’s Video Pitch on Online Crowdfunding,” under 1st round review at *Journal of Management Information Systems*
+5. **Park, J.**, Kim, J., Cho, D. and Lee, B. “Pitching with Style: The Role of Entrepreneur’s Video Pitch on Online Crowdfunding,” under 1st round review at *MIS Quarterly*
 6. **Park, J.**, Cho, D., Lee, J. and Lee, B. “Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” under 2nd round review at *ACM Transaction on Management Information Systems*
 
 ### Manuscripts in preparation for submission
