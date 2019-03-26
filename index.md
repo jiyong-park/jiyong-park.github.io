@@ -21,3 +21,8 @@ In the Introduction of his book entitled “Capital in the Twenty-First Century,
 > “But by patiently searching for facts and patterns and calmly analyzing the economic, social, and political mechanisms that might explain them, it can inform democratic debate and focus attention on the right questions.”
 
 This is what I view as the role social scientists should play.
+
+
+Below is the sustainable development goals set by the United Nations General Assembly.
+
+![](/assets/images/SDGs.jpg)
