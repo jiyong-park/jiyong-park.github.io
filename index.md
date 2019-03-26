@@ -23,6 +23,6 @@ In the Introduction of his book entitled “Capital in the Twenty-First Century,
 This is what I view as the role social scientists should play.
 
 
-Below is the sustainable development goals set by the United Nations General Assembly.
+Below are the sustainable development goals set by the United Nations General Assembly.
 
-![](/assets/images/SDGs.jpg)
+![](/assets/images/SDGs.jpg)(https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
