@@ -25,4 +25,4 @@ This is what I view as the role social scientists should play.
 
 Below are the global goals for sustainable development set by the United Nations.
 
-![](/assets/images/SDG.jpg)
+[![](/assets/images/SDG.jpg)](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
