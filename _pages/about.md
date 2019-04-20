@@ -57,6 +57,7 @@ toc: true
 	* Information Systems Frontiers
 	* Asia Pacific Journal of Information Systems
 	* Information Systems Review
+	* Electronic Commerce Research and Applications
 	* International Conference on Information Systems (ICIS)
 	* INFORMS Conference on Information Systems and Technology (CIST)
 	* Hawaii International Conference on System Sciences (HICSS)
@@ -66,6 +67,7 @@ toc: true
 	* Student Organizer, Workshop on Information Systems and Economics (WISE) [2017][4] at Seoul, Korea (Post-ICIS workshop)
 	* Organizing Committee & Web Coordinator ([website][5]), Bright Internet Global Summit (BIGS) 2018 at San Francisco, USA (Pre-ICIS workshop)
 	* Organizing Committee & Web Coordinator ([website][6]), Bright Internet Global Summit (BIGS) 2017 at Seoul, Korea (Pre-ICIS workshop)
+	* Program Committee, KrAIS Research Workshop 2019 (Post-ICIS workshop)
 
 * Council Member at the University
 	* Student Member of the Curriculum Council at KAIST (June 2018 - Present)

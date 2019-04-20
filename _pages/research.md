@@ -13,22 +13,24 @@ toc: true
 ### Manuscripts under Review
 1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," under 3rd round review at *Information Systems Research*
 2. **Park, J.**, Han, K., and Lee, B. “An Empirical Analysis of Cloud Computing and Energy Efficiency: A Stochastic Frontier Approach,” under revision for 2nd round review at *Management Science*
-3. **Park, J.** and Lee, B. "Skill-Biased Intelligence Augmentation: An Empirical Analysis of Information and Communication Technology and Wage Structure," under 1st round review at *Information Systems Research*
+3. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under 1st round review at *Information Systems Research*
 4. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” under 1st round review at *Information Systems Research*
 5. **Park, J.**, Kim, J., Cho, D. and Lee, B. “Pitching with Style: The Role of Entrepreneur’s Video Pitch on Online Crowdfunding,” under 1st round review at *MIS Quarterly*
 6. **Park, J.**, Cho, D., Lee, J. and Lee, B. “Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” under 2nd round review at *ACM Transaction on Management Information Systems*
 
 ### Manuscripts in preparation for submission
-1. **Park, J.** “Information Technology on the Beat: How Advanced Technology Enhances Policing and Public Safety” in preparation to submit to *MIS Quarterly*
-2. **Park, J.**, Kim, J., and Lee, B. "Co-Evolution of Automation and Nature of Work in the 21st Century," in preparation to submit to *Information & Management*
+1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impact of Body-Worn Camera and Police Technology on Public Safety” in preparation to submit to *Management Science*
+2. **Park, J.**, Kim, J., and Lee, B. "The Evolution of Job Automation in the 21st Century," in preparation to submit to *Management Science*
 
 ### Work-in-Progress
 1. “Transaction Costs and Information Technology Investment” with Kunsoo Han (McGill U.), Byungwan Koh (Korea U.), and Barrie Nault (U. Calgary), in progress of manuscript writing after data analysis
-2. “The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing” with Sungho Eun and Byungtae Lee (KAIST), in progress of manuscript writing after data analysis
+2. “An Empirical Analysis of Information Technology, Industrial Robot, and Employment in US Manufacturing” with Sungho Eun and Byungtae Lee (KAIST), in progress of manuscript writing after data analysis
 3. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation,” in progress of data analysis
 4. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach” with Jongho Kim (KAIST) in progress of manuscript writing after deep learning implementation
 5. “Consumer Reactions to Data Breach: An Empirical Analysis of Individual Mobile Usage Patterns Responding to a Large-Scale Data Breach” with Nakyung Kyung, Byungtae Lee (KAIST) and Juhee Kwon (CityU HK), in progress of manuscript writing
 6. “Converting Supporters into Investors: Evidence from Reward-based and Equity-based Crowdfunding” with Keongtae Kim (CUHK), in progress of data analysis
+7. “Sharing Economy – Tourism’s Friend or Foe? Complementary Impacts of Airbnb and Uber on Tourism Industry” in progress of data analysis
+8. “Externality of Digital Market Efficiency: An Empirical Analysis of Bilateral Reviews in Sharing Economy and Gentrification,” with Young Kwark, Kyung Sung Jung (U. Florida) and Juhee Kwon (CityU HK)
 
 
 
