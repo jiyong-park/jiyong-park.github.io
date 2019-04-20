@@ -6,9 +6,9 @@ toc: true
 ---
 
 ## Education
-* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (February 2014 - August 2019, expected)
+* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (February 2014 - August 2019)
 	* MS-Ph.D. Integrated Degree Program
-	* Ph.D. Candidate (ABD) in *Management Engineering* (Major: Information Systems)
+	* Ph.D. in *Management Engineering* (Major: Information Systems)
 	* Dissertation: “Toward a Sustainable Society in the Digital Economy: Three Essays on the Societal Impacts of Information Systems and Technology”
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
 
