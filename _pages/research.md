@@ -23,13 +23,13 @@ toc: true
 2. **Park, J.**, Kim, J., and Lee, B. "The Evolution of Job Automation in the 21st Century," in preparation to submit to *Management Science*
 
 ### Work-in-Progress
-1. “Transaction Costs and Information Technology Investment” with Kunsoo Han (McGill U.), Byungwan Koh (Korea U.), and Barrie Nault (U. Calgary), in progress of manuscript writing after data analysis
-2. “An Empirical Analysis of Information Technology, Industrial Robot, and Employment in US Manufacturing” with Sungho Eun and Byungtae Lee (KAIST), in progress of manuscript writing after data analysis
-3. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation,” in progress of data analysis
-4. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach” with Jongho Kim (KAIST) in progress of manuscript writing after deep learning implementation
-5. “Consumer Reactions to Data Breach: An Empirical Analysis of Individual Mobile Usage Patterns Responding to a Large-Scale Data Breach” with Nakyung Kyung, Byungtae Lee (KAIST) and Juhee Kwon (CityU HK), in progress of manuscript writing
-6. “Converting Supporters into Investors: Evidence from Reward-based and Equity-based Crowdfunding” with Keongtae Kim (CUHK), in progress of data analysis
-7. “Sharing Economy – Tourism’s Friend or Foe? Complementary Impacts of Airbnb and Uber on Tourism Industry” in progress of data analysis
+1. “Transaction Costs and Information Technology Investment” with Kunsoo Han (McGill U.), Byungwan Koh (Korea U.), and Barrie Nault (U. Calgary)
+2. “An Empirical Analysis of Information Technology, Industrial Robot, and Employment in US Manufacturing” with Sungho Eun and Byungtae Lee (KAIST)
+3. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation”
+4. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach” with Jongho Kim (KAIST)
+5. “Consumer Reactions to Data Breach: An Empirical Analysis of Individual Mobile Usage Patterns Responding to a Large-Scale Data Breach” with Nakyung Kyung, Byungtae Lee (KAIST) and Juhee Kwon (CityU HK)
+6. “Converting Supporters into Investors: Evidence from Reward-based and Equity-based Crowdfunding” with Keongtae Kim (CUHK)
+7. “Sharing Economy – Tourism’s Friend or Foe? Complementary Impacts of Airbnb and Uber on Tourism Industry”
 8. “Externality of Digital Market Efficiency: An Empirical Analysis of Bilateral Reviews in Sharing Economy and Gentrification,” with Young Kwark, Kyung Sung Jung (U. Florida) and Juhee Kwon (CityU HK)
 
 
