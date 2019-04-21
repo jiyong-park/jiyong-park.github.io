@@ -19,7 +19,7 @@ toc: true
 6. **Park, J.**, Cho, D., Lee, J. and Lee, B. “Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” under 2nd round review at *ACM Transaction on Management Information Systems*
 
 ### Manuscripts in preparation for submission
-1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impact of Body-Worn Camera and Police Technology on Public Safety” in preparation to submit to *Management Science*
+1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Police Technology on Public Safety” in preparation to submit to *Management Science*
 2. **Park, J.**, Kim, J., and Lee, B. "The Evolution of Job Automation in the 21st Century," in preparation to submit to *Management Science*
 
 ### Work-in-Progress
