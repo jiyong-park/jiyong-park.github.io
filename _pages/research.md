@@ -19,8 +19,9 @@ toc: true
 6. **Park, J.**, Cho, D., Lee, J. and Lee, B. “Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” under 2nd round review at *ACM Transaction on Management Information Systems*
 
 ### Manuscripts in preparation for submission
-1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Police Technology on Public Safety” in preparation to submit to *Management Science*
+1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety” in preparation to submit to *Management Science*
 2. **Park, J.**, Kim, J., and Lee, B. "The Evolution of Job Automation in the 21st Century," in preparation to submit to *Management Science*
+3. **Park, J.** “How Sharing Economy Changes the Tourism Landscape: Complementary Impacts of Airbnb and Uber” in preparation to submit to *MIS Quarterly*
 
 ### Work-in-Progress
 1. “Transaction Costs and Information Technology Investment” with Kunsoo Han (McGill U.), Byungwan Koh (Korea U.), and Barrie Nault (U. Calgary)
@@ -29,8 +30,7 @@ toc: true
 4. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach” with Jongho Kim (KAIST)
 5. “Consumer Reactions to Data Breach: An Empirical Analysis of Individual Mobile Usage Patterns Responding to a Large-Scale Data Breach” with Nakyung Kyung, Byungtae Lee (KAIST) and Juhee Kwon (CityU HK)
 6. “Converting Supporters into Investors: Evidence from Reward-based and Equity-based Crowdfunding” with Keongtae Kim (CUHK)
-7. “Sharing Economy – Tourism’s Friend or Foe? Complementary Impacts of Airbnb and Uber on Tourism Industry”
-8. “Externality of Digital Market Efficiency: An Empirical Analysis of Bilateral Reviews in Sharing Economy and Gentrification,” with Young Kwark, Kyung Sung Jung (U. Florida) and Juhee Kwon (CityU HK)
+7. “Externality of Digital Market Efficiency: An Empirical Analysis of Bilateral Reviews in Sharing Economy and Gentrification,” with Young Kwark, Kyung Sung Jung (U. Florida) and Juhee Kwon (CityU HK)
 
 
 
