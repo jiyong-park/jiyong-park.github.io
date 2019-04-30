@@ -25,7 +25,7 @@ toc: true
 
 ### Work-in-Progress
 1. “Transaction Costs and Information Technology Investment” with Kunsoo Han (McGill U.), Byungwan Koh (Korea U.), and Barrie Nault (U. Calgary)
-2. “An Empirical Analysis of Information Technology, Industrial Robot, and Employment in US Manufacturing” with Sungho Eun and Byungtae Lee (KAIST)
+2. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing” with Sungho Eun and Byungtae Lee (KAIST)
 3. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation”
 4. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach” with Jongho Kim (KAIST)
 5. “Consumer Reactions to Data Breach: An Empirical Analysis of Individual Mobile Usage Patterns Responding to a Large-Scale Data Breach” with Nakyung Kyung, Byungtae Lee (KAIST) and Juhee Kwon (CityU HK)
