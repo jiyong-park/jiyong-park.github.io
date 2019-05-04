@@ -15,15 +15,15 @@ toc: true
 2. **Park, J.**, Han, K., and Lee, B. “An Empirical Analysis of Cloud Computing and Energy Efficiency: A Stochastic Frontier Approach,” under revision for 2nd round review at *Management Science*
 3. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under 1st round review at *Information Systems Research*
 4. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” under 1st round review at *Information Systems Research*
-5. **Park, J.**, Kim, J., Cho, D. and Lee, B. “Pitching with Style: The Role of Entrepreneur’s Video Pitch on Online Crowdfunding,” under 1st round review at *MIS Quarterly*
-6. **Park, J.**, Cho, D., Lee, J. and Lee, B. “Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” under 2nd round review at *ACM Transaction on Management Information Systems*
+5. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of Entrepreneur’s Video Pitch on Online Crowdfunding,” under 1st round review at *MIS Quarterly*
+6. **Park, J.**, Cho, D., Lee, J., and Lee, B. “Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” under 2nd round review at *ACM Transaction on Management Information Systems*
 
 ### Manuscripts in preparation for submission
 1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
 2. **Park, J.**, Kim, J., and Lee, B. "The Evolution of Job Automation in the 21st Century"
 3. **Park, J.** “How Sharing Economy Changes the Tourism Landscape: Complementary Impacts of Airbnb and Uber”
-4. Eun, S., **Park, J.** and Lee, B. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing”
-5. Kyung, N., **Park, J.**, Kwon, J. and Lee, B. “An Empirical Analysis of Consumer Reactions to a Data Breach in E-Commerce: Evidence from a Large-Scale Natural Experiment”
+4. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing”
+5. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “An Empirical Analysis of Consumer Reactions to a Data Breach in E-Commerce: Evidence from a Large-Scale Natural Experiment”
 
 ### Work-in-Progress
 1. “Transaction Costs and Information Technology Investment” with Kunsoo Han (McGill U.), Byungwan Koh (Korea U.), and Barrie Nault (U. Calgary)
