@@ -12,15 +12,15 @@ toc: true
 	* Dissertation: “Toward a Sustainable Society in the Digital Economy: Three Essays on the Societal Impacts of Information Systems and Technology”
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
 
+* **Hong Kong University of Science and Technology (HKUST), Hong Kong** (February 2013 - May 2013)
+	* Exchange Student at the School of Engineering
+	* Dean's List
+
 * **Pohang University of Science and Technology (POSTECH), Pohang, Korea** (March 2008 - February 2014)
 	* B.S. in *Industrial and Management Engineering*
 	* B.S. in *Mathematics*
 	* Minor in *Computer Science and Engineering*
 	* Graduate with Magna Cum Laude
-
-* **Hong Kong University of Science and Technology (HKUST), Hong Kong** (February 2013 - May 2013)
-	* Exchange Student at the School of Engineering
-	* Dean's List
 
 
 ## Research Interest
