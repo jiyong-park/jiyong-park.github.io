@@ -19,9 +19,9 @@ toc: true
 6. **Park, J.**, Cho, D., Lee, J., and Lee, B. “Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” under 2nd round review at *ACM Transaction on Management Information Systems*
 
 ### Manuscripts in preparation for submission
-1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
-2. **Park, J.**, Kim, J., and Lee, B. "The Evolution of Job Automation in the 21st Century"
-3. **Park, J.** “How Sharing Economy Changes the Tourism Landscape: Complementary Impacts of Airbnb and Uber”
+1. **Park, J.** “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
+2. **Park, J.** “How Sharing Economy Changes the Tourism Landscape: Complementary Impacts of Airbnb and Uber”
+3. **Park, J.**, Kim, J., and Lee, B. "The Evolution of Job Automation in the 21st Century"
 4. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing”
 5. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “An Empirical Analysis of Consumer Reactions to a Data Breach in E-Commerce: Evidence from a Large-Scale Natural Experiment”
 
