@@ -28,10 +28,10 @@ toc: true
 ### Work-in-Progress
 1. “Transaction Costs and Information Technology Investment,” with Kunsoo Han (McGill U.), Byungwan Koh (Korea U.), and Barrie Nault (U. Calgary)
 2. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation”
-3. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach,” with Jongho Kim (KAIST)
-4. “Externality of Digital Market Efficiency: An Empirical Analysis of Bilateral Reviews in Sharing Economy and Gentrification,” with Young Kwark, Kyung Sung Jung (U. Florida) and Juhee Kwon (CityU HK)
-5. “Converting Supporters into Investors: Evidence from Reward-based and Equity-based Crowdfunding,” with Keongtae Kim (CUHK)
-6. “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding,” with Jongho Kim (KAIST) and Jinhyuk Lee (Korea U.)
+3. “Externality of Digital Market Efficiency: An Empirical Analysis of Bilateral Reviews in Sharing Economy and Gentrification,” with Young Kwark, Kyung Sung Jung (U. Florida) and Juhee Kwon (CityU HK)
+4. “Converting Supporters into Investors: Evidence from Reward-based and Equity-based Crowdfunding,” with Keongtae Kim (CUHK)
+5. “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding,” with Jongho Kim (KAIST) and Jinhyuk Lee (Korea U.)
+6. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach,” with Jongho Kim (KAIST)
 7. “Are You Confident in Your Prediction? An Economic Analysis of Predictive Uncertainty and Data Management,” with Byungtae Lee (KAIST)
 8. “Grid Computing and Online Contents Platforms,” with Eric Hyeokkoo Kwon (NTU) and Jungpil Hahn (NUS)
 
