@@ -1,13 +1,12 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2019-01-20
+last_modified_at: 2019-06-06
 toc: true
 ---
 
 ## Education
 * **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (February 2014 - August 2019)
-	* MS-Ph.D. Integrated Degree Program
 	* Ph.D. in *Management Engineering* (Major: Information Systems)
 	* Dissertation: “Toward a Sustainable Society in the Digital Economy: Three Essays on the Societal Impacts of Information Systems and Technology”
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
@@ -64,12 +63,11 @@ toc: true
 	* International Conference on Electronic Commerce (ICEC)
 
 * Conference/Workshop Committee Member
-	* Student Organizer, Workshop on Information Systems and Economics (WISE) [2017][4] at Seoul, Korea (Post-ICIS workshop)
-	* Organizing Committee & Web Coordinator ([website][5]), Bright Internet Global Summit (BIGS) 2018 at San Francisco, USA (Pre-ICIS workshop)
-	* Organizing Committee & Web Coordinator ([website][6]), Bright Internet Global Summit (BIGS) 2017 at Seoul, Korea (Pre-ICIS workshop)
+	* Student Organizer, Workshop on Information Systems and Economics (WISE) [2017][4]
+	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2018][5], [2017][6]
 	* Program Committee, KrAIS Research Workshop 2019 (Post-ICIS workshop)
 
-* Council Member at the University
+* University Service
 	* Student Member of the Curriculum Council at KAIST (June 2018 - Present)
 
 * Membership

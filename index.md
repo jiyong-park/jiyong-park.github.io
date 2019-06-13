@@ -5,10 +5,10 @@ author_profile: true
 
 ![](/assets/images/home-photo.jpg)
 
-# Jiyong Park 
+# Jiyong Park, Ph.D. 
 
 
-I am a PhD Candidate at KAIST College of Business. Given that information technology has permeated all levels of society – individuals, organizations, communities, and nations, I am interested in the role of information systems and technology as a primary means to reconciling economic and business value with social and environmental sustainability. 
+I will be joining the University of North Carolina at Greensboro as an Assistant Professor of Information Systems this upcoming Fall. Given that information technology has permeated all levels of society – individuals, organizations, communities, and nations, I am interested in the role of information systems and technology as a primary means to reconciling economic and business value with social and environmental sustainability. 
 
 Sustainable development consists of the “triple bottom line” — economic, environmental and social dimensions. My research interests especially lie at the intersection between economic and societal aspects of advanced technology. Specifically, my research topics include the following:
 1. Societal Impacts of Information Technology and Machine Learning
