@@ -6,25 +6,37 @@ toc: false
 ---
 
 
+## 2019
+* [Non-Credit] KAIST MIS Summer Session 2019 (Summer, KAIST)
+> **Experimental Empirical Methods**	
+	* Non-credit technical session (57 PhD/MS students enrolled)
+		* Organized, developed, and instructed
+	* [Session website][1]
+
+* [Undergraduate] Decision Support Systems (Spring, Hansung University)
+	* Focusing on Data Analytics with R
+	* Elective for MIS major (Enrollment 28; Evaluation 4.4/5.0)
+
+
 ## 2018
-* KAIST MIS Summer Session 2018 (summer)
+* [Non-Credit] KAIST MIS Summer Session 2018 (Summer, KAIST)
 > **Research Design for Data Analytics**	
 	* Non-credit technical session (57 PhD/MS students enrolled)
 		* Organized, developed, and instructed the technical session covering from econometrics to machine learning
 	* Module 1: (lecture) Research Design for Data Analytics (8 classes, 4 weeks)
 	* Module 2: (hands-on) Causal Inference with STATA (4 classes, 2 weeks)
 	* Module 3: (hands-on) Deep Learning with PyTorch (8 classes, 4 weeks)
-	* [Session website][1] / [GitHub for hands-on codes][2]
-
+	* [Session website][2] / [GitHub for hands-on codes][3]
 
 
 ## 2017
-* KAIST MIS Summer Session 2017 (summer)
+* [Non-Credit] KAIST MIS Summer Session 2017 (Summer, KAIST)
 > **Introduction to Economics of IS and Research Methodology**
 	* Non-credit session (32 PhD/MS students enrolled)
-		* Organized, developed, and instructed the session
-	* [Session website] [3]
+		* Organized, developed, and instructed
+	* [Session website] [4]
 
-[1]: https://sites.google.com/view/kaist-mis-session2018
-[2]: https://github.com/jiyong-park/kaist-summer-session2018
-[3]: https://sites.google.com/view/kaist-mis-session2017
+[1]: https://sites.google.com/view/kaist-mis-session2019
+[2]: https://sites.google.com/view/kaist-mis-session2018
+[3]: https://github.com/jiyong-park/kaist-summer-session2018
+[4]: https://sites.google.com/view/kaist-mis-session2017

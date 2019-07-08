@@ -1,9 +1,14 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2019-06-06
+last_modified_at: 2019-07-06
 toc: true
 ---
+
+## Academic Position
+* **Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG), Greensboro, NC, USA** (August 2019 - )
+	* Assistant Professor of Information Systems (Tenure-Track)
+
 
 ## Education
 * **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (February 2014 - August 2019)
