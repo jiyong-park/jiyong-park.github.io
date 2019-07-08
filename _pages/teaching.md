@@ -8,13 +8,13 @@ toc: false
 
 ## 2019
 * [Non-Credit] MIS Summer Session 2019: Experimental Empirical Methods (Summer, KAIST)
-	* Non-credit technical session (57 PhD/MS students enrolled)
+	* Non-credit technical session
 		* Organized, developed, and instructed
 	* [Session website][1]
 
 * [Undergraduate] Decision Support Systems (Spring, Hansung University)
 	* Focusing on Data Analytics with R
-	* Elective for MIS major (Enrollment 28; Evaluation 4.4/5.0)
+	* Elective for the MIS concentration (Enrollment 28)
 
 
 ## 2018
