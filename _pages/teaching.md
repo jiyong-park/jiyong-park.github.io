@@ -1,15 +1,14 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-last_modified_at: 2018-10-08
+last_modified_at: 2019-07-07
 toc: false
 ---
 
 
 ## 2019
-* [Non-Credit] KAIST MIS Summer Session 2019 (Summer, KAIST)
-> **Experimental Empirical Methods**	
-	* Non-credit technical session (57 PhD/MS students enrolled)
+* [Non-Credit] MIS Summer Session 2019: Experimental Empirical Methods (Summer, KAIST)
+>	* Non-credit technical session (57 PhD/MS students enrolled)
 		* Organized, developed, and instructed
 	* [Session website][1]
 
@@ -19,8 +18,8 @@ toc: false
 
 
 ## 2018
-* [Non-Credit] KAIST MIS Summer Session 2018 (Summer, KAIST)
-> **Research Design for Data Analytics**	
+* [Non-Credit] MIS Summer Session 2018: Research Design for Data Analytics (Summer, KAIST)
+
 	* Non-credit technical session (57 PhD/MS students enrolled)
 		* Organized, developed, and instructed the technical session covering from econometrics to machine learning
 	* Module 1: (lecture) Research Design for Data Analytics (8 classes, 4 weeks)
@@ -30,8 +29,7 @@ toc: false
 
 
 ## 2017
-* [Non-Credit] KAIST MIS Summer Session 2017 (Summer, KAIST)
-> **Introduction to Economics of IS and Research Methodology**
+* [Non-Credit] MIS Summer Session 2017: Introduction to Economics of IS and Research Methodology (Summer, KAIST)
 	* Non-credit session (32 PhD/MS students enrolled)
 		* Organized, developed, and instructed
 	* [Session website] [4]
