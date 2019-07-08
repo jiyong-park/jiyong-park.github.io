@@ -8,7 +8,7 @@ toc: false
 
 ## 2019
 * [Non-Credit] MIS Summer Session 2019: Experimental Empirical Methods (Summer, KAIST)
->	* Non-credit technical session (57 PhD/MS students enrolled)
+	* Non-credit technical session (57 PhD/MS students enrolled)
 		* Organized, developed, and instructed
 	* [Session website][1]
 
@@ -19,7 +19,6 @@ toc: false
 
 ## 2018
 * [Non-Credit] MIS Summer Session 2018: Research Design for Data Analytics (Summer, KAIST)
-
 	* Non-credit technical session (57 PhD/MS students enrolled)
 		* Organized, developed, and instructed the technical session covering from econometrics to machine learning
 	* Module 1: (lecture) Research Design for Data Analytics (8 classes, 4 weeks)
