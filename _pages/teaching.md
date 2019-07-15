@@ -7,18 +7,18 @@ toc: false
 
 
 ## 2019
-* **[Non-Credit]** MIS Summer Session 2019: Experimental Empirical Methods (Summer, KAIST)
-	* Non-credit technical session
+* **[Non-Credit]** MIS Summer Session 2019 - Experimental Empirical Methods (Summer, KAIST)
+	* Non-credit session (28 PhD/MS students enrolled)
 		* Organized, developed, and instructed
 	* [Session website][1]
 
 * **[Undergraduate]** Decision Support Systems (Spring, Hansung University)
 	* Focusing on Data Analytics with R
-	* Elective for the MIS concentration (Enrollment 28)
+	* Elective for the MIS concentration (Enrollment 28; Evaluation 4.76/5.0)
 
 
 ## 2018
-* **[Non-Credit]** MIS Summer Session 2018: Research Design for Data Analytics (Summer, KAIST)
+* **[Non-Credit]** MIS Summer Session 2018 - Research Design for Data Analytics (Summer, KAIST)
 	* Non-credit technical session (57 PhD/MS students enrolled)
 		* Organized, developed, and instructed the technical session covering from econometrics to machine learning
 	* Module 1: (lecture) Research Design for Data Analytics (8 classes, 4 weeks)
@@ -28,7 +28,7 @@ toc: false
 
 
 ## 2017
-* **[Non-Credit]** MIS Summer Session 2017: Introduction to Economics of IS and Research Methodology (Summer, KAIST)
+* **[Non-Credit]** MIS Summer Session 2017 - Introduction to Economics of IS and Research Methodology (Summer, KAIST)
 	* Non-credit session (32 PhD/MS students enrolled)
 		* Organized, developed, and instructed
 	* [Session website] [4]
