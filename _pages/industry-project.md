@@ -14,7 +14,7 @@ toc: false
 * An Exploratory Study of 4th Industrial Revolution and Labor Markets, *KAIST* (July 2017 - November 2017)
 	* Serve as the Project Manager
 * Research for Bright Internet (ICT-enabled Bright Society; Bright ICT), *Institute for Information & Communications Technology Promotion (IITP) & KAIST EEWS* (January 2017 – December 2017) 
-	* Website Coordinator of http://brightinternet.org
+	* Website Coordinator of [http://brightinternet.org][1]
 
 ## 2016
 * Strategies for Online to Offline (O2O) Transport Services, *Korea Transport Institute* (September 2016 - November 2016)
@@ -28,3 +28,5 @@ toc: false
 
 ## 2014
 * Cash Management Systems in Private Companies, *Korea Institute of Public Finance* (August 2014 - November 2014)
+
+[1]: http://brightinternet.org/
