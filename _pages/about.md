@@ -42,7 +42,7 @@ toc: true
 
 
 ## Honors and Awards
-* Best Student Paper Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
+* [Best Student Paper Runner-Up][8], INFORMS Conference on Information Systems and Technology (CIST), 2017
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2017
 * Honorable Mention Research Award, KAIST Graduate School of Green Growth, 2017
 * Best Paper Runner-up, Post-ICIS KrAIS Research Workshop, 2016
@@ -87,3 +87,4 @@ toc: true
 [5]: http://brightinternet.org/bigs2018/
 [6]: https://bigsconf2017.wixsite.com/bigs2017
 [7]: http://brightinternet.org/bics2018/
+[8]: https://www.informs.org/ORMS-Today/Public-Articles/February-Volume-45-Number-1/INFORMS-News-2017-INFORMS-Subdivision-Awards
