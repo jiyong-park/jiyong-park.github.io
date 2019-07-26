@@ -12,7 +12,7 @@ toc: false
 	* Required for BA concentration of MS in Information Technology and Management
 
 * **[Non-Credit]** MIS Summer Session 2019 - Experimental Empirical Methods (Summer, KAIST, Korea)
-	* Non-credit session for PhD/MS students (Enrollment 30)
+	* Non-credit session for PhD/MS students (Enrollment 29)
 		* Organized, developed, and instructed
 	* [Session website][1]
 
