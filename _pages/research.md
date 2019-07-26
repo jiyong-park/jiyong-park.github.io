@@ -1,39 +1,40 @@
 ---
 permalink: /research/
 title: "Research"
-last_modified_at: 2019-04-21
+last_modified_at: 2019-07-15
 toc: true
 ---
 
 
 ## Publications
-
+1. **Park, J.**, Cho, D., Lee, J., and Lee, B. “Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” accepted for publication at *ACM Transaction on Management Information Systems*
 
 ## Working Papers
 ### Manuscripts under Review
-1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," under revision for 4th round review at *Information Systems Research*
+1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," under 4th round review at *Information Systems Research*
 2. **Park, J.**, Han, K., and Lee, B. “An Empirical Analysis of Cloud Computing and Energy Efficiency: A Stochastic Frontier Approach,” under revision for 2nd round review at *Management Science*
-3. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under 1st round review at *Information Systems Research*
-4. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” under 1st round review at *Information Systems Research*
-5. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding,” under 1st round review at *MIS Quarterly*
-6. **Park, J.**, Cho, D., Lee, J., and Lee, B. “Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” under 2nd round review at *ACM Transaction on Management Information Systems*
+3. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” under 1st round review at *Information Systems Research*
+4. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding,” under 1st round review at *MIS Quarterly*
+
 
 ### Manuscripts in preparation for submission
-1. **Park, J.** “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
+1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
 2. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber”
-3. **Park, J.**, Kim, J., and Lee, B. "The Evolution of Job Automation in the 21st Century"
-4. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing”
-5. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “An Empirical Analysis of Consumer Reactions to a Data Breach in E-Commerce: Evidence from a Large-Scale Natural Experiment”
+3. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty"
+4. **Park, J.**, Kim, J., and Lee, B. "The Evolution of Job Automation in the 21st Century"
+5. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment”
+6. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing”
+7. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “An Empirical Analysis of Consumer Reactions to a Data Breach in E-Commerce: Evidence from a Large-Scale Natural Experiment”
+
 
 ### Work-in-Progress
-1. “Transaction Costs and Information Technology Investment,” with Kunsoo Han (McGill U.), Byungwan Koh (Korea U.), and Barrie Nault (U. Calgary)
-2. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation”
-3. “Externality of Digital Market Efficiency: An Empirical Analysis of Bilateral Reviews in Sharing Economy and Gentrification,” with Young Kwark, Kyung Sung Jung (U. Florida) and Juhee Kwon (CityU HK)
-4. “Converting Supporters into Investors: Evidence from Reward-based and Equity-based Crowdfunding,” with Keongtae Kim (CUHK)
-5. “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding,” with Jongho Kim (KAIST) and Jinhyuk Lee (Korea U.)
-6. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach,” with Jongho Kim (KAIST)
-7. “Are You Confident in Your Prediction? An Economic Analysis of Predictive Uncertainty and the Management of Machine Learning Models,” with Byungtae Lee (KAIST)
-8. “Grid Computing and Online Contents Platforms,” with Eric Hyeokkoo Kwon (NTU) and Jungpil Hahn (NUS)
+1. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation”
+2. “Externality of Digital Market Efficiency: An Empirical Analysis of Bilateral Reviews in Sharing Economy and Gentrification,” with Young Kwark, Kyung Sung Jung (U. Florida) and Juhee Kwon (CityU HK)
+3. “Converting Supporters into Investors: Evidence from Reward-based and Equity-based Crowdfunding,” with Keongtae Kim (CUHK)
+4. “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding,” with Jongho Kim (KAIST) and Jinhyuk Lee (Korea U.)
+5. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach,” with Jongho Kim (KAIST)
+6. “Are You Confident in Your Prediction? An Economic Analysis of Predictive Uncertainty and the Management of Machine Learning Models,” with Byungtae Lee (KAIST)
+7. “Grid Computing and Online Contents Platforms,” with Eric Hyeokkoo Kwon (NTU) and Jungpil Hahn (NUS)
 
 
 

@@ -7,14 +7,18 @@ toc: false
 
 
 ## 2019
+* **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
+	* Focusing on Data Analytics with R
+	* Required for BA concentration of MS in Information Technology and Management
+
 * **[Non-Credit]** MIS Summer Session 2019 - Experimental Empirical Methods (Summer, KAIST, Korea)
 	* Non-credit session for PhD/MS students (Enrollment 30)
 		* Organized, developed, and instructed
 	* [Session website][1]
 
-* **[Undergraduate]** Decision Support Systems (Spring, Hansung University, Korea)
+* **[Undergraduate]** MGT0044: Decision Support Systems (Spring, Hansung University, Korea)
 	* Focusing on Data Analytics with R
-	* Elective for the MIS concentration (Enrollment 28; Evaluation 4.76/5.0)
+	* Elective for MIS concentration (Enrollment 28; Evaluation 4.76/5.0)
 
 
 ## 2018
