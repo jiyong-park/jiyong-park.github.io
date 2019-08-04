@@ -40,7 +40,7 @@ toc: true
 
 ## Conference Presentations
 1. **Park, J.** and Kim, J., 2018. "Fixing Racial Discrimination through Analytics on Online Platforms: A Neural Machine Translation Approach", *International Conference on Information Systems (ICIS), San Francisco, California, USA*
-2.	Eun, S., **Park, J.** and Lee, B., 2018. " The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing", *Workshop on Information Systems and Economics (WISE), San Francisco, California, USA*
+2.	Eun, S., **Park, J.** and Lee, B., 2018. "The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing", *Workshop on Information Systems and Economics (WISE), San Francisco, California, USA*
 3. **Park, J.** and Kim, J., 2018. " Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach", *INFORMS Conference on Information Systems and Technology (CIST), Phoenix, Arizona, USA*
 4. Lee, Y., **Park, J.** and Lee, B., 2018. "Battle of Sharing Economy: The Contingent Effects of Ride-Sharing on Taxi Industry", *Hawaii International Conference on System Sciences (HICSS), Hawaii, USA*
 5. **Park, J.**, Kim, J. and Lee, B., 2017. "Are All Faces Created Equal? An Empirical Analysis of Face Disclosure and Facial Expression in Crowdfunding", *Post-ICIS KrAIS Research Workshop, Seoul, Korea* **[Best Student Paper Award]**
