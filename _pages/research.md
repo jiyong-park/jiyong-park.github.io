@@ -21,7 +21,7 @@ toc: true
 1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
 2. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber”
 3. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty"
-4. **Park, J.**, Kim, J., and Lee, B. "The Evolution of Job Automation in the 21st Century"
+4. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine"
 5. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment”
 6. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing”
 7. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “An Empirical Analysis of Consumer Reactions to a Data Breach in E-Commerce: Evidence from a Large-Scale Natural Experiment”
@@ -34,7 +34,7 @@ toc: true
 4. “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding,” with Jongho Kim (KAIST) and Jinhyuk Lee (Korea U.)
 5. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach,” with Jongho Kim (KAIST)
 6. “Are You Confident in Your Prediction? An Economic Analysis of Predictive Uncertainty and the Management of Machine Learning Models,” with Byungtae Lee (KAIST)
-7. “Grid Computing and Online Contents Platforms,” with Eric Hyeokkoo Kwon (NTU) and Jungpil Hahn (NUS)
+7. “Grid Computing and Online Contents Platforms,” with Jungpil Hahn (NUS) and Eric Hyeokkoo Kwon (NTU) 
 
 
 
