@@ -4,7 +4,7 @@ title: "Research"
 last_modified_at: 2019-07-15
 toc: true
 ---
-
+![](/assets/images/you_are_here.jpg)
 
 ## Publications
 1. **Park, J.**, Cho, D., Lee, J., and Lee, B. “Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” accepted for publication at *ACM Transaction on Management Information Systems*
