@@ -21,8 +21,3 @@ In the Introduction of his book entitled “Capital in the Twenty-First Century,
 > “Social scientific research is and always will be tentative and imperfect ... But by patiently searching for facts and patterns and calmly analyzing the economic, social, and political mechanisms that might explain them, it can inform democratic debate and focus attention on the right questions.”
 
 This is what I view as the role social scientists should play.
-
-
-Below are the global goals for sustainable development set by the United Nations.
-
-[![](/assets/images/SDG.jpg)](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
