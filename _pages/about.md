@@ -58,14 +58,15 @@ toc: true
 
 ## Academic and Internal Services
 * Ad Hoc Reviewers
+	* Information Systems Research
 	* Information Systems Frontiers
+	* Electronic Commerce Research and Applications
 	* Asia Pacific Journal of Information Systems
 	* Information Systems Review
-	* Electronic Commerce Research and Applications
-	* International Conference on Information Systems (ICIS)
-	* INFORMS Conference on Information Systems and Technology (CIST)
-	* Hawaii International Conference on System Sciences (HICSS)
-	* International Conference on Electronic Commerce (ICEC)
+	* International Conference on Information Systems
+	* INFORMS Conference on Information Systems and Technology
+	* Hawaii International Conference on System Sciences
+	* International Conference on Electronic Commerce
 
 * Conference/Workshop Committee Member
 	* Student Organizer, Workshop on Information Systems and Economics (WISE) [2017][4]
