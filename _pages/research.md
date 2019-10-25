@@ -7,7 +7,7 @@ toc: true
 ![](/assets/images/you_are_here.jpg)
 
 ## Research Interest
-* My research interests lie at the intersection between economic value and societal impacts of advanced technology. My research has been primarily oriented toward three areas:
+* My research interests lie at the intersection between economic value and societal impacts of information systems and technology. My research has been primarily oriented toward three areas:
 	1. Societal Impacts of Information Technology and Machine Learning
 	2. Automation, Productivity, and Future of Work
 	3. Information Technology for Environmental Sustainability
