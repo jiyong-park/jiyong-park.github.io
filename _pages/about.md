@@ -39,7 +39,7 @@ toc: true
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2015
 * Dean's List, KAIST College of Business, 2014
 * Honorable Mention Work-in-Progress Award, Graduate School of Green Growth, KAIST, 2014
-* Ph.D. Fellowship, College of Business, KAIST, 2014 – Present
+* Ph.D. Fellowship, College of Business, KAIST, 2014 – 2018
 
 
 ## Academic and Internal Services
@@ -63,7 +63,7 @@ toc: true
 	* Organizing Committee & Web Coordinator, Bright Internet Global Summit [2019][7], [2018][6], [2017][5]
 
 * Internal Services
-	* Student Member of the Curriculum Council at KAIST (June 2018 - June 2019)
+	* Student Member of the Curriculum Council at KAIST (2018 - 2019)
 
 * Membership
 	* Association for Information Systems (AIS)
