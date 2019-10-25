@@ -27,20 +27,6 @@ toc: true
 	* Graduate with Magna Cum Laude
 
 
-## Research Interest
-* As information technology has permeated all aspects of businesses and the broader society, I am interested in the role of information systems and technology as a primary means to the co-creation of profits, social and environmental benefits and the balance among them. My research interests especially lie at **the intersection between economic value and societal impacts of advanced technology**. My research has been primarily oriented toward three areas:
-	1. Societal Impacts of Information Technology and Machine Learning
-	2. Automation, Productivity, and Future of Work
-	3. Information Technology for Environmental Sustainability
-* Methodologically, I am well-trained in **Econometrics** (including randomized experiments, quasi-experiments, instrument variable approach), as well as **Data Analytics** (including machine learning, natural language processing). Recently, I am particularly interested in integrating applied econometrics, data analytics, and machine learning into a single framework.
-
-## Technical Skills
-* Programming Language
-	* Python, Deep Learning Framework (PyTorch, TensorFlow), Java, C++, C, Mathematica, ArcGIS
-* Statistical Software and Database
-	* STATA, R, SAS, SQL, Big Data Framework (Hadoop, Hive, Spark)
-
-
 ## Honors and Awards
 * [Best Student Paper Runner-Up][8], INFORMS Conference on Information Systems and Technology (CIST), 2017
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2017
@@ -63,18 +49,21 @@ toc: true
 	* Electronic Commerce Research and Applications
 	* Asia Pacific Journal of Information Systems
 	* Information Systems Review
-	* International Conference on Information Systems
-	* INFORMS Conference on Information Systems and Technology
-	* Hawaii International Conference on System Sciences
-	* International Conference on Electronic Commerce
+	* International Conference on Information Systems (ICIS)
+	* INFORMS Conference on Information Systems and Technology (CIST)
+	* Hawaii International Conference on System Sciences (HICSS)
+	* International Conference on Electronic Commerce (ICEC)
 
-* Conference/Workshop Committee Member
-	* Student Organizer, Workshop on Information Systems and Economics (WISE) [2017][4]
-	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2018][5], [2017][6]
+* Conference Services
+	* Co-Chair, Mini-Track of Americas Conference on Information Systems (AMCIS) 2020
+	* Associate Editor, International Conference on Information Systems (ICIS) 2020
+	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020
 	* Program Committee, KrAIS Research Workshop 2019 (Post-ICIS workshop)
+	* Student Organizer & Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
+	* Organizing Committee & Web Coordinator, Bright Internet Global Summit [2019][7], [2018][6], [2017][5]
 
-* University Service
-	* Student Member of the Curriculum Council at KAIST (June 2018 - Present)
+* Internal Services
+	* Student Member of the Curriculum Council at KAIST (June 2018 - June 2019)
 
 * Membership
 	* Association for Information Systems (AIS)
@@ -82,10 +71,17 @@ toc: true
 	* Korea Society of Management Information Systems (KMIS)
 
 
+## Technical Skills
+* Programming Language
+	* Python, Deep Learning Framework (PyTorch, TensorFlow), Java, C++, C, Mathematica, ArcGIS
+* Statistical Software and Database
+	* R, STATA, SAS, SQL, Big Data Framework (Hadoop, Hive, Spark)
+
+
 [1]: https://www.business.kaist.edu/
 [2]: http://postech.edu/eng/
 [4]: https://wiseconf2017.wixsite.com/wise
-[5]: http://brightinternet.org/bigs2018/
-[6]: https://bigsconf2017.wixsite.com/bigs2017
-[7]: http://brightinternet.org/bics2018/
+[5]: https://bigsconf2017.wixsite.com/bigs2017
+[6]: http://brightinternet.org/bigs2018/
+[7]: http://brightinternet.org/bigs2019/
 [8]: https://www.informs.org/ORMS-Today/Public-Articles/February-Volume-45-Number-1/INFORMS-News-2017-INFORMS-Subdivision-Awards

@@ -5,11 +5,13 @@ last_modified_at: 2019-07-15
 toc: false
 ---
 
+## 2020
+* **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
+
 
 ## 2019
 * **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
 	* Focusing on Data Analytics with R
-	* Required for BA concentration of MS in Information Technology and Management
 
 * **[Non-Credit]** MIS Summer Session 2019 - Experimental Empirical Methods (Summer, KAIST, Korea)
 	* Non-credit session for PhD/MS students (Enrollment 29)
@@ -18,7 +20,7 @@ toc: false
 
 * **[Undergraduate]** MGT0044: Decision Support Systems (Spring, Hansung University, Korea)
 	* Focusing on Data Analytics with R
-	* Elective for MIS concentration (Enrollment 28; Evaluation 4.76/5.0)
+	* Enrollment 28; Evaluation 4.76/5.0
 
 
 ## 2018

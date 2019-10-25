@@ -10,7 +10,7 @@ author_profile: true
 
 I am an Assistant Professor of Information Systems in the Bryan School of Business and Economics, the University of North Carolina at Greensboro (UNCG).
 
-Given that information technology has permeated all levels of society – individuals, organizations, communities, and nations, I am interested in the role of information systems and technology as a primary means to reconciling economic and business value with social and environmental sustainability. 
+Given that information technology has permeated all levels of society – individuals, organizations, communities, and nations, the role of information systems and technology as a primary means to the co-creation of profits, social and environmental benefits and the balance among them.
 
 Sustainable development consists of the “triple bottom line” — economic, environmental and social dimensions. My research interests especially lie at the intersection between economic and societal aspects of advanced technology. Specifically, my research topics include the following:
 1. Societal Impacts of Information Technology and Machine Learning
