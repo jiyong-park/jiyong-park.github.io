@@ -55,7 +55,7 @@ toc: true
 	* International Conference on Electronic Commerce (ICEC)
 
 * Conference Services
-	* Co-Chair, Mini-Track of Americas Conference on Information Systems (AMCIS) 2020
+	* Minitrack Co-Chair, Americas Conference on Information Systems (AMCIS) 2020
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020
 	* Program Committee, KrAIS Research Workshop 2019 (Post-ICIS workshop)
