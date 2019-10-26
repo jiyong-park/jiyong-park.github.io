@@ -6,7 +6,7 @@ toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
-![](/assets/images/you_are_here.jpg){: .align-left .width-half}
+![](/assets/images/you_are_here.jpg){: .width-half}
 
 ## Research Interest
 * My research interests lie at the intersection between economic value and societal impacts of information systems and technology. My research has been primarily oriented toward three areas:
