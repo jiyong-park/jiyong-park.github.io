@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-last_modified_at: 2019-07-15
+last_modified_at: 2019-10-25
 toc: true
 ---
 ![](/assets/images/you_are_here.jpg)
