@@ -7,7 +7,7 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 
-[![test](/assets/images/you_are_here2.jpg){: .align-right .width-half}](https://mostlyharmlesseconometrics.com)
+[![title: "test"](/assets/images/you_are_here2.jpg){title: "test"}{: .align-right .width-half}](https://mostlyharmlesseconometrics)
 
 
 
