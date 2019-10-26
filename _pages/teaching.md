@@ -2,7 +2,7 @@
 permalink: /teaching/
 title: "Teaching"
 last_modified_at: 2019-10-25
-toc: false
+toc: true
 ---
 
 ## 2020
