@@ -3,6 +3,8 @@ permalink: /research/
 title: "Research"
 last_modified_at: 2019-10-25
 toc: true
+toc_label: " Table of Contents"
+toc_icon: "bookmark"
 ---
 ![](/assets/images/you_are_here.jpg)
 

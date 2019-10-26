@@ -3,6 +3,8 @@ permalink: /industry-project/
 title: "Industry Project"
 last_modified_at: 2018-10-08
 toc: true
+toc_label: " Table of Contents"
+toc_icon: "bookmark"
 ---
 
 

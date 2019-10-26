@@ -3,6 +3,8 @@ permalink: /about/
 title: "About Me"
 last_modified_at: 2019-10-25
 toc: true
+toc_label: " Table of Contents"
+toc_icon: "bookmark"
 ---
 
 ## Academic Position
