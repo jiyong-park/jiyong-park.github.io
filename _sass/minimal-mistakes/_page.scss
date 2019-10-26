@@ -19,6 +19,11 @@
   }
 }
 
+.width-half {
+    width: 75%
+}
+
+
 .page {
   @include breakpoint($large) {
     float: right;

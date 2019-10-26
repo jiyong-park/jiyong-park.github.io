@@ -7,10 +7,6 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 
-.width-half {
-    width: 75%
-}
-
 ![](/assets/images/you_are_here.jpg){: .width-half}
 
 ## Research Interest
