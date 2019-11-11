@@ -25,7 +25,7 @@ toc_icon: "bookmark"
 ## Working Papers
 ### Manuscripts under Review
 1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," under 4th round review at *Information Systems Research*
-2. **Park, J.**, Han, K., and Lee, B. “An Empirical Analysis of Cloud Computing and Energy Efficiency: A Stochastic Frontier Approach,” under revision for 2nd round review at *Management Science*
+2. **Park, J.**, Han, K., and Lee, B. “Energy Efficiency in the Cloud: An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 2nd round review at *Management Science*
 3. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” under revision for 2nd round review at *Information Systems Research*
 4. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding,” under revision for 2nd round review at *MIS Quarterly*
 
