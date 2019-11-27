@@ -25,21 +25,21 @@ toc_icon: "bookmark"
 ## Working Papers
 ### Manuscripts under Review
 1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," under 4th round review at *Information Systems Research*
-2. **Park, J.**, Han, K., and Lee, B. “Brown or Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 2nd round review at *Management Science*
+2. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 2nd round review at *Management Science*
 3. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” under revision for 2nd round review at *Information Systems Research*
 4. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding,” under revision for 2nd round review at *MIS Quarterly*
-
+5. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under review at *Organization Science*
+6. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine," under review at *Science Advances*
+	- [Job Automation Index System][http://jobautomation.pythonanywhere.com/]
 
 
 ### Manuscripts in preparation for submission
 1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
 2. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber”
-3. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty"
-4. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine"
-5. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment”
-6. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing”
-7. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “An Empirical Analysis of Consumer Reactions to a Data Breach in E-Commerce: Evidence from a Large-Scale Natural Experiment”
-8. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
+3. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment”
+4. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing”
+5. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “An Empirical Analysis of Consumer Reactions to a Data Breach in E-Commerce: Evidence from a Large-Scale Natural Experiment”
+6. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
 
 
 ### Work-in-Progress
