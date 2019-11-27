@@ -30,7 +30,7 @@ toc_icon: "bookmark"
 4. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding,” under revision for 2nd round review at *MIS Quarterly*
 5. **Park, J.** and Lee, B. "An Empirical Analysis of Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under review at *Organization Science*
 6. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine," under review at *Science Advances*
-	- [Job Automation Index System][http://jobautomation.pythonanywhere.com/]
+	* [Job Automation Index System][http://jobautomation.pythonanywhere.com/]
 
 
 ### Manuscripts in preparation for submission
