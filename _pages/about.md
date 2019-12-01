@@ -63,7 +63,7 @@ toc_icon: "bookmark"
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020
 	* Program Committee, KrAIS Research Workshop 2019 (Post-ICIS workshop)
 	* Student Organizer & Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
-	* Organizing Committee & Web Coordinator, Bright Internet Global Summit [2019][7], [2018][6], [2017][5]
+	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2019][7], [2018][6], [2017][5]
 
 * Internal Services
 	* Student Member of the Curriculum Council at KAIST (2018 - 2019)
