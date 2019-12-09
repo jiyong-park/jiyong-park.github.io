@@ -29,10 +29,7 @@ toc_icon: "bookmark"
 3. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” under revision for 2nd round review at *Information Systems Research*
 4. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding,” under revision for 2nd round review at *MIS Quarterly*
 5. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: Theory and Evidence from U.S. Manufacturing Industries," under review at *Organization Science*
-6. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine," under review at *Science Advances*
-	* [Job Automation Index System][1]
 
-[1]: http://jobautomation.pythonanywhere.com/
 
 ### Manuscripts in preparation for submission
 1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
@@ -41,6 +38,10 @@ toc_icon: "bookmark"
 4. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing”
 5. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “An Empirical Analysis of Consumer Reactions to a Data Breach in E-Commerce: Evidence from a Large-Scale Natural Experiment”
 6. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
+7. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine"
+	* [Job Automation Index System][1]
+
+[1]: http://jobautomationindex.com/
 
 
 ### Work-in-Progress
