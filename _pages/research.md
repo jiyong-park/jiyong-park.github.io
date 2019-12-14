@@ -35,13 +35,14 @@ toc_icon: "bookmark"
 1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
 2. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber”
 3. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment”
-4. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing”
-5. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “An Empirical Analysis of Consumer Reactions to a Data Breach in E-Commerce: Evidence from a Large-Scale Natural Experiment”
-6. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
-7. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine"
+4. Gong, F., Cao, Y., and **Park, J.** "The Impact of IT Investment and IT Spillovers on Technical Inefficiency: Evidence from Industry"
+5. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Information Technology, Industrial Robot, and Employment in US Manufacturing”
+6. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “An Empirical Analysis of Consumer Reactions to a Data Breach in E-Commerce: Evidence from a Large-Scale Natural Experiment”
+7. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
+8. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine"
 	* [Job Automation Index System][1]
 
-[1]: http://jobautomationindex.com/
+[1]: http://www.jobautomationindex.com/
 
 
 ### Work-in-Progress
