@@ -10,7 +10,7 @@ toc_icon: "bookmark"
 ## Academic Position
 * **Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG), Greensboro, NC, USA** (September 2019 - Present)
 	* Assistant Professor of Information Systems (Tenure-Track)
-	* Affiliated with Informatics and Analytics Program in UNCG
+	* Affiliated with Informatics and Analytics MS Program of UNCG
 
 
 ## Education
@@ -53,6 +53,8 @@ toc_icon: "bookmark"
 	* Asia Pacific Journal of Information Systems
 	* Information Systems Review
 	* International Conference on Information Systems (ICIS)
+	* Pacific Asia Conference on Information Systems (PACIS)
+	* European Conference on Information Systems (ECIS)
 	* INFORMS Conference on Information Systems and Technology (CIST)
 	* Hawaii International Conference on System Sciences (HICSS)
 	* International Conference on Electronic Commerce (ICEC)
