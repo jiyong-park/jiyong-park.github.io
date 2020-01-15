@@ -14,6 +14,8 @@ toc_icon: "bookmark"
 ## 2019
 * **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
 	* Focusing on Data Analytics with R
+	* Face-to-Face Section: Enrollment 53; Evaluation 4.42/5.0
+	* Online Section: Enrollment 56; Evaluation 3.97/5.0
 
 * **[Non-Credit]** MIS Summer Session 2019 - Experimental Empirical Methods (Summer, KAIST, Korea)
 	* Non-credit session for PhD/MS students (Enrollment 29)
