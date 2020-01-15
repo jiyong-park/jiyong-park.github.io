@@ -59,7 +59,7 @@ toc_icon: "bookmark"
 
 ## Conference Presentations
 1. **Park, J.** and Kim, J., 2019. "Evolution of Task Automation in the 21st Century: A Data-Driven Exploration of the Race between Man and Machine", *International Conference on Information Systems (ICIS), Munich, Germany*
-2. Kyung, N., Kwon, J., **Park, J.** and Lee, B., 2019. "How does a data Breach Impact Online Consumer Behavior", *INFORMS Conference on Information Systems and Technology (CIST), Seattle, Wasington, USA*
+2. Kyung, N., Kwon, J., **Park, J.** and Lee, B., 2019. "How does a data Breach Impact Online Consumer Behavior", *INFORMS Conference on Information Systems and Technology (CIST), Seattle, Washington, USA*
 3. **Park, J.** and Kim, J., 2018. "Fixing Racial Discrimination through Analytics on Online Platforms: A Neural Machine Translation Approach", *International Conference on Information Systems (ICIS), San Francisco, California, USA*
 4.	Eun, S., **Park, J.** and Lee, B., 2018. "The End of Job Polarization? Information Technology, Industrial Robot, and Employment in US Manufacturing", *Workshop on Information Systems and Economics (WISE), San Francisco, California, USA*
 5. **Park, J.** and Kim, J., 2018. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach", *INFORMS Conference on Information Systems and Technology (CIST), Phoenix, Arizona, USA*
