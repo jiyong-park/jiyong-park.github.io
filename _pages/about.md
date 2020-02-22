@@ -31,7 +31,7 @@ toc_icon: "bookmark"
 
 
 ## Honors and Awards
-* [Best Student Paper Runner-Up][8], INFORMS Conference on Information Systems and Technology (CIST), 2017
+* Best Student Paper Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2017
 * Honorable Mention Research Award, KAIST Graduate School of Green Growth, 2017
 * Best Paper Runner-up, Post-ICIS KrAIS Research Workshop, 2016
@@ -45,7 +45,7 @@ toc_icon: "bookmark"
 * Ph.D. Fellowship, College of Business, KAIST, 2014 – 2018
 
 
-## Academic and Internal Services
+## Academic Services
 * Ad Hoc Reviewers
 	* Information Systems Research
 	* Information Systems Frontiers
@@ -53,6 +53,7 @@ toc_icon: "bookmark"
 	* Asia Pacific Journal of Information Systems
 	* Information Systems Review
 	* International Conference on Information Systems (ICIS)
+	* Americas Conference on Information Systems (AMCIS)
 	* Pacific Asia Conference on Information Systems (PACIS)
 	* European Conference on Information Systems (ECIS)
 	* INFORMS Conference on Information Systems and Technology (CIST)
@@ -65,10 +66,7 @@ toc_icon: "bookmark"
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020
 	* Program Committee, KrAIS Research Workshop 2019 (Post-ICIS workshop)
 	* Student Organizer & Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
-	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2019][7], [2018][6], [2017][5]
-
-* Internal Services
-	* Student Member of the Curriculum Council at KAIST (2018 - 2019)
+	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2020][8] [2019][7], [2018][6], [2017][5]
 
 * Membership
 	* Association for Information Systems (AIS)
@@ -78,9 +76,9 @@ toc_icon: "bookmark"
 
 ## Technical Skills
 * Programming Language
-	* Python, Deep Learning Framework (PyTorch, TensorFlow), Java, C++, C, Mathematica, ArcGIS
+	* Python (PyTorch, TensorFlow), Java, C++, C, Mathematica, ArcGIS
 * Statistical Software and Database
-	* R, STATA, SAS, SQL, Big Data Framework (Hadoop, Hive, Spark)
+	* R, STATA, SAS, SQL, PySpark, MongoDB, Hadoop, Hive
 
 
 [1]: https://www.business.kaist.edu/
@@ -89,4 +87,5 @@ toc_icon: "bookmark"
 [5]: https://bigsconf2017.wixsite.com/bigs2017
 [6]: http://brightinternet.org/bigs2018/
 [7]: http://brightinternet.org/bigs2019/
-[8]: https://www.informs.org/ORMS-Today/Public-Articles/February-Volume-45-Number-1/INFORMS-News-2017-INFORMS-Subdivision-Awards
+[8]: http://brightinternet.org/bigs2020/
+[9]: https://www.informs.org/ORMS-Today/Public-Articles/February-Volume-45-Number-1/INFORMS-News-2017-INFORMS-Subdivision-Awards

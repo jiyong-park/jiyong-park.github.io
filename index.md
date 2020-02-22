@@ -10,7 +10,7 @@ author_profile: true
 
 I am an Assistant Professor of Information Systems at the Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG).
 
-Given that information technology has permeated all levels of society – individuals, organizations, communities, and nations, I am interested in the role of information systems and technology as a primary means to the co-creation of profits, social and environmental benefits and the balance among them.
+Information technology has permeated all levels of the society – individuals, organizations, communities, and countries, and the interactions of firms, technologies, and the broader society become increasingly complex. In this regard, I am interested in the role of information systems and technology as a primary means to the co-creation of economic values and social and environmental benefits.
 
 In the Introduction of his book entitled “Capital in the Twenty-First Century,” economist Thomas Piketty states that
 > “Social scientific research is and always will be tentative and imperfect ... But by patiently searching for facts and patterns and calmly analyzing the economic, social, and political mechanisms that might explain them, it can inform democratic debate and focus attention on the right questions.”
