@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2019-10-25
+last_modified_at: 2020-06-25
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -45,7 +45,7 @@ toc_icon: "bookmark"
 * Ph.D. Fellowship, College of Business, KAIST, 2014 – 2018
 
 
-## Academic Services
+## Services
 * Ad Hoc Reviewers
 	* Information Systems Research
 	* Information Systems Frontiers
@@ -64,9 +64,13 @@ toc_icon: "bookmark"
 	* Minitrack Co-Chair, Americas Conference on Information Systems (AMCIS) 2020
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020
-	* Program Committee, KrAIS Research Workshop 2019 (Post-ICIS workshop)
+	* Program Committee, KrAIS Research Workshop 2019, 2020 (Post-ICIS workshop)
 	* Student Organizer & Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
 	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2020][8] [2019][7], [2018][6], [2017][5]
+
+* Doctoral Student Supervision
+	* Yuzhang Han, Bryan School of Business and Economics, UNCG (Dissertation Committee) 
+	* Nabid Alam, Bryan School of Business and Economics, UNCG (Dissertation Committee) 
 
 * Membership
 	* Association for Information Systems (AIS)
@@ -76,9 +80,9 @@ toc_icon: "bookmark"
 
 ## Technical Skills
 * Programming Language
-	* Python (PyTorch, TensorFlow), Java, C++, C, Mathematica, ArcGIS
+	* Python, PyTorch, TensorFlow, Java, C++, C, Mathematica, ArcGIS
 * Statistical Software and Database
-	* R, STATA, SAS, SQL, PySpark, MongoDB, Hadoop, Hive
+	* R, STATA, SAS, SQL, MongoDB, Spark, Hadoop
 
 
 [1]: https://www.business.kaist.edu/
