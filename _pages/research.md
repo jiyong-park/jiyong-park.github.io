@@ -43,7 +43,7 @@ toc_icon: "bookmark"
 2. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber”
 3. Gong, F., **Park, J.**, and Cao, Y. "The Impact of IT Spillovers in Supply Chain on Technical Efficiency: Industry-Level Evidence"
 4. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
-5. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment,” under review
+5. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment”
 
 
 ### Work-in-Progress
