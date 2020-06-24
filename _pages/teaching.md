@@ -9,6 +9,11 @@ toc_icon: "bookmark"
 
 ## Special Sessions on Research Methodology
 
+* Social Science of COVID-19: From the Perspective of Causal Inference (2019 Summer, KAIST, Korea)
+	* Online open session to review empirical studies on COVID-19 based on causal inference methodology
+			* Delivered in Korean
+	* [Session website][5]
+
 * MIS Summer Session 2019 - Experimental Empirical Methods (2019 Summer, KAIST, Korea)
 	* Non-credit session for PhD/MS students (Enrollment 29)
 	* [Session website][1]
