@@ -19,21 +19,21 @@ toc_icon: "bookmark"
 
 
 ## Publications
-1. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23.
+1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2020. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," conditionally accepted for publication at *Information Systems Research*
+2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23.
 
 
 ## Working Papers
 ### Manuscripts under Review
-1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," under 5th round review at *Information Systems Research*
-2. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under revision for 3rd round review at *Management Science*
-3. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals with Information Technology: The Environmental Kuznets Curve Perspective,” under 2nd round review at *Information Systems Research*
-4. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding,” under revision for 2nd round review at *MIS Quarterly*
-5. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: The Role of Industry Competition and Dynamism," under review
-6. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine in the 21st Century," under review
+1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under revision for 3rd round review at *Management Science*
+2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under 2nd round review at *Information Systems Research*
+3. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding,” under revision for 2nd round review at *MIS Quarterly*
+4. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: The Role of Industry Competition and Dynamism," under review
+5. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine in the 21st Century," under review
 	* [Job Automation Index System][1]
-7. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under review
-8. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under review
-
+6. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under review
+7. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under review
+8. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment,” under review
 
 [1]: http://www.jobautomationindex.com/
 
@@ -43,7 +43,7 @@ toc_icon: "bookmark"
 2. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber”
 3. Gong, F., **Park, J.**, and Cao, Y. "The Impact of IT Spillovers in Supply Chain on Technical Efficiency: Industry-Level Evidence"
 4. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
-5. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment”
+
 
 
 ### Work-in-Progress

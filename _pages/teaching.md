@@ -11,7 +11,7 @@ toc_icon: "bookmark"
 
 * Social Science of COVID-19: From the Perspective of Causal Inference (2020 Summer, Korea)
 	* Online open session to review empirical studies on COVID-19 based on causal inference methodology
-			* Delivered in Korean
+		* Delivered in Korean
 	* [Session website][5]
 
 * MIS Summer Session 2019 - Experimental Empirical Methods (2019 Summer, KAIST, Korea)
