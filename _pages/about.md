@@ -19,10 +19,6 @@ toc_icon: "bookmark"
 	* Dissertation: “Toward a Sustainable Society in the Digital Economy: Three Essays on the Societal Impacts of Information Systems and Technology”
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
 
-* **Hong Kong University of Science and Technology (HKUST), Hong Kong** (February 2013 - May 2013)
-	* Exchange Student at the School of Engineering
-	* Dean's List
-
 * **Pohang University of Science and Technology (POSTECH), Pohang, Korea** (March 2008 - February 2014)
 	* B.S. in *Industrial and Management Engineering*
 	* B.S. in *Mathematics*
@@ -69,8 +65,8 @@ toc_icon: "bookmark"
 	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2020][8] [2019][7], [2018][6], [2017][5]
 
 * Doctoral Student Supervision
-	* Yuzhang Han, Bryan School of Business and Economics, UNCG (Dissertation Committee) 
-	* Nabid Alam, Bryan School of Business and Economics, UNCG (Dissertation Committee) 
+	* Yuzhang Han, Bryan School of Business and Economics, UNCG (Dissertation Committee)
+	* Nabid Alam, Bryan School of Business and Economics, UNCG (Dissertation Committee)
 
 * Membership
 	* Association for Information Systems (AIS)
