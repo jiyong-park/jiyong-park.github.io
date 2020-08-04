@@ -29,7 +29,7 @@ toc_icon: "bookmark"
 ## Special Sessions on Research Methodology
 
 * Social Science of COVID-19: From the Perspective of Causal Inference (2020 Summer, Korea)
-	* Online open session to review empirical studies on COVID-19 based on causal inference methodology
+	* Open online session to review empirical studies on COVID-19 with a particular focus on causal inference
 		* Delivered in Korean
 	* [Session website][5]
 
