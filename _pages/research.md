@@ -48,16 +48,14 @@ toc_icon: "bookmark"
 
 ### Work-in-Progress
 1. "Online Learning in Data Management and the Role of Prior Programming Knowledge: Evidence from Online Transition amid COVID-19 Pandemic"
-2. "Cloudy Future of Work? The Effects of Cloud Computing on IT Professionals"
-3. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation”
-4. “Are You Confident in Your Prediction? An Economic Analysis of Predictive Uncertainty and the Management of Machine Learning Models,” with Byungtae Lee (KAIST)
-5. “Returns to Cloud Computing Investments: The Role of Environmental Uncertainty,” with Kunsoo Han (McGill U.)
+2. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation”
+3. “Are You Confident in Your Prediction? An Economic Analysis of Predictive Uncertainty and the Management of Machine Learning Models,” with Byungtae Lee (KAIST)
+4. “Returns to Cloud Computing Investments: The Role of Environmental Uncertainty,” with Kunsoo Han (McGill U.)
+5. “Externality of Digital Market Efficiency: An Empirical Analysis of Bilateral Reviews in Sharing Economy and Gentrification,” with Young Kwark, Kyung Sung Jung (U. Florida) and Juhee Kwon (CityU HK)
 6. "Social Inclusion in the Digital Economy: An Empirical Analysis of Broadband and Employment of Persons with Disabilities," with Nakyung Kyung (KAIST)
-7. “Externality of Digital Market Efficiency: An Empirical Analysis of Bilateral Reviews in Sharing Economy and Gentrification,” with Young Kwark, Kyung Sung Jung (U. Florida) and Juhee Kwon (CityU HK)
-8. “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding,” with Jongho Kim (KAIST) and Jinhyuk Lee (Korea U.)
-9. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach,” with Jongho Kim (KAIST)
-10. “Converting Supporters into Investors: Evidence from Reward-based and Equity-based Crowdfunding,” with Keongtae Kim (CUHK)
-11. “Grid Computing and Online Contents Platforms,” with Jungpil Hahn (NUS) and Eric Hyeokkoo Kwon (NTU)
+7. “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding,” with Jongho Kim (KAIST) and Jinhyuk Lee (Korea U.)
+8. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach,” with Jongho Kim (KAIST)
+
 
 
 ## Conference Presentations
