@@ -20,7 +20,7 @@ toc_icon: "bookmark"
 	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
 
 * **Pohang University of Science and Technology (POSTECH), Pohang, Korea** (March 2008 - February 2014)
-	* B.S. in *Industrial and Management Engineering*
+	* B.Eng. in *Industrial and Management Engineering*
 	* B.S. in *Mathematics*
 	* Minor in *Computer Science and Engineering*
 	* Graduate with Magna Cum Laude
