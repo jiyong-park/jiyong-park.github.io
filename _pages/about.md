@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2020-06-25
+last_modified_at: 2020-08-25
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -43,6 +43,7 @@ toc_icon: "bookmark"
 
 ## Services
 * Ad Hoc Reviewers
+	* Management Science
 	* Information Systems Research
 	* Information Systems Frontiers
 	* Electronic Commerce Research and Applications

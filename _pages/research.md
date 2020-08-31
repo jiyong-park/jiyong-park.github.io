@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-last_modified_at: 2020-06-25
+last_modified_at: 2020-08-25
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -19,7 +19,7 @@ toc_icon: "bookmark"
 
 
 ## Publications
-1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2020. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," conditionally accepted for publication at *Information Systems Research*
+1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2020. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research*, forthcoming
 2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23.
 
 
