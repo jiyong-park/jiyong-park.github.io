@@ -28,7 +28,7 @@ toc_icon: "bookmark"
 1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under revision for 3rd round review at *Management Science*
 2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under 2nd round review at *Information Systems Research*
 3. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding,” under revision for 2nd round review at *MIS Quarterly*
-4. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: The Role of Industry Competition and Dynamism," under review
+4. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under review
 5. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine in the 21st Century," under review
 	* [Job Automation Index System][1]
 6. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under review
