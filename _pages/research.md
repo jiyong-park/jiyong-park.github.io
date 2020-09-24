@@ -19,9 +19,11 @@ toc_icon: "bookmark"
 
 
 ## Publications
-1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2020. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research*, forthcoming
-2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23.
+1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2020. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research*, forthcoming [LINK][1]
+2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [LINK][2]
 
+[1]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2951138
+[2]: https://dl.acm.org/doi/abs/10.1145/3351159
 
 ## Working Papers
 ### Manuscripts under Review
@@ -30,12 +32,12 @@ toc_icon: "bookmark"
 3. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding,” under revision for 2nd round review at *MIS Quarterly*
 4. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under review
 5. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine in the 21st Century," under review
-	* [Job Automation Index System][1]
+	* [Job Automation Index System][3]
 6. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under review
 7. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under review
 8. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment,” under review
 
-[1]: http://www.jobautomationindex.com/
+[3]: http://www.jobautomationindex.com/
 
 
 ### Manuscripts in preparation for submission
