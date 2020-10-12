@@ -61,11 +61,11 @@ toc_icon: "bookmark"
 	* International Conference on Electronic Commerce (ICEC)
 
 * Conference Services
+	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021
 	* Minitrack Co-Chair, Americas Conference on Information Systems (AMCIS) 2020
-	* Associate Editor, International Conference on Information Systems (ICIS) 2020
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020
 	* Program Committee, KrAIS Research Workshop 2019, 2020 (Post-ICIS workshop)
-	* Student Organizer & Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
+	* Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
 	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2020][8] [2019][7], [2018][6], [2017][5]
 
 * Doctoral Student Supervision
