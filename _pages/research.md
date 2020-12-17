@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-last_modified_at: 2020-08-25
+last_modified_at: 2020-12-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -20,32 +20,35 @@ toc_icon: "bookmark"
 
 ## Publications
 1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2020. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research*, forthcoming [[LINK][1]]
-2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[LINK][2]]
+	* Non-technical summary ([Article in TechCrunch][2])
+2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[LINK][3]]
 
 [1]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2951138
-[2]: https://dl.acm.org/doi/abs/10.1145/3351159
+[2]: https://techcrunch.com/2020/11/05/study-shows-cities-with-ride-hailing-services-report-lower-rates-of-sexual-assault/
+[3]: https://dl.acm.org/doi/abs/10.1145/3351159
 
 ## Working Papers
 ### Manuscripts under Review
-1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under revision for 3rd round review at *Management Science*
-2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under 2nd round review at *Information Systems Research*
-3. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding,” under revision for 2nd round review at *MIS Quarterly*
-4. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under review
-5. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine in the 21st Century," under review
-	* [Job Automation Index System][3]
-6. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under review
-7. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under review
-8. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment,” under review
+1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 3rd round review at *Management Science*
+2. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under 2nd round review at *MIS Quarterly*
+3. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under revision for 2nd round review at *Information Systems Research*
+4. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under review
+5. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under review
+6. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine in the 21st Century," under review
+	* [Job Automation Index System][4]
+7. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: U.S. Higher
+Education’s Transition to Online Amid COVID-19 Pandemic,” under review
+8. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under review
+9. Gong, F., **Park, J.**, and Cao, Y. "The Impact of IT Spillovers on Technical Efficiency: The Roles of IT Intensity and Supply Chain Relationships," under review
+10. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment,” under review
 
-[3]: http://www.jobautomationindex.com/
+[4]: http://www.jobautomationindex.com/
 
 
 ### Manuscripts in preparation for submission
 1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
 2. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber”
-3. Gong, F., **Park, J.**, and Cao, Y. "The Impact of IT Spillovers in Supply Chain on Technical Efficiency: Industry-Level Evidence"
-4. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
-
+3. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
 
 
 ### Work-in-Progress
@@ -59,11 +62,10 @@ toc_icon: "bookmark"
 8. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach,” with Jongho Kim (KAIST)
 
 
-
 ## Conference Presentations
-1. **Park, J.** and Han, K., 2020. "Returns to Cloud Computing Investments: The Role of Environmental Uncertainty", *Americas Conference on Information Systems (AMCIS), Salt Lake City, Utah, USA (going virtual)*
-2. **Park, J.**, 2020. "How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber/Lyft", *Pacific Asia Conference on Information Systems (PACIS), Dubai, UAE (going virtual)*
-3. **Park, J.**, 2020. "How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber/Lyft", *Statistical Challenges in Electronic Commerce Research (SCECR), Madrid, Spain (going virtual)*
+1. **Park, J.** and Han, K., 2020. "Returns to Cloud Computing Investments: The Role of Environmental Uncertainty", *Americas Conference on Information Systems (AMCIS), Salt Lake City, Utah, USA (virtual)*
+2. **Park, J.**, 2020. "How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber/Lyft", *Pacific Asia Conference on Information Systems (PACIS), Dubai, UAE (virtual)*
+3. **Park, J.**, 2020. "How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber/Lyft", *Statistical Challenges in Electronic Commerce Research (SCECR), Madrid, Spain (virtual)*
 4. **Park, J.** and Kim, J., 2019. "Evolution of Task Automation in the 21st Century: A Data-Driven Exploration of the Race between Man and Machine", *International Conference on Information Systems (ICIS), Munich, Germany*
 5. Kyung, N., Kwon, J., **Park, J.** and Lee, B., 2019. "How does a data Breach Impact Online Consumer Behavior", *INFORMS Conference on Information Systems and Technology (CIST), Seattle, Washington, USA*
 6. **Park, J.** and Kim, J., 2018. "Fixing Racial Discrimination through Analytics on Online Platforms: A Neural Machine Translation Approach", *International Conference on Information Systems (ICIS), San Francisco, California, USA*

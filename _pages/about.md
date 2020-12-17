@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2020-08-25
+last_modified_at: 2020-12-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -30,6 +30,7 @@ toc_icon: "bookmark"
 
 
 ## Honors and Awards
+* Best Paper Award, The Korea Society of Management Information Systems (KMIS) Fall Conference, 2020
 * Best Student Paper Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2017
 * Honorable Mention Research Award, KAIST Graduate School of Green Growth, 2017
@@ -42,6 +43,14 @@ toc_icon: "bookmark"
 * Dean's List, KAIST College of Business, 2014
 * Honorable Mention Work-in-Progress Award, Graduate School of Green Growth, KAIST, 2014
 * Ph.D. Fellowship, College of Business, KAIST, 2014 – 2018
+
+
+## Invited Talks
+* Lyft's Safety Advisory Council, CA, USA (virtual), 2020
+* Sungkyunkwan University, Korea, 2020
+* University of North Carolina at Greensboro, NC, USA, 2019
+* Chapman University, CA, USA, 2018
+* Nanyang Technological University, Singapore, 2018
 
 
 ## Services
