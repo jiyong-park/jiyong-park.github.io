@@ -75,7 +75,7 @@ toc_icon: "bookmark"
 	* Minitrack Co-Chair, Americas Conference on Information Systems (AMCIS) 2020
 	* Program Committee, KrAIS Research Workshop 2019, 2020 (Post-ICIS workshop)
 	* Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
-	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2020][8] [2019][7], [2018][6], [2017][5]
+	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2020][8], [2019][7], [2018][6], [2017][5]
 
 * Doctoral Student Supervision
 	* Yuzhang Han, Bryan School of Business and Economics, UNCG (Dissertation Committee)
