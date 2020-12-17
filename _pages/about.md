@@ -8,7 +8,7 @@ toc_icon: "bookmark"
 ---
 
 ## Academic Position
-* **Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG), Greensboro, NC, USA** (September 2019 - Present)
+* **Bryan School of Business and Economics, University of North Carolina at Greensboro, Greensboro, NC, USA** (September 2019 - Present)
 	* Assistant Professor of Information Systems (Tenure-Track)
 	* Co-affiliated with Informatics and Analytics MS Program
 
