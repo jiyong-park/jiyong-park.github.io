@@ -14,7 +14,7 @@ toc_icon: "bookmark"
 ## Research Interest
 * My research interests lie at the intersection between economic values and societal impacts of information systems and technology. My research has been primarily oriented toward three areas:
 	1. Societal Impacts of Information Technology and Machine Learning
-	2. Automation, Productivity, and Future of Work
+	2. Automation and Future of Work
 	3. Information Technology for Environmental Sustainability
 
 
@@ -27,7 +27,7 @@ toc_icon: "bookmark"
 [2]: https://techcrunch.com/2020/11/05/study-shows-cities-with-ride-hailing-services-report-lower-rates-of-sexual-assault/
 [3]: https://dl.acm.org/doi/abs/10.1145/3351159
 
-## Working Papers
+## Working Papers (full draft available on request)
 ### Manuscripts under Review
 1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 3rd round review at *Management Science*
 2. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under 2nd round review at *MIS Quarterly*
@@ -48,18 +48,10 @@ Education’s Transition to Online Amid COVID-19 Pandemic,” under review
 ### Manuscripts in preparation for submission
 1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
 2. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber”
-3. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
+3. **Park, J.** and Han, K. “Returns to Cloud Computing Investments: The Role of Environmental Uncertainty”
+4. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
+5. Jongho Kim (KAIST), Jinhyuk Lee (Korea U.), and **Park, J.**, “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding”
 
-
-### Work-in-Progress
-1. "Online Learning in Data Management and the Role of Prior Programming Knowledge: Evidence from Online Transition amid COVID-19 Pandemic"
-2. “Automating Knowledge-Intensive Tasks: An Empirical Analysis of Software Development Automation”
-3. “Are You Confident in Your Prediction? An Economic Analysis of Predictive Uncertainty and the Management of Machine Learning Models,” with Byungtae Lee (KAIST)
-4. “Returns to Cloud Computing Investments: The Role of Environmental Uncertainty,” with Kunsoo Han (McGill U.)
-5. “Externality of Digital Market Efficiency: An Empirical Analysis of Bilateral Reviews in Sharing Economy and Gentrification,” with Young Kwark, Kyung Sung Jung (U. Florida) and Juhee Kwon (CityU HK)
-6. "Social Inclusion in the Digital Economy: An Empirical Analysis of Broadband and Employment of Persons with Disabilities," with Nakyung Kyung (KAIST)
-7. “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding,” with Jongho Kim (KAIST) and Jinhyuk Lee (Korea U.)
-8. “Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach,” with Jongho Kim (KAIST)
 
 
 ## Conference Presentations
