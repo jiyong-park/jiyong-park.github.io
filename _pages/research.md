@@ -28,8 +28,7 @@ toc_icon: "bookmark"
 [3]: https://dl.acm.org/doi/abs/10.1145/3351159
 
 ## Working Papers
-
-### Manuscripts under Review <sub>Full draft available on request</sub>
+### Manuscripts under Review  <sub>(full draft available on request)</sub>
 1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 3rd round review at *Management Science*
 2. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under 2nd round review at *MIS Quarterly*
 3. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under revision for 2nd round review at *Information Systems Research*
@@ -46,7 +45,7 @@ Education’s Transition to Online Amid COVID-19 Pandemic,” under review
 [4]: http://www.jobautomationindex.com/
 
 
-### Manuscripts in preparation for submission <sub>Full draft available on request</sub>
+### Manuscripts in preparation for submission  <sub>(full draft available on request)</sub>
 1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
 2. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber”
 3. **Park, J.** and Han, K. “Returns to Cloud Computing Investments: The Role of Environmental Uncertainty”
