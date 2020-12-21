@@ -50,7 +50,7 @@ Education’s Transition to Online Amid COVID-19 Pandemic,” under review
 2. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber”
 3. **Park, J.** and Han, K. “Returns to Cloud Computing Investments: The Role of Environmental Uncertainty”
 4. Suh, C., **Park, J.**, Choi, Y., and Lee, H. "The Impact of Foreign Chatter on Twitter on the Stock Performance of Multinational Firms: A Panel VAR Approach"
-5. Jongho Kim, Jinhyuk Lee, and **Park, J.**, “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding”
+5. Kim, J., Lee, J., and **Park, J.** “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding”
 
 
 
