@@ -27,7 +27,8 @@ toc_icon: "bookmark"
 [2]: https://techcrunch.com/2020/11/05/study-shows-cities-with-ride-hailing-services-report-lower-rates-of-sexual-assault/
 [3]: https://dl.acm.org/doi/abs/10.1145/3351159
 
-## Working Papers (full draft available on request)
+## Working Papers
+<sub>Full draft is available on request</sub>
 ### Manuscripts under Review
 1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 3rd round review at *Management Science*
 2. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under 2nd round review at *MIS Quarterly*
