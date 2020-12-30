@@ -32,13 +32,12 @@ toc_icon: "bookmark"
 1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 3rd round review at *Management Science*
 2. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under 2nd round review at *MIS Quarterly*
 3. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under revision for 2nd round review at *Information Systems Research*
-4. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under review
+4. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under revision for 2nd round review at *Information Systems Research*
 5. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under review
 6. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine in the 21st Century," under review
 	* [Job Automation Index System][4]
-7. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: U.S. Higher
-Education’s Transition to Online Amid COVID-19 Pandemic,” under review
-8. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under review
+7. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under review
+8. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: U.S. Higher Education’s Transition to Online Amid COVID-19 Pandemic,” under review
 9. Gong, F., **Park, J.**, and Cao, Y. "The Impact of IT Spillovers on Technical Efficiency: The Roles of IT Intensity and Supply Chain Relationships," under review
 10. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment,” under review
 
