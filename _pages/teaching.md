@@ -9,11 +9,12 @@ toc_icon: "bookmark"
 
 ## 2021
 * **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
-
+	* Face-to-Face (Hybrid) Section
+	* Online Section
 
 ## 2020
 * **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
-	* Face-to-Face Section: Enrollment 21; Evaluation 4.43/5.0
+	* Face-to-Face (Hybrid) Section: Enrollment 21; Evaluation 4.43/5.0
 	* Online Section: Enrollment 80; Evaluation 4.54/5.0
 
 * **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
