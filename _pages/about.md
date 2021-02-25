@@ -46,6 +46,7 @@ toc_icon: "bookmark"
 
 
 ## Invited Talks
+* Korean American Scientists and Engineers Association (KSEA) - NC Chapter (virtual), 2021
 * Lyft's Safety Advisory Council, CA, USA (virtual), 2020
 * Sungkyunkwan University, Korea, 2020
 * University of North Carolina at Greensboro, NC, USA, 2019

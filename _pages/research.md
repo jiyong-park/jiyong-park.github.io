@@ -19,13 +19,14 @@ toc_icon: "bookmark"
 
 
 ## Publications
-1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2020. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research*, forthcoming [[LINK][1]]
-	* Non-technical summary ([Article in TechCrunch][2])
-2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[LINK][3]]
+1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research*, forthcoming [[LINK][1]][[SSRN][2]]
+	* Non-technical summary ([Article in TechCrunch][3])
+2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[LINK][4]]
 
-[1]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2951138
-[2]: https://techcrunch.com/2020/11/05/study-shows-cities-with-ride-hailing-services-report-lower-rates-of-sexual-assault/
-[3]: https://dl.acm.org/doi/abs/10.1145/3351159
+[1]: https://pubsonline.informs.org/doi/10.1287/isre.2020.0978
+[2]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2951138
+[3]: https://techcrunch.com/2020/11/05/study-shows-cities-with-ride-hailing-services-report-lower-rates-of-sexual-assault/
+[4]: https://dl.acm.org/doi/abs/10.1145/3351159
 
 ## Working Papers
 ### Manuscripts under Review  <sub>(full draft available on request)</sub>
@@ -39,7 +40,7 @@ toc_icon: "bookmark"
 7. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under review
 8. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: U.S. Higher Education’s Transition to Online Amid COVID-19 Pandemic,” under review
 9. Gong, F., **Park, J.**, and Cao, Y. "The Impact of IT Spillovers on Technical Efficiency: The Roles of IT Intensity and Supply Chain Relationships," under review
-10. Han, K., Koh, B., Nault, B., and **Park, J.** “Under the Hood: Transaction Costs and Information Technology Investment,” under review
+10. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs To Assess The Impact of Information Technology,” under review
 
 [4]: http://www.jobautomationindex.com/
 
