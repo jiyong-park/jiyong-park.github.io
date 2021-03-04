@@ -13,7 +13,7 @@ toc_icon: "bookmark"
 
 ## Research Interest
 * My research interests lie at the intersection between economic values and societal impacts of information systems and technology. My research has been primarily oriented toward three areas:
-	1. Societal Impacts of Information Technology and Machine Learning
+	1. Societal Impacts of Digitalization
 	2. Automation and Future of Work
 	3. Information Technology for Environmental Sustainability
 
