@@ -13,13 +13,13 @@ toc_icon: "bookmark"
 ## Research Interest
 * My research interests lie at the intersection between business and social values of information systems and technology.
 	1. Social Value of IT
-		* 1.1. Societal Impacts of Digitalization
-		* 1.2. Technological Innovation for Environmental Sustainability
+		<p>1.1. Societal Impacts of Digitalization</p>
+		<p>1.2. Technological Innovation for Environmental Sustainability</p>
 		<p>1.3. Automation and Future of Work</p>
 
 	2. Business Value of IT
-		* 2.1 Business Impacts of IT Investments
-		* 2.2 Business Applications of ML/NLP
+		<p>2.1 Business Impacts of IT Investments</p>
+		<p>2.2 Business Applications of ML/NLP</p>
 
 
 
@@ -44,7 +44,7 @@ toc_icon: "bookmark"
 	2. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety,” in preparation for submission
 	3. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber,” in preparation for submission
 	4. Kim, J., **Park, J.**, and Lee, J. “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding,” in preparation for submission
-
+<p></p>
 
 * 1.2 Technological Innovation for Environmental Sustainability
 	1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 3rd round review at *Management Science*
@@ -52,7 +52,7 @@ toc_icon: "bookmark"
 	3. **Park, J.**, Chung, S., and Han, K. "Towards Green Data Center: Regulation, Green IT Innovation, and Firm Value,” work in progress
 	4. **Park, J.** "Are Robots a Bless or a Curse for Sustainable Operations? Firm-Level Evidence on Industrial Robots and Energy Efficiency from 41 Developing Countries,” work in progress
 	5. **Park, J.** and Park, Y. "Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Patenting During U.S. Shale Boom,” in preparation for submission
-
+<br>
 
 * 1.3 Automation and Future of Work
 	1. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under revision for 2nd round review at *Information Systems Research*
