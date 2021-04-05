@@ -30,7 +30,7 @@ toc_icon: "bookmark"
 
 
 ## Honors and Awards
-* Recognition of 2021 Faculty Excellence in Research and Creative Activity, UNCG (University Level)
+* Recognition of Faculty Excellence in Research and Creative Activity, UNCG, 2021 (University Level)
 * Best Paper Award, The Korea Society of Management Information Systems (KMIS) Fall Conference, 2020
 * Best Student Paper Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2017
