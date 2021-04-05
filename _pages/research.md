@@ -50,8 +50,9 @@ toc_icon: "bookmark"
 	1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 3rd round review at *Management Science*
 	2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under revision for 2nd round review at *Production and Operations Management*
 	3. **Park, J.**, Chung, S., and Han, K. "Towards Green Data Center: Regulation, Green IT Innovation, and Firm Value,” work in progress
-	4. **Park, J.** "Are Robots a Bless or a Curse for Sustainable Operations? Firm-Level Evidence on Industrial Robots and Energy Efficiency from 41 Developing Countries,” work in progress
-	5. **Park, J.** and Park, Y. "Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Patenting During U.S. Shale Boom,” in preparation for submission
+	4. **Park, J.** and Park, Y. "Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Patenting During U.S. Shale Boom,” in preparation for submission
+	5. **Park, J.** "Are Robots a Bless or a Curse for Sustainable Operations? Firm-Level Evidence on Industrial Robots and Energy Efficiency from 41 Developing Countries,” work in progress
+
 <p></p>
 
 * 1.3 Automation and Future of Work
