@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-last_modified_at: 2020-12-01
+last_modified_at: 2021-04-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -10,46 +10,74 @@ toc_icon: "bookmark"
 [![](/assets/images/you_are_here2.jpg){: .align-right .width-half}](title: "Source: mostlyharmlesseconometrics.com")
 
 
-
 ## Research Interest
-* My research interests lie at the intersection between economic values and societal impacts of information systems and technology. My research has been primarily oriented toward three areas:
-	1. Societal Impacts of Digitalization
-	2. Automation and Future of Work
-	3. Information Technology for Environmental Sustainability
+* My research interests lie at the intersection between business and social values of information systems and technology.
+	1. Social Value of IT
+		1.1 Societal Impacts of Digitalization
+		1.2 Technological Innovation for Environmental Sustainability
+		1.3 Automation and Future of Work
+
+	2. Business Value of IT
+		2.1 Business Impacts of IT Investments
+		2.2 Business Applications of ML/NLP
+
 
 
 ## Publications
-1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research*, forthcoming [[LINK][1]][[SSRN][2]]
-	* Non-technical summary ([Article in TechCrunch][3])
-2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[LINK][4]]
+### 1.1 Societal Impacts of Digitalization
+	1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research*, forthcoming [[LINK][1]][[SSRN][2]]
+		* Non-technical summary ([Article in TechCrunch][3])
+	2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[LINK][4]]
+
 
 [1]: https://pubsonline.informs.org/doi/10.1287/isre.2020.0978
 [2]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2951138
 [3]: https://techcrunch.com/2020/11/05/study-shows-cities-with-ride-hailing-services-report-lower-rates-of-sexual-assault/
 [4]: https://dl.acm.org/doi/abs/10.1145/3351159
 
+
+
 ## Working Papers
-### Manuscripts under Review  <sub>(full draft available on request)</sub>
-1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 3rd round review at *Management Science*
-2. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under 2nd round review at *MIS Quarterly*
-3. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: U.S. Higher Education’s Transition to Online Amid COVID-19 Pandemic,” under revision for 2nd round review at *MIS Quarterly*
-4. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under revision for 2nd round review at *Information Systems Research*
-5. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under revision for 2nd round review at *Information Systems Research*
-6. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine in the 21st Century," under review
-	* [Job Automation Index System][4]
-7. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under review
-8. Gong, F., **Park, J.**, and Cao, Y. "The Impact of IT Spillovers on Technical Efficiency: The Roles of IT Intensity and Supply Chain Relationships," under review
-9. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” under review
+<sub>Full drafts of the following working papers are available upon request.</sub>
 
-[4]: http://www.jobautomationindex.com/
+### 1.1 Societal Impacts of Digitalization
+	1. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under revision for 2nd round review at *Information Systems Research*
+	2. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety,” in preparation for submission
+	3. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber,” in preparation for submission
+	4. Kim, J., **Park, J.**, and Lee, J. “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding,” in preparation for submission
 
 
-### Manuscripts in preparation for submission  <sub>(full draft available on request)</sub>
-1. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety”
-2. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber”
-3. **Park, J.** and Han, K. “Returns to Cloud Computing Investments: The Role of Environmental Uncertainty”
-4. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," under review
-5. Kim, J., Lee, J., and **Park, J.** “The Democratized Crowd? Gender Differences in the Stages of New Product Development of Crowdfunding”
+### 1.2 Technological Innovation for Environmental Sustainability
+	1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 3rd round review at *Management Science*
+	2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under revision for 2nd round review at *Production and Operations Management*
+	3. **Park, J.**, Chung, S., and Han, K. "Towards Green Data Center: Regulation, Green IT Innovation, and Firm Value,” work in progress
+	4. **Park, J.** "Are Robots a Bless or a Curse for Sustainable Operations? Firm-Level Evidence on Industrial Robots and Energy Efficiency from 41 Developing Countries,” work in progress
+	5. **Park, J.** and Park, Y. "Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Patenting During U.S. Shale Boom,” in preparation for submission
+
+
+
+### 1.3 Automation and Future of Work
+	1. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under revision for 2nd round review at *Information Systems Research*
+	2. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine in the 21st Century," submitted
+		* [Job Automation Index System][5]
+	3. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," in preparation for submission
+
+
+[5]: http://www.jobautomationindex.com/
+
+
+### 2.1 Business Impacts of IT Investments
+	1. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: U.S. Higher Education’s Transition to Online Amid COVID-19 Pandemic,” under revision for 2nd round review at *MIS Quarterly*
+	2. Gong, F., **Park, J.**, and Cao, Y. "The Impact of IT Spillovers on Technical Efficiency: The Roles of IT Intensity and Supply Chain Relationships," submitted
+	3. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” submitted
+	4. **Park, J.** and Han, K. “Returns to Cloud Computing Investments: The Role of Environmental Uncertainty,” in preparation for submission
+	5. **Park, J.** and Rhee, M. "Shelter in the Cloud: The Role of Cloud Computing in Resilience During COVID-19 Pandemic,” work in progress
+
+
+### 2.2 Business Applications of ML/NLP
+	1. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under 2nd round review at *MIS Quarterly*
+	2. **Park, J.** "Is Online Education the Future of Business Schools? Evidence from RateMyProfessors.com During COVID-19,” work in progress
+
 
 
 ## Conference Presentations

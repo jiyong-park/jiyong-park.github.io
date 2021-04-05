@@ -1,20 +1,24 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-last_modified_at: 2020-12-01
+last_modified_at: 2021-04-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 
 ## 2021
+* **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
+	* Face-to-Face Section
+	* Online Section
+
 * **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
 	* Face-to-Face (Hybrid) Section
 	* Online Section
 
 ## 2020
 * **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
-	* Face-to-Face (Hybrid) Section: Enrollment 21; Evaluation 4.43/5.0
+	* Face-to-Face Section: Enrollment 21; Evaluation 4.43/5.0
 	* Online Section: Enrollment 80; Evaluation 4.54/5.0
 
 * **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
