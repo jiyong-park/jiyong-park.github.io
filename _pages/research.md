@@ -51,7 +51,7 @@ toc_icon: "bookmark"
 	2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under revision for 2nd round review at *Production and Operations Management*
 	3. **Park, J.** "Are Robots a Bless or a Curse for Sustainable Operations? Firm-Level Evidence on Industrial Robots and Energy Efficiency from 41 Developing Countries,” work in progress
 	4. **Park, J.**, Chung, S., and Han, K. "Towards Green Data Center: Regulation, Green IT Innovation, and Firm Value,” work in progress
-	5. **Park, J.** and Park, Y. "Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Patenting During U.S. Shale Boom,” in preparation for submission	
+	5. **Park, J.** and Park, Y. "Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Patenting During U.S. Shale Boom,” in preparation for submission
 <p></p>
 
 * 1.3 Automation and Future of Work
@@ -67,7 +67,7 @@ toc_icon: "bookmark"
 	1. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: U.S. Higher Education’s Transition to Online Amid COVID-19 Pandemic,” under revision for 2nd round review at *MIS Quarterly*
 	2. Gong, F., **Park, J.**, and Cao, Y. "The Impact of IT Spillovers on Technical Efficiency: The Roles of IT Intensity and Supply Chain Relationships," submitted
 	3. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” submitted
-	4. **Park, J.** and Han, K. “Returns to Cloud Computing Investments: The Role of Environmental Uncertainty,” in preparation for submission
+	4. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” in preparation for submission
 	5. **Park, J.** and Rhee, M. "Shelter in the Cloud: The Role of Cloud Computing in Resilience During COVID-19 Pandemic,” work in progress
 <p></p>
 
