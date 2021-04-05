@@ -13,13 +13,13 @@ toc_icon: "bookmark"
 ## Research Interest
 * My research interests lie at the intersection between business and social values of information systems and technology.
 	1. Social Value of IT
-		<p>1.1. Societal Impacts of Digitalization</p>
-		<p>1.2. Technological Innovation for Environmental Sustainability</p>
-		<p>1.3. Automation and Future of Work</p>
+			<p>1.1. Societal Impacts of Digitalization</p>
+			<p>1.2. Technological Innovation for Environmental Sustainability</p>
+			<p>1.3. Automation and Future of Work</p>
 
 	2. Business Value of IT
-		<p>2.1 Business Impacts of IT Investments</p>
-		<p>2.2 Business Applications of ML/NLP</p>
+			<p>2.1 Business Impacts of IT Investments</p>
+			<p>2.2 Business Applications of ML/NLP</p>
 
 
 
@@ -52,14 +52,14 @@ toc_icon: "bookmark"
 	3. **Park, J.**, Chung, S., and Han, K. "Towards Green Data Center: Regulation, Green IT Innovation, and Firm Value,” work in progress
 	4. **Park, J.** "Are Robots a Bless or a Curse for Sustainable Operations? Firm-Level Evidence on Industrial Robots and Energy Efficiency from 41 Developing Countries,” work in progress
 	5. **Park, J.** and Park, Y. "Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Patenting During U.S. Shale Boom,” in preparation for submission
-<br>
+<p></p>
 
 * 1.3 Automation and Future of Work
 	1. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under revision for 2nd round review at *Information Systems Research*
 	2. **Park, J.** and Kim, J. "A Data-Driven Exploration of the Race between Man and Machine in the 21st Century," submitted
 		* [Job Automation Index System][5]
 	3. **Park, J.** and Lee, B. "Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty," in preparation for submission
-
+<p></p>
 [5]: http://www.jobautomationindex.com/
 
 
@@ -69,12 +69,11 @@ toc_icon: "bookmark"
 	3. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” submitted
 	4. **Park, J.** and Han, K. “Returns to Cloud Computing Investments: The Role of Environmental Uncertainty,” in preparation for submission
 	5. **Park, J.** and Rhee, M. "Shelter in the Cloud: The Role of Cloud Computing in Resilience During COVID-19 Pandemic,” work in progress
-
+<p></p>
 
 * 2.2 Business Applications of ML/NLP
 	1. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under 2nd round review at *MIS Quarterly*
 	2. **Park, J.** "Is Online Education the Future of Business Schools? Evidence from RateMyProfessors.com During COVID-19,” work in progress
-
 
 
 ## Conference Presentations
