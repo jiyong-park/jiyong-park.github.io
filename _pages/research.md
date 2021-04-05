@@ -11,11 +11,11 @@ toc_icon: "bookmark"
 
 
 ## Research Interest
-My research interests lie at the intersection between business and social values of information systems and technology.
+<p>My research interests lie at the intersection between business and social values of information systems and technology.</p>
 	1. Social Value of IT
 		* 1.1. Societal Impacts of Digitalization
 		* 1.2. Technological Innovation for Environmental Sustainability
-		* 1.3. Automation and Future of Work
+		<p>1.3. Automation and Future of Work</p>
 
 	2. Business Value of IT
 		* 2.1 Business Impacts of IT Investments
