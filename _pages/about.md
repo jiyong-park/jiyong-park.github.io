@@ -31,17 +31,16 @@ toc_icon: "bookmark"
 
 ## Honors and Awards
 * Recognition of Faculty Excellence in Research and Creative Activity, UNCG, 2021 (University Level)
-* Best Paper Award, The Korea Society of Management Information Systems (KMIS) Fall Conference, 2020
+* Best Paper Award, Korea Society of Management Information Systems (KMIS) Fall Conference, 2020
 * Best Student Paper Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2017
 * Honorable Mention Research Award, KAIST Graduate School of Green Growth, 2017
 * Best Paper Runner-up, Post-ICIS KrAIS Research Workshop, 2016
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2016
 * Best Paper Award, International Conference on Electronic Commerce (ICEC), 2016
-* Best Paper Award, The Korea Society of Management Information Systems (KMIS) Fall Conference, 2016
+* Best Paper Award, Korea Society of Management Information Systems (KMIS) Fall Conference, 2016
 * Ph.D. Excellent Research Award, College of Business, KAIST, 2016
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2015
-* Dean's List, KAIST College of Business, 2014
 * Honorable Mention Work-in-Progress Award, Graduate School of Green Growth, KAIST, 2014
 * Ph.D. Fellowship, College of Business, KAIST, 2014 – 2018
 
