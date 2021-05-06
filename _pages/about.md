@@ -8,7 +8,7 @@ toc_icon: "bookmark"
 ---
 
 ## Academic Position
-* **Bryan School of Business and Economics, University of North Carolina at Greensboro, Greensboro, NC, USA** (September 2019 - Present)
+* **Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG), Greensboro, NC, USA** (September 2019 - Present)
 	* Assistant Professor of Information Systems (Tenure-Track)
 	* Co-affiliated with Informatics and Analytics MS Program
 
@@ -17,7 +17,6 @@ toc_icon: "bookmark"
 * **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (February 2014 - August 2019)
 	* Ph.D. in *Management Engineering* (Major: Information Systems)
 	* Dissertation: “Toward a Sustainable Society in the Digital Economy: Three Essays on the Societal Impacts of Information Systems and Technology”
-	* Committee: Byungtae Lee (Chair), Wonseok Oh, Daegon Cho (KAIST), Kunsoo Han (McGill U.), Min-Seok Pang (Temple U.)
 
 * **Hong Kong University of Science and Technology (HKUST), Hong Kong** (February 2013 - June 2013)
 	* Exchange Student
@@ -30,6 +29,7 @@ toc_icon: "bookmark"
 
 
 ## Honors and Awards
+* Dean's Research Scholar Award, Bryan School of Business and Economics, UNCG, 2021
 * Recognition of Faculty Excellence in Research and Creative Activity, UNCG, 2021 (University Level)
 * Best Paper Award, Korea Society of Management Information Systems (KMIS) Fall Conference, 2020
 * Best Student Paper Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
@@ -56,19 +56,8 @@ toc_icon: "bookmark"
 
 ## Services
 * Ad Hoc Reviewers
-	* Management Science
-	* Information Systems Research
-	* Information Systems Frontiers
-	* Electronic Commerce Research and Applications
-	* Asia Pacific Journal of Information Systems
-	* Information Systems Review
-	* International Conference on Information Systems (ICIS)
-	* Americas Conference on Information Systems (AMCIS)
-	* Pacific Asia Conference on Information Systems (PACIS)
-	* European Conference on Information Systems (ECIS)
-	* INFORMS Conference on Information Systems and Technology (CIST)
-	* Hawaii International Conference on System Sciences (HICSS)
-	* International Conference on Electronic Commerce (ICEC)
+	* Management Science, Information Systems Research, Information Systems Frontiers, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review
+	* International Conference on Information Systems (ICIS), Americas Conference on Information Systems (AMCIS), Pacific Asia Conference on Information Systems (PACIS), European Conference on Information Systems (ECIS), INFORMS Conference on Information Systems and Technology (CIST), Hawaii International Conference on System Sciences (HICSS), International Conference on Electronic Commerce (ICEC)
 
 * Conference Services
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021
