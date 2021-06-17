@@ -65,7 +65,7 @@ toc_icon: "bookmark"
 	* Minitrack Co-Chair, Americas Conference on Information Systems (AMCIS) 2020
 	* Program Committee, KrAIS Research Workshop 2019, 2020 (Post-ICIS workshop)
 	* Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
-	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2020][8], [2019][7], [2018][6], [2017][5]
+	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2021][9] [2020][8], [2019][7], [2018][6], [2017][5]
 
 * Doctoral Student Supervision
 	* Yuzhang Han, Bryan School of Business and Economics, UNCG (Dissertation Committee)
@@ -77,13 +77,6 @@ toc_icon: "bookmark"
 	* Korea Society of Management Information Systems (KMIS)
 
 
-## Technical Skills
-* Programming Language
-	* Python, PyTorch, TensorFlow, Java, C++, C, Mathematica, ArcGIS
-* Statistical Software and Database
-	* R, STATA, SAS, SQL, MongoDB, Spark, Hadoop
-
-
 [1]: https://www.business.kaist.edu/
 [2]: http://postech.edu/eng/
 [4]: https://wiseconf2017.wixsite.com/wise
@@ -91,4 +84,4 @@ toc_icon: "bookmark"
 [6]: http://brightinternet.org/bigs2018/
 [7]: http://brightinternet.org/bigs2019/
 [8]: http://brightinternet.org/bigs2020/
-[9]: https://www.informs.org/ORMS-Today/Public-Articles/February-Volume-45-Number-1/INFORMS-News-2017-INFORMS-Subdivision-Awards
+[9]: http://brightinternet.org/bigs2021/
