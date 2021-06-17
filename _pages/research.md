@@ -33,9 +33,9 @@ toc_icon: "bookmark"
 
 [1]: https://pubsonline.informs.org/doi/10.1287/isre.2020.0978
 [2]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2951138
-[3]: https://www.informs.org/About-INFORMS/News-Room/Press-Releases/New-Research-Shows-Ridesharing-Services-Reduce-Sexual-Assault
-[4]: https://techcrunch.com/2020/11/05/study-shows-cities-with-ride-hailing-services-report-lower-rates-of-sexual-assault/
-[5]:
+[3]: https://techcrunch.com/2020/11/05/study-shows-cities-with-ride-hailing-services-report-lower-rates-of-sexual-assault/
+[4]: https://www.informs.org/About-INFORMS/News-Room/Press-Releases/New-Research-Shows-Ridesharing-Services-Reduce-Sexual-Assault
+[5]: https://pubsonline.informs.org/do/10.1287/orms.2021.03.31p?fbclid=IwAR3DQm9jJmQ7U9ggo0eayupYygtd9-3NSyxTZIp1GhIsLo2GLmyTphSyiYg
 [6]: https://dl.acm.org/doi/abs/10.1145/3351159
 
 
