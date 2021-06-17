@@ -36,13 +36,6 @@ toc_icon: "bookmark"
 
 
 ## Research Methodology Seminars
-* Korea Summer Session on Causal Inference 2021 (2021 Summer)
-	* Online sessions on research methodology for causal inference
-	* Module 1: Experimental Approach to Causal Inference
-	* Module 2: Structural Approach to Causal Inference
-	* Module 3: When Machine Learning Meets Causal Inference
-	* [Session website][1]
-
 * Social Science of COVID-19: From the Perspective of Causal Inference (2020 Summer)
 	* Online sessions to review empirical studies on COVID-19 with a particular focus on causal inference
 	* [Session website][2]
