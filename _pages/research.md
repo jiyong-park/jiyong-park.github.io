@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-06-15
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -25,7 +25,7 @@ toc_icon: "bookmark"
 
 ## Publications
 * 1.1 Societal Impacts of Digitalization
-	1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research*, forthcoming [[LINK][1]][[SSRN][2]]
+	1. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research* (32:2), pp.497-516 [[LINK][1]][[SSRN][2]]
 		* Non-technical summary ([Article in TechCrunch][3])
 		* Featured by INFORMS ([Press Release][4]) ([INFORMS Podcast][5])
 	2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[LINK][6]]
