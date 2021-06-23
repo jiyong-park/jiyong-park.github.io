@@ -54,7 +54,7 @@ toc_icon: "bookmark"
 <p></p>
 
 * 1.2 Harnessing Technology for Environmental Sustainability
-	1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 3rd round review at *Management Science*
+	1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under revision for 4th round review at *Management Science*
 	2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under revision for 2nd round review at *Production and Operations Management*
 	3. **Park, J.** "Are Robots a Bless or a Curse for Sustainable Operations? Firm-Level Evidence on Industrial Robots and Energy Efficiency from 41 Developing Countries,” work in progress
 	4. **Park, J.**, Chung, S., and Han, K. "Toward Green Data Centers: Regulations, Green IT Innovation, and Firm Value,” in preparation for submission
