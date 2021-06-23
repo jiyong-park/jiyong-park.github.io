@@ -45,7 +45,11 @@ toc_icon: "bookmark"
 * Ph.D. Fellowship, College of Business, KAIST, 2014 – 2018
 
 
-## Invited Talks
+## Invited Talks/Lectures
+* Yonsei University (virtual), Korea, 2021
+* Korea University (virtual), Korea, 2021
+* Pusan National University (virtual), Korea, 2021
+* Kyung Hee University (virtual), Korea, 2021
 * Korean American Scientists and Engineers Association (KSEA) - NC Chapter (virtual), 2021
 * Lyft's Safety Advisory Council, CA, USA (virtual), 2020
 * Sungkyunkwan University, Korea, 2020
