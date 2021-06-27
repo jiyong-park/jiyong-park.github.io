@@ -72,11 +72,11 @@ toc_icon: "bookmark"
 [10]: http://www.jobautomationindex.com/
 
 * 2.1 Business Impacts of IT Investments
-	1. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: U.S. Higher Education’s Transition to Online Amid COVID-19 Pandemic,” under 2nd round review at *MIS Quarterly*
+	1. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Online During the COVID-19 Pandemic,” under 2nd round review at *MIS Quarterly*
 	2. Gong, F., **Park, J.**, and Cao, Y. "The Impact of IT Spillovers on Technical Efficiency: The Roles of IT Intensity and Supply Chain Relationships," submitted
 	3. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” submitted
 	4. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” in preparation for submission
-	5. **Park, J.** and Rhee, M. "Shelter in the Cloud: The Role of Cloud Computing in Building Resilience During COVID-19 Pandemic,” work in progress
+	5. **Park, J.** and Rhee, M. "Shelter in the Cloud: The Role of Cloud Computing in Building Resilience During the COVID-19 Pandemic,” work in progress
 <p></p>
 
 * 2.2 Business Analytics
