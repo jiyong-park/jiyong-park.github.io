@@ -36,26 +36,32 @@ toc_icon: "bookmark"
 
 
 ## Research Methodology Seminars
-* Social Science of COVID-19: From the Perspective of Causal Inference (2020 Summer)
+* Korea Causal Inference Summer Session 2021 (Summer 2021, Online)
+	* Online sessions for introducing research methodologies and data analytical approaches in pursuit of causal inference
+	* Module 1: Research Design for Causal Inference (10 Sessions)
+	* Module 2: Machine Learning for Causal Inference (8 Sessions)
+	* [Session website][1]
+
+* Social Science of COVID-19: From the Perspective of Causal Inference (Summer 2020, Online)
 	* Online sessions to review empirical studies on COVID-19 with a particular focus on causal inference
 	* [Session website][2]
 
-* MIS Summer Session 2019 - Experimental Empirical Methods (2019 Summer, KAIST)
+* MIS Summer Session 2019 - Experimental Empirical Methods (Summer 2019, KAIST)
 	* Non-credit session for PhD/MS students
 	* [Session website][3]
 
-* MIS Summer Session 2018 - Research Design for Data Analytics (2018 Summer, KAIST)
+* MIS Summer Session 2018 - Research Design for Data Analytics (Summer 2018, KAIST)
 	* Non-credit session for PhD/MS students
 	* Module 1: (lecture) Research Design for Data Analytics
 	* Module 2: (hands-on) Causal Inference with STATA
 	* Module 3: (hands-on) Deep Learning with PyTorch
 	* [Session website][4] / [GitHub for hands-on codes][5]
 
-* MIS Summer Session 2017 - Introduction to Economics of IS and Research Methodology (2017 Summer, KAIST)
+* MIS Summer Session 2017 - Introduction to Economics of IS and Research Methodology (Summer 2017, KAIST)
 	* Non-credit session for PhD/MS students
 	* [Session website][6]
 
-[1]: https://sites.google.com/view/kssci2021
+[1]: https://sites.google.com/view/causal-inference2021
 [2]: https://sites.google.com/view/social-science-of-covid-19
 [3]: https://sites.google.com/view/kaist-mis-session2019
 [4]: https://sites.google.com/view/kaist-mis-session2018
