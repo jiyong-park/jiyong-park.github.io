@@ -28,8 +28,9 @@ toc_icon: "bookmark"
 	* Graduate with Magna Cum Laude
 
 
-## Honors and Awards
-* Dean's Research Scholar Award, Bryan School of Business and Economics, UNCG, 2021
+## Honors, Awards, and Grants
+* Research Grant from the Barun ICT Research Center, Yonsei University, 2021
+* Dean's Research Scholar Award (Research Grant), Bryan School of Business and Economics, UNCG, 2021
 * Recognition of Faculty Excellence in Research and Creative Activity, UNCG, 2021 (University Level)
 * Best Paper Award, Korea Society of Management Information Systems (KMIS) Fall Conference, 2020
 * Best Student Paper Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
