@@ -31,7 +31,7 @@ toc_icon: "bookmark"
 	2. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[LINK][6]]
 
 * 1.3 Automation and Future of Work
-	1. **Park, J.** and Kim, J., 2021. "A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century," *Communications of the ACM*, forthcoming. [[LINK][9]][[SSRN][10]]
+	1. **Park, J.** and Kim, J., 2021. "A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century," *Communications of the ACM*, forthcoming. [[SSRN][10]]
 		* [Website for Job Automation Index][11]
 
 [1]: https://pubsonline.informs.org/doi/10.1287/isre.2020.0978
@@ -40,9 +40,6 @@ toc_icon: "bookmark"
 [4]: https://www.informs.org/About-INFORMS/News-Room/Press-Releases/New-Research-Shows-Ridesharing-Services-Reduce-Sexual-Assault
 [5]: https://pubsonline.informs.org/do/10.1287/orms.2021.03.31p?fbclid=IwAR3DQm9jJmQ7U9ggo0eayupYygtd9-3NSyxTZIp1GhIsLo2GLmyTphSyiYg
 [6]: https://dl.acm.org/doi/abs/10.1145/3351159
-[7]:
-[8]:
-[9]:
 [10]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924789
 [11]: http://www.jobautomationindex.com/
 
