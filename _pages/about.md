@@ -47,10 +47,11 @@ toc_icon: "bookmark"
 
 
 ## Invited Talks/Lectures
-* Yonsei University (virtual), Korea, 2021
-* Korea University (virtual), Korea, 2021
-* Pusan National University (virtual), Korea, 2021
-* Kyung Hee University (virtual), Korea, 2021
+* Korean Academic Society of Business Administration, Korea (virtual), 2021
+* Yonsei University, Korea (virtual), 2021
+* Korea University, Korea (virtual), 2021
+* Pusan National University, Korea (virtual), 2021
+* Kyung Hee University, Korea (virtual), 2021
 * Korean American Scientists and Engineers Association (KSEA) - NC Chapter (virtual), 2021
 * Lyft's Safety Advisory Council, CA, USA (virtual), 2020
 * Sungkyunkwan University, Korea, 2020

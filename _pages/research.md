@@ -60,7 +60,7 @@ toc_icon: "bookmark"
 * 1.2 Harnessing Technology for Environmental Sustainability
 	1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under revision for 4th round review at *Management Science*
 	2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under revision for 2nd round review at *Production and Operations Management*
-	3. **Park, J.** and Shim, J. “Disproportionate gains of energy efficiency from industrial robots: Firm-level evidence from 98 countries,” in preparation for submission [Equal contribution; Authors listed in alphabetical order]
+	3. **Park, J.** and Shim, J. “Disproportionate gains of energy efficiency from industrial robots: Firm-level evidence from 101 countries,” in preparation for submission [Equal contribution; Authors are listed in alphabetical order]
 	4. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
 	5. **Park, J.** and Park, Y. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the Shale Boom in the US,” in preparation for submission
 	6. **Park, J.** “The Role of Information Systems in Adaptation to Climate Risks: Lessons Learned from COVID-19,” work in progress
@@ -73,7 +73,7 @@ toc_icon: "bookmark"
 
 
 * 2.1 Business Impacts of IT Investments
-	1. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Online During the COVID-19 Pandemic,” under 2nd round review at *MIS Quarterly*
+	1. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Online During the COVID-19 Pandemic,” under revision for 3rd round review at *MIS Quarterly*
 	2. Gong, F., **Park, J.**, and Cao, Y. “The Impact of IT Spillovers on Technical Efficiency: The Roles of IT Intensity and Supply Chain Relationships,” submitted
 	3. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” in preparation for submission
 	4. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” in preparation for submission
@@ -81,7 +81,7 @@ toc_icon: "bookmark"
 <p></p>
 
 * 2.2 Business Analytics
-	1. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under 2nd round review at *MIS Quarterly*
+	1. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under revision for 3rd round review at *MIS Quarterly*
 	2. **Park, J.** “Optimal Curriculum Design of Online Business Education: A Learning Analytics Approach,” work in progress
 
 
