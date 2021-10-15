@@ -67,8 +67,7 @@ toc_icon: "bookmark"
 <p></p>
 
 * 1.3 Automation and Future of Work
-	1. Eun, S., **Park, J.**, and Lee, B. “The New Wave of Automation? Industrial Robots and the Decline of Non-Routine Manual Tasks in U.S. Manufacturing,” under revision for 2nd round review at *Information Systems Research*
-	2. **Park, J.**, Han, K., and Lee, B. “Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty,” in preparation for submission
+	1. **Park, J.**, Han, K., and Lee, B. “Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty,” in preparation for submission
 <p></p>
 
 
