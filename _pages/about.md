@@ -8,20 +8,20 @@ toc_icon: "bookmark"
 ---
 
 ## Academic Position
-* **Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG), Greensboro, NC, USA** (September 2019 - Present)
+* **Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG), Greensboro, NC, USA** (2019 - Present)
 	* Assistant Professor of Information Systems (Tenure-Track)
-	* Co-affiliated with Informatics and Analytics MS Program
+	* Co-affiliated with Informatics and Analytics Program
 
 
 ## Education
-* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (February 2014 - August 2019)
+* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (2014 - 2019)
 	* Ph.D. in *Management Engineering* (Major: Information Systems)
 	* Dissertation: “Toward a Sustainable Society in the Digital Economy: Three Essays on the Societal Impacts of Information Systems and Technology”
 
-* **Hong Kong University of Science and Technology (HKUST), Hong Kong** (February 2013 - June 2013)
+* **Hong Kong University of Science and Technology (HKUST), Hong Kong** (2013)
 	* Exchange Student
 
-* **Pohang University of Science and Technology (POSTECH), Pohang, Korea** (March 2008 - February 2014)
+* **Pohang University of Science and Technology (POSTECH), Pohang, Korea** (2008 - 2014)
 	* B.Eng. in *Industrial and Management Engineering*
 	* B.S. in *Mathematics*
 	* Minor in *Computer Science and Engineering*
