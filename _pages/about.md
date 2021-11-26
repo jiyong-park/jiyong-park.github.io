@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2020-12-01
+last_modified_at: 2021-12-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -68,8 +68,8 @@ toc_icon: "bookmark"
 * Conference Services
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
-	* Minitrack Co-Chair, Americas Conference on Information Systems (AMCIS) 2020
-	* Program Committee, KrAIS Research Workshop 2019, 2020 (Post-ICIS workshop)
+	* Minitrack Co-Chair (Bright ICT – Beyond Security and Privacy Concerns), Americas Conference on Information Systems (AMCIS) 2020
+	* Program Committee, KrAIS Research Workshop 2019, 2020, 2021 (Post-ICIS workshop)
 	* Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
 	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2021][9] [2020][8], [2019][7], [2018][6], [2017][5]
 

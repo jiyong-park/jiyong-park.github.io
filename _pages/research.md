@@ -49,12 +49,11 @@ toc_icon: "bookmark"
 <sub>Full drafts of the following working papers (excluding work in progress) are available upon request.</sub>
 
 * 1.1 Societal Impacts of Digitalization
-	1. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under revision for 2nd round review at *Information Systems Research*
+	1. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under 2nd round review at *Information Systems Research*
 	2. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety,” in preparation for submission
 	3. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber,” in preparation for submission
-	4. **Park, J.** “Overworking from Home: Overtime Work Restriction Policy, Telework, and Occupational Health,” work in progress
-	5. Kim, J., **Park, J.**, and Lee, J. “Gender-Blind or Gender-Biased? Gender Gap and Project Development Stage in Crowdfunding,” work in progress
-	6. Kim, D., **Park, J.**, Lee, C., and Zo, H. “Who Guards the Home? An Empirical Analysis of Online Home Services Platforms and Burglary,” work in progress
+	4. Kim, J., **Park, J.**, and Lee, J. “Gender-Blind or Gender-Biased? Gender Gap and Project Development Stage in Crowdfunding,” work in progress
+	5. Kim, D., **Park, J.**, Lee, C., and Zo, H. “Who Guards the Home? An Empirical Analysis of Online Home Services Platforms and Burglary,” work in progress
 <p></p>
 
 * 1.2 Harnessing Technology for Environmental Sustainability
@@ -76,7 +75,6 @@ toc_icon: "bookmark"
 	2. Gong, F., **Park, J.**, and Cao, Y. “The Impact of IT Spillovers on Technical Efficiency: The Roles of IT Intensity and Supply Chain Relationships,” submitted
 	3. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” in preparation for submission
 	4. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” in preparation for submission
-	5. **Park, J.** and Rhee, M. “Shelter in the Cloud: The Role of Cloud Computing in Building Resilience During the COVID-19 Pandemic,” work in progress
 <p></p>
 
 * 2.2 Business Analytics
