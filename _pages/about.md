@@ -29,14 +29,17 @@ toc_icon: "bookmark"
 
 
 ## Honors, Awards, and Grants
+*	Best Short Paper Award Nominee, International Conference on Information Systems (ICIS), 2021
+* Best Student Paper Award Runner-up, Post-ICIS KrAIS Research Workshop, 2021
+* Best Reviewer Award, Post-ICIS KrAIS Research Workshop, 2021
 * Research Grant from the Barun ICT Research Center, Yonsei University, 2021
 * Dean's Research Scholar Award (Research Grant), Bryan School of Business and Economics, UNCG, 2021
 * Recognition of Faculty Excellence in Research and Creative Activity, UNCG, 2021 (University Level)
 * Best Paper Award, Korea Society of Management Information Systems (KMIS) Fall Conference, 2020
-* Best Student Paper Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
+* Best Student Paper Award Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2017
 * Honorable Mention Research Award, KAIST Graduate School of Green Growth, 2017
-* Best Paper Runner-up, Post-ICIS KrAIS Research Workshop, 2016
+* Best Paper Award Runner-up, Post-ICIS KrAIS Research Workshop, 2016
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2016
 * Best Paper Award, International Conference on Electronic Commerce (ICEC), 2016
 * Best Paper Award, Korea Society of Management Information Systems (KMIS) Fall Conference, 2016
@@ -69,6 +72,7 @@ toc_icon: "bookmark"
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
 	* Minitrack Co-Chair (Bright ICT – Beyond Security and Privacy Concerns), Americas Conference on Information Systems (AMCIS) 2020
+	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022
 	* Program Committee, KrAIS Research Workshop 2019, 2020, 2021 (Post-ICIS workshop)
 	* Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
 	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2021][9] [2020][8], [2019][7], [2018][6], [2017][5]

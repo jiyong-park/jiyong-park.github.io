@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-last_modified_at: 2021-12-01
+last_modified_at: 2021-04-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -9,21 +9,35 @@ toc_icon: "bookmark"
 
 ## 2022
 * **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
+	* Face-to-Face Section
+	* Online Section
 
 ## 2021
 * **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
+	* Face-to-Face Section: Enrollment 23; Evaluation 4.43/5.0
+	* Online Section: Enrollment 73; Evaluation 4.56/5.0
 
 * **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
+	* Face-to-Face (Hybrid) Section: Enrollment 40; Evaluation 4.36/5.0
+	* Online Section: Enrollment 39; Evaluation 4.05/5.0
 
 ## 2020
 * **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
+	* Face-to-Face Section: Enrollment 21; Evaluation 4.43/5.0
+	* Online Section: Enrollment 80; Evaluation 4.54/5.0
 
 * **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
+	* Face-to-Face (Hybrid) Section: Enrollment 40; Evaluation 4.44/5.0
+	* Online Section: Enrollment 58; Evaluation 3.60/5.0
+
 
 ## 2019
 * **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
+	* Face-to-Face Section: Enrollment 53; Evaluation 4.42/5.0
+	* Online Section: Enrollment 54; Evaluation 3.97/5.0
 
 * **[Undergraduate]** MGT0044: Decision Support Systems (Spring, Hansung University, Korea)
+	* Enrollment 28; Evaluation 4.76/5.0
 
 
 ## Research Methodology Seminars
