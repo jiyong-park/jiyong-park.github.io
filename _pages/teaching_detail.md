@@ -1,11 +1,4 @@
----
-permalink: /teaching/
-title: "Teaching"
-last_modified_at: 2021-04-01
-toc: true
-toc_label: " Table of Contents"
-toc_icon: "bookmark"
----
+
 
 ## 2022
 * **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
