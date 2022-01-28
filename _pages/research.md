@@ -52,14 +52,12 @@ toc_icon: "bookmark"
 	4. **Park, J.** “Digital Transformation for Climate Resilience: An Empirical Analysis of IT Adoption and Business Continuity during Climate Disasters,” work in progress
 	5. **Park, J.** “Local Spillovers of Data Centers in Energy and Carbon Footprints,” work in progress
 	6. Dedrick, J., Kim, J., **Park, J.**, Shih, E. “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress
-<p></p>
 
 * 1.1 Technological Innovation for Environmental Sustainability
 	1. **Park, J.*** and Shim, J.* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” in preparation for submission [* Equal contribution]
 	2. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the Shale Boom in the US,” in preparation for submission
-<p></p>
 
-2. Societal Impacts of IS/IT
+* 2. Societal Impacts of IS/IT
 	1. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under 2nd round review at *Information Systems Research*
 	2. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety,” in preparation for submission
 	3. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber,” in preparation for submission
@@ -67,18 +65,15 @@ toc_icon: "bookmark"
 	5. Kim, D., **Park, J.**, Lee, C., and Zo, H. “Who Guards the Home? An Empirical Analysis of an Online Freelance Platform for Home Services and Burglary,” submitted
 	6. Kim, J., **Park, J.**, and Lee, J. “Gender-Blind or Gender-Biased? Gender Gap and Project Development Stage in Crowdfunding,” work in progress
 	7. Kim, D. and **Park, J.** “Is the Repeal of Net Neutrality a Necessary Evil? An Empirical Analysis of Net Neutrality and Cybercrime,” work in progress
-<p></p>
 
 3. Business Value of IS/IT
 	1. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching the COVID-19 Pandemic,” under 3rd round review at *MIS Quarterly*
 	2. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” in preparation for submission
 	3. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” work in progress
-<p></p>
 
 * 3.1 Business Analytics
 	1. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under revision for 3rd round review at *MIS Quarterly*
 	2. **Park, J.** “Optimal Curriculum Design of Online Business Education: A Learning Analytics Approach,” work in progress
-<p></p>
 
 * 3.2 E-Business Strategies
 
