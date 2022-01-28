@@ -12,7 +12,7 @@ toc_icon: "bookmark"
 
 ## Research Interest
 <p>My research interests lie at the intersection between business and social values of information systems and technology (IS/IT), primarily in three research areas geared toward Sustainability (environmental, social, and economic): (i) Green IS/IT for Environmental Sustainability, (ii) Societal Impacts of IS/IT, and (iii) Business Value of IS/IT.</p>
-<p>Methodologically, I have employed econometrics methods for causal inference as well as machine learning techniques for harnessing unstructured data.</p>
+<p>Methodologically, I have employed econometrics methods for causal inference as well as machine learning and NLP models for harnessing unstructured data.</p>
 
 
 
