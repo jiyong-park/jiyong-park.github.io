@@ -57,7 +57,7 @@ toc_icon: "bookmark"
 	1. **Park, J.*** and Shim, J.* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” in preparation for submission [* Equal contribution]
 	2. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the Shale Boom in the US,” in preparation for submission
 
-* 2. Societal Impacts of IS/IT
+2. Societal Impacts of IS/IT
 	1. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under 2nd round review at *Information Systems Research*
 	2. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety,” in preparation for submission
 	3. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber,” in preparation for submission
