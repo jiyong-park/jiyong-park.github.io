@@ -54,8 +54,7 @@ toc_icon: "bookmark"
 	6. Dedrick, J., Kim, J., **Park, J.**, Shih, E. “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress
 <p></p>
 
-1.1 Technological Innovation for Environmental Sustainability
-
+* 1.1 Technological Innovation for Environmental Sustainability
 	1. **Park, J.*** and Shim, J.* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” in preparation for submission [* Equal contribution]
 	2. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the Shale Boom in the US,” in preparation for submission
 <p></p>
@@ -76,13 +75,12 @@ toc_icon: "bookmark"
 	3. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” work in progress
 <p></p>
 
-3.1 Business Analytics
-
+* 3.1 Business Analytics
 	1. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under revision for 3rd round review at *MIS Quarterly*
 	2. **Park, J.** “Optimal Curriculum Design of Online Business Education: A Learning Analytics Approach,” work in progress
 <p></p>
 
-3.2 E-Business Strategies
+* 3.2 E-Business Strategies
 
 	1. Shin, W., **Park, J.**, and Kim, H. "Turning Fear into Loyalty: Fear Appeal and Online Shopping Demand During Disasters and Afterward,” in preparation for submission
 	2. Kim, K., **Park, J.**, and Kim, H. "Is AI Your Assistant or Supervisor? AI-Based Quality Control in the Gig Economy,” work in progress
