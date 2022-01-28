@@ -46,15 +46,16 @@ toc_icon: "bookmark"
 <sub>Full drafts of the following working papers, except work in progress, are available upon request.</sub>
 
 1. Green IS/IT for Environmental Sustainability
-		1. **Park, J.**, Han, K., and Lee, B., 2022. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 4th round review at *Management Science*.
-		2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under revision for 2nd round review at *Production and Operations Management*
-		3. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
-		4. **Park, J.** “Digital Transformation for Climate Resilience: An Empirical Analysis of IT Adoption and Business Continuity during Climate Disasters,” work in progress
-		5. **Park, J.** “Local Spillovers of Data Centers in Energy and Carbon Footprints,” work in progress
-		6. Dedrick, J., Kim, J., **Park, J.**, Shih, E. “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress
+	1. **Park, J.**, Han, K., and Lee, B., 2022. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 4th round review at *Management Science*.
+	2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under revision for 2nd round review at *Production and Operations Management*
+	3. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
+	4. **Park, J.** “Digital Transformation for Climate Resilience: An Empirical Analysis of IT Adoption and Business Continuity during Climate Disasters,” work in progress
+	5. **Park, J.** “Local Spillovers of Data Centers in Energy and Carbon Footprints,” work in progress
+	6. Dedrick, J., Kim, J., **Park, J.**, Shih, E. “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress
 <p></p>
 
 1.1 Technological Innovation for Environmental Sustainability
+
 	1. **Park, J.*** and Shim, J.* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” in preparation for submission [* Equal contribution]
 	2. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the Shale Boom in the US,” in preparation for submission
 <p></p>
@@ -76,11 +77,13 @@ toc_icon: "bookmark"
 <p></p>
 
 3.1 Business Analytics
+
 	1. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under revision for 3rd round review at *MIS Quarterly*
 	2. **Park, J.** “Optimal Curriculum Design of Online Business Education: A Learning Analytics Approach,” work in progress
 <p></p>
 
 3.2 E-Business Strategies
+
 	1. Shin, W., **Park, J.**, and Kim, H. "Turning Fear into Loyalty: Fear Appeal and Online Shopping Demand During Disasters and Afterward,” in preparation for submission
 	2. Kim, K., **Park, J.**, and Kim, H. "Is AI Your Assistant or Supervisor? AI-Based Quality Control in the Gig Economy,” work in progress
 <p></p>
