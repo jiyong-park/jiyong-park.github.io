@@ -46,7 +46,7 @@ toc_icon: "bookmark"
 <sub>Full drafts of the following working papers, except work in progress, are available upon request.</sub>
 
 1. Green IS/IT for Environmental Sustainability
-	1. **Park, J.**, Han, K., and Lee, B., 2022. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 4th round review at *Management Science*
+	1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 4th round review at *Management Science*
 	2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under revision for 2nd round review at *Production and Operations Management*
 	3. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
 	4. **Park, J.** “Digital Transformation for Climate Resilience: An Empirical Analysis of IT Adoption and Business Continuity during Climate Disasters,” work in progress
