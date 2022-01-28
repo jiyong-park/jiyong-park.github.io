@@ -54,7 +54,7 @@ toc_icon: "bookmark"
 	6. Dedrick, J., Kim, J., **Park, J.**, Shih, E. “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress
 
 	* 1.1 Technological Innovation for Environmental Sustainability
-	1. **Park, J.*** and Shim, J.* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” in preparation for submission [* Equal contribution]
+	1. **Park, J.*** and Shim, J.* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” in preparation for submission [* Equal Contribution]
 	2. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the Shale Boom in the US,” in preparation for submission
 
 2. Societal Impacts of IS/IT
