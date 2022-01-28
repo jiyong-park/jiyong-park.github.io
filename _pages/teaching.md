@@ -8,6 +8,9 @@ toc_icon: "bookmark"
 ---
 
 ## 2022
+* **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
+* **[Graduate]** ISM 760: Contemporary Research Methods in Information Systems (Fall, UNCG, USA)
+
 * **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
 
 ## 2021

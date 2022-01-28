@@ -8,20 +8,20 @@ toc_icon: "bookmark"
 ---
 
 ## Academic Position
-* **Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG), Greensboro, NC, USA** (2019 - Present)
+* **Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG)**, Greensboro, NC, USA (2019 - Present)
 	* Assistant Professor of Information Systems (Tenure-Track)
 	* Co-affiliated with Informatics and Analytics Program
 
 
 ## Education
-* **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (2014 - 2019)
+* **Korea Advanced Institute of Science and Technology (KAIST)**, Seoul, Korea (2014 - 2019)
 	* Ph.D. in *Management Engineering* (Major: Information Systems)
 	* Dissertation: “Toward a Sustainable Society in the Digital Economy: Three Essays on the Societal Impacts of Information Systems and Technology”
 
-* **Hong Kong University of Science and Technology (HKUST), Hong Kong** (2013)
+* **Hong Kong University of Science and Technology (HKUST)**, Hong Kong (2013)
 	* Exchange Student
 
-* **Pohang University of Science and Technology (POSTECH), Pohang, Korea** (2008 - 2014)
+* **Pohang University of Science and Technology (POSTECH)**, Pohang, Korea (2008 - 2014)
 	* B.Eng. in *Industrial and Management Engineering*
 	* B.S. in *Mathematics*
 	* Minor in *Computer Science and Engineering*
@@ -49,7 +49,9 @@ toc_icon: "bookmark"
 * Ph.D. Fellowship, College of Business, KAIST, 2014 – 2018
 
 
-## Invited Talks/Lectures
+## Invited Talks and Seminars
+* University of Florida, FL, USA, 2022
+* Korean Artificial Intelligence Association, Korea (virtual), 2022
 * Korean Academic Society of Business Administration, Korea (virtual), 2021
 * Yonsei University, Korea (virtual), 2021
 * Korea University, Korea (virtual), 2021
@@ -63,28 +65,24 @@ toc_icon: "bookmark"
 * Nanyang Technological University, Singapore, 2018
 
 
-## Services
-* Ad Hoc Reviewers
-	* Management Science, Information Systems Research, Information Systems Frontiers, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review
+## Service
+* Ad Hoc Reviewer
+	* Management Science, Information Systems Research, MIS Quarterly, Information Systems Frontiers, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review
 	* International Conference on Information Systems (ICIS), Americas Conference on Information Systems (AMCIS), Pacific Asia Conference on Information Systems (PACIS), European Conference on Information Systems (ECIS), INFORMS Conference on Information Systems and Technology (CIST), Hawaii International Conference on System Sciences (HICSS), International Conference on Electronic Commerce (ICEC)
 
-* Conference Services
+* Conference/Workshop Committee Member & Associate Editor
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
 	* Minitrack Co-Chair (Bright ICT – Beyond Security and Privacy Concerns), Americas Conference on Information Systems (AMCIS) 2020
 	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022
-	* Program Committee, KrAIS Research Workshop 2019, 2020, 2021 (Post-ICIS workshop)
+	* Program Committee, Post-ICIS KrAIS Research Workshop 2019, 2020, 2021
 	* Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
 	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2021][9] [2020][8], [2019][7], [2018][6], [2017][5]
 
 * Doctoral Student Supervision
-	* Yuzhang Han, Bryan School of Business and Economics, UNCG (Dissertation Committee)
-	* Nabid Alam, Bryan School of Business and Economics, UNCG (Dissertation Committee)
+	* Yuzhang Han, Bryan School of Business and Economics, UNCG (Dissertation Committee; First Placement: York College of Pennsylvania)
+	* Nabid Alam, Bryan School of Business and Economics, UNCG (Dissertation Committee; First Placement: Emporia State University)
 
-* Membership
-	* Association for Information Systems (AIS)
-	* Institute for Operations Research and the Management Science (INFORMS)
-	* Korea Society of Management Information Systems (KMIS)
 
 
 [1]: https://www.business.kaist.edu/
