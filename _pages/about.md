@@ -16,7 +16,6 @@ toc_icon: "bookmark"
 ## Education
 * **Korea Advanced Institute of Science and Technology (KAIST)**, Seoul, Korea (2014 - 2019)
 	* Ph.D. in *Management Engineering* (Major: Information Systems)
-	* Dissertation: “Toward a Sustainable Society in the Digital Economy: Three Essays on the Societal Impacts of Information Systems and Technology”
 
 * **Hong Kong University of Science and Technology (HKUST)**, Hong Kong (2013)
 	* Exchange Student
