@@ -22,7 +22,7 @@ toc_icon: "bookmark"
 
 2. Societal Impacts of IS/IT
 	1. **Park, J.** and Kim, J., 2022. "A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century," *Communications of the ACM*, forthcoming. [[SSRN][CACM22-1]]
-		* [Website for Job Automation Index][CACM2022-2]
+		* [Website for Job Automation Index][CACM22-2]
 	2. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research* (32:2), pp.497-516. [[LINK][ISR21-1]][[SSRN][ISR21-2]]
 		* Non-technical summary ([Article in TechCrunch][ISR21-3])
 		* Featured by INFORMS ([Press Release][ISR21-4]) ([INFORMS Podcast][ISR21-5])
