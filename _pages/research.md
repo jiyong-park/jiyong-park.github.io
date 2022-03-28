@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-last_modified_at: 2022-02-01
+last_modified_at: 2022-04-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -11,28 +11,29 @@ toc_icon: "bookmark"
 
 
 ## Research Interest
-<p>My research interests lie at the intersection between business and social values of information systems and technology (IS/IT), primarily in three research areas geared toward Sustainability (environmental, social, and economic): (i) Green IS/IT for Environmental Sustainability, (ii) Societal Impacts of IS/IT, and (iii) Business Value of IS/IT.</p>
+<p>My research interests lie at the intersection between business and social values of information systems and technology (IS/IT), primarily in three research areas geared toward ***Sustainability*** (environmental, social, and economic): (i) Green IS/IT for Environmental Sustainability, (ii) Societal Impacts of IS/IT, and (iii) Business Value of IS/IT.</p>
 <p>Methodologically, I have employed econometrics methods for causal inference as well as machine learning and NLP models for harnessing unstructured data.</p>
 
 
 
 ## Publications
 1. Green IS/IT for Environmental Sustainability
-
+	1. **Park, J.**, Han, K., and Lee, B., 2022. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” ***Management Science***, forthcoming. [[SSRN][MS22-1]]
 
 2. Societal Impacts of IS/IT
-	1. **Park, J.** and Kim, J., 2022. "A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century," *Communications of the ACM*, forthcoming. [[SSRN][CACM22-1]]
-		* [Website for Job Automation Index][CACM22-2]
-	2. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," *Information Systems Research* (32:2), pp.497-516. [[LINK][ISR21-1]][[SSRN][ISR21-2]]
+	1. **Park, J.** and Kim, J., 2022. "A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century," *Communications of the ACM*, forthcoming. [[SSRN][CACM22-2]]
+		* [Website for Job Automation Index][CACM22-3]
+	2. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," ***Information Systems Research*** (32:2), pp.497-516. [[PAPER][ISR21-1]][[SSRN][ISR21-2]]
 		* Non-technical summary ([Article in TechCrunch][ISR21-3])
 		* Featured by INFORMS ([Press Release][ISR21-4]) ([INFORMS Podcast][ISR21-5])
-	3. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[LINK][TMIS21-1]]
+	3. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[PAPER][TMIS21-1]]
 
 3. Business Value of IS/IT
-	1. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[LINK][I&M21-1]]
+	1. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
 
-[CACM22-1]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924789
-[CACM22-2]: http://www.jobautomationindex.com/
+[MS22-1]:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068114
+[CACM22-2]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924789
+[CACM22-3]: http://www.jobautomationindex.com/
 [ISR21-1]: https://pubsonline.informs.org/doi/10.1287/isre.2020.0978
 [ISR21-2]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2951138
 [ISR21-3]: https://techcrunch.com/2020/11/05/study-shows-cities-with-ride-hailing-services-report-lower-rates-of-sexual-assault/
@@ -46,30 +47,30 @@ toc_icon: "bookmark"
 <sub>Full drafts of the following working papers, except work in progress, are available upon request.</sub>
 
 1. Green IS/IT for Environmental Sustainability
-	1. **Park, J.**, Han, K., and Lee, B. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” under 4th round review at *Management Science*
-	2. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under revision for 2nd round review at *Production and Operations Management*
-	3. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
-	4. **Park, J.** “Digital Transformation for Climate Resilience: An Empirical Analysis of IT Adoption and Business Continuity during Climate Disasters,” work in progress
-	5. **Park, J.** “Local Spillovers of Data Centers in Energy and Carbon Footprints,” work in progress
-	6. Dedrick, J., Kim, J., **Park, J.**, Shih, E. “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress
+	1. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under revision for 2nd round review at *Production and Operations Management*
+	2. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
+	3. **Park, J.** “Digital Transformation for Climate Resilience: An Empirical Analysis of IT Adoption and Business Continuity during Climate Disasters,” work in progress
+	4. **Park, J.** “Local Spillovers of Data Centers in Energy and Carbon Footprints,” work in progress
+	5. Dedrick, J.\*, Kim, J.\*, **Park, J.**\*, Shih, E.\* “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress [* Equal Contribution]
 
 	* 1.1 Technological Innovation for Environmental Sustainability
-	1. **Park, J.*** and Shim, J.* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” in preparation for submission [* Equal Contribution]
+	1. **Park, J.**\* and Shim, J.\* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” in preparation for submission [* Equal Contribution]
 	2. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the Shale Boom in the US,” in preparation for submission
 
 2. Societal Impacts of IS/IT
-	1. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” under 2nd round review at *Information Systems Research*
+	1. **Park, J.** “The Sharing Economy and Local Economies: The Complementary Impact of Home-Sharing and Ride-Sharing Platforms on Tourism Employment,” submitted
 	2. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety,” in preparation for submission
-	3. **Park, J.** “How the Sharing Economy Changes the Tourism Landscape: The Complementary Impacts of Airbnb and Uber,” in preparation for submission
-	4. **Park, J.**, Han, K., and Lee, B. “Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty,” in preparation for submission
-	5. Kim, D., **Park, J.**, Lee, C., and Zo, H. “Who Guards the Home? An Empirical Analysis of an Online Freelance Platform for Home Services and Burglary,” submitted
-	6. Kim, J., **Park, J.**, and Lee, J. “Gender-Blind or Gender-Biased? Gender Gap and Project Development Stage in Crowdfunding,” work in progress
-	7. Kim, D. and **Park, J.** “Is the Repeal of Net Neutrality a Necessary Evil? An Empirical Analysis of Net Neutrality and Cybercrime,” work in progress
+	3. **Park, J.**, Han, K., and Lee, B. “Information and Communication Technology and Wage Structure: The Role of Environmental Uncertainty,” in preparation for submission
+	4. Kim, D., **Park, J.**, Lee, C., and Zo, H. “Who Guards the Home? An Empirical Analysis of an Online Freelance Platform for Home Services and Burglary,” submitted
+	5. Kim, J., **Park, J.**, and Lee, J. “Gender-Blind or Gender-Biased? Gender Gap and Project Development Stage in Crowdfunding,” work in progress
+	6. Kim, D. and **Park, J.** “Is the Repeal of Net Neutrality a Necessary Evil? An Empirical Analysis of Net Neutrality and Cybercrime,” work in progress
+	7. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” in preparation for submission
 
 3. Business Value of IS/IT
-	1. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching the COVID-19 Pandemic,” under 3rd round review at *MIS Quarterly*
-	2. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” in preparation for submission
-	3. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” work in progress
+	1. **Park, J.**, Son, Y., and Angst, C. “Value of IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching the COVID-19 Pandemic,” under revision for 4th round review at *MIS Quarterly*
+	2. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” work in progress
+	3. Bae, E. and **Park, J.** “Data (Center) Economy: Productivity Impacts of Data Center Proximity and Regional Access to Cloud Computing,” work in progress
+	4. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” in preparation for submission
 
 	* 3.1 Business Analytics
 	1. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under revision for 3rd round review at *MIS Quarterly*
@@ -77,7 +78,7 @@ toc_icon: "bookmark"
 
 	* 3.2 E-Business Strategies
 	1. Shin, W., **Park, J.**, and Kim, H. "Turning Fear into Loyalty: Fear Appeal and Online Shopping Demand During Disasters and Afterward,” in preparation for submission
-	2. Kim, K., **Park, J.**, and Kim, H. "Is AI Your Assistant or Supervisor? AI-Based Quality Control in the Gig Economy,” work in progress
+	2. Kim, K., **Park, J.**, and Kim, H. "How Much Do You Rely on AI? AI-Based Quality Management in the Gig Economy,” work in progress
 <p></p>
 
 ## Conference/Workshop Presentations
