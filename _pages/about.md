@@ -17,7 +17,7 @@ toc_icon: "bookmark"
 * **Korea Advanced Institute of Science and Technology (KAIST)**, Seoul, Korea (2014 - 2019)
 	* Ph.D. in *Management Engineering* (Major: Information Systems)
 
-* **Hong Kong University of Science and Technology (HKUST)**, Hong Kong (2013)
+* **Hong Kong University of Science and Technology (HKUST)**, Hong Kong (Spring 2013)
 	* Exchange Student
 
 * **Pohang University of Science and Technology (POSTECH)**, Pohang, Korea (2008 - 2014)
