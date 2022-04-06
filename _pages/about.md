@@ -49,6 +49,7 @@ toc_icon: "bookmark"
 
 
 ## Invited Talks and Seminars
+* Hanyang University, Korea (virtual), 2022
 * University of Florida, FL, USA, 2022
 * Korean Artificial Intelligence Association, Korea (virtual), 2022
 * Korean Academic Society of Business Administration, Korea (virtual), 2021
