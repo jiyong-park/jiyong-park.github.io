@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-last_modified_at: 2022-02-01
+last_modified_at: 2022-06-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -29,34 +29,39 @@ toc_icon: "bookmark"
 
 
 ## Research Methodology Seminars
-* Korea Causal Inference Summer Session 2021 (Summer 2021, Online)
-	* Online sessions for introducing research methodologies and data analytical approaches in pursuit of causal inference
+* Korea Summer Workshop on Causal Inference 2022 (Summer 2022, Online)
+	* Online seminar series to present research and best practices for causal inference
+	* [Website][summersession22]
+
+* Korea Summer Session on Causal Inference 2021 (Summer 2021, Online)
+	* Online seminar series for introducing research methodologies and data analytical approaches in pursuit of causal inference
 	* Module 1: Research Design for Causal Inference (10 Sessions)
 	* Module 2: Machine Learning for Causal Inference (8 Sessions)
-	* [Session website][1]
+	* [Website][summersession21]
 
 * Social Science of COVID-19: From the Perspective of Causal Inference (Summer 2020, Online)
 	* Online sessions to review empirical studies on COVID-19 with a particular focus on causal inference
-	* [Session website][2]
+	* [Website][summersession20]
 
 * MIS Summer Session 2019 - Experimental Empirical Methods (Summer 2019, KAIST)
 	* Non-credit session for PhD/MS students
-	* [Session website][3]
+	* [Website][summersession19]
 
 * MIS Summer Session 2018 - Research Design for Data Analytics (Summer 2018, KAIST)
 	* Non-credit session for PhD/MS students
 	* Module 1: (lecture) Research Design for Data Analytics
 	* Module 2: (hands-on) Causal Inference with STATA
 	* Module 3: (hands-on) Deep Learning with PyTorch
-	* [Session website][4] / [GitHub for hands-on codes][5]
+	* [Website][summersession18-1] / [GitHub for hands-on codes][summersession18-2]
 
 * MIS Summer Session 2017 - Introduction to Economics of IS and Research Methodology (Summer 2017, KAIST)
 	* Non-credit session for PhD/MS students
-	* [Session website][6]
+	* [Website][summersession17]
 
-[1]: https://sites.google.com/view/causal-inference2021
-[2]: https://sites.google.com/view/social-science-of-covid-19
-[3]: https://sites.google.com/view/kaist-mis-session2019
-[4]: https://sites.google.com/view/kaist-mis-session2018
-[5]: https://github.com/jiyong-park/kaist-summer-session2018
-[6]: https://sites.google.com/view/kaist-mis-session2017
+[summersession22]: https://sites.google.com/view/causal-inference2022
+[summersession21]: https://sites.google.com/view/causal-inference2021
+[summersession20]: https://sites.google.com/view/social-science-of-covid-19
+[summersession19]: https://sites.google.com/view/kaist-mis-session2019
+[summersession18-1]: https://sites.google.com/view/kaist-mis-session2018
+[summersession18-2]: https://github.com/jiyong-park/kaist-summer-session2018
+[summersession17]: https://sites.google.com/view/kaist-mis-session2017

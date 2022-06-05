@@ -1,5 +1,5 @@
 
-7. **Park, J.** "Greenwashing in the Cloud: Cloud Computing Adoption, Corporate Sustainability Disclosure, and Environmental Performance,” work in progress
+7. **Park, J.** "Greenwashing in the Cloud: Cloud Migration, Corporate Sustainability Disclosure, and Environmental Performance,” work in progress
 
 7. Lee, M., **Park, J.**, Cho, D., and Lee, H. "Does Bike-Sharing Help Commercial Revitalization? The Impact of Bike-Sharing on Sales in Local Commercial Districts," work in progress
 
@@ -8,3 +8,6 @@
 5. **Park, J.** and Rhee, M. “Shelter in the Cloud: The Role of Cloud Computing in Building Resilience During the COVID-19 Pandemic,” work in progress
 
 4. **Park, J.** “Overworking from Home: Overtime Work Restriction Policy, Telework, and Occupational Health,” work in progress
+
+
+	3. **Park, J.** and Pang, M.S. “Information Technology on the Beat: The Impacts of Body-Worn Camera and Facial Recognition Technology on Public Safety,” in preparation for submission

@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2021-12-01
+last_modified_at: 2022-06-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -16,9 +16,6 @@ toc_icon: "bookmark"
 ## Education
 * **Korea Advanced Institute of Science and Technology (KAIST)**, Seoul, Korea (2014 - 2019)
 	* Ph.D. in *Management Engineering* (Major: Information Systems)
-
-* **Hong Kong University of Science and Technology (HKUST)**, Hong Kong (Spring 2013)
-	* Exchange Student
 
 * **Pohang University of Science and Technology (POSTECH)**, Pohang, Korea (2008 - 2014)
 	* B.Eng. in *Industrial and Management Engineering*
@@ -67,7 +64,7 @@ toc_icon: "bookmark"
 
 ## Service
 * Ad Hoc Reviewer
-	* Management Science, Information Systems Research, MIS Quarterly, Information Systems Frontiers, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review
+	* Management Science, MIS Quarterly, Information Systems Research, Production and Operations Management, Information Systems Frontiers, Information & Management, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review, Communications of the ACM
 	* International Conference on Information Systems (ICIS), Americas Conference on Information Systems (AMCIS), Pacific Asia Conference on Information Systems (PACIS), European Conference on Information Systems (ECIS), INFORMS Conference on Information Systems and Technology (CIST), Hawaii International Conference on System Sciences (HICSS), International Conference on Electronic Commerce (ICEC)
 
 * Conference/Workshop Committee Member & Associate Editor
