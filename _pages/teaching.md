@@ -28,15 +28,15 @@ toc_icon: "bookmark"
 * **[Undergraduate]** MGT0044: Decision Support Systems (Spring, Hansung University, Korea)
 
 
-## Research Methodology Seminars
+## Causal Inference/Research Methodology Workshops
+<sub>Organizing the workshops</sub>
+
 * Korea Summer Workshop on Causal Inference 2022 (Summer 2022, Online)
 	* Online seminar series to present research and best practices for causal inference
 	* [Website][summersession22]
 
 * Korea Summer Session on Causal Inference 2021 (Summer 2021, Online)
-	* Online seminar series for introducing research methodologies and data analytical approaches in pursuit of causal inference
-	* Module 1: Research Design for Causal Inference (10 Sessions)
-	* Module 2: Machine Learning for Causal Inference (8 Sessions)
+	* Online seminar series to introduce research methodologies and data analytical approaches in pursuit of causal inference
 	* [Website][summersession21]
 
 * Social Science of COVID-19: From the Perspective of Causal Inference (Summer 2020, Online)
