@@ -16,8 +16,8 @@ toc_icon: "bookmark"
 
 
 3. **Park, J.** and Kim, J., 2022. "A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century," *Communications of the ACM* (65:5), pp.79-87.
-  * Data can be downloaded at http://www.jobautomationindex.com/.
-  * Replication codes can be found at https://github.com/jonghkim/job-automation-index.
+  * Data can be downloaded at [[http://www.jobautomationindex.com][CACM22-1]].
+  * Replication codes can be found at [[https://github.com/jonghkim/job-automation-index][CACM22-2]].
 
 
 4. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," ***Information Systems Research*** (32:2), pp.497-516.
@@ -25,4 +25,6 @@ toc_icon: "bookmark"
 
 [MS22-1]: https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2022.4442
 [MISQ22-1]: https://jiyong-park.github.io/data/
+[CACM22-1]: http://www.jobautomationindex.com
+[CACM22-2]: https://github.com/jonghkim/job-automation-index
 [ISR21-1]: https://jiyong-park.github.io/data/
