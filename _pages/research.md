@@ -58,9 +58,9 @@ My research interests lie at the intersection between business and social values
 	3. **Park, J.** “Local Spillovers of Data Centers in Energy and Carbon Footprints,” work in progress
 	4. Dedrick, J.\*, Kim, J.\*, **Park, J.**\*, Shih, E.\* “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress [* Equal Contribution]
 
-* 1.1 Technological Innovation for Environmental Sustainability
-	1. **Park, J.**\* and Shim, J.\* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” submitted [* Equal Contribution]
-	2. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the US Shale Boom,” submitted
+	* 1.1. Technological Innovation for Environmental Sustainability
+		1. **Park, J.**\* and Shim, J.\* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” submitted [* Equal Contribution]
+		2. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the US Shale Boom,” submitted
 
 2. Societal Impacts of IS/IT
 	1. **Park, J.** “The Sharing Economy and Local Economies: The Complementary Impact of Home-Sharing and Ride-Sharing Platforms on Tourism Employment,” submitted
