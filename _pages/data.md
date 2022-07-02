@@ -11,7 +11,7 @@ toc_icon: "bookmark"
   * [[Data and Replication Codes][MS22-1]]
 
 
-2. **Park, J.**, Son, Y., and Angst, C., 2022. “Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly***, forthcoming.
+2. **Park, J.**, Son, Y., and Angst, C., 2022. “Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly***, conditionally accepted.
   * [[Data and Replication Codes][MISQ22-1]]
 
 
