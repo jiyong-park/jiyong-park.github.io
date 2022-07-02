@@ -57,10 +57,8 @@ My research interests lie at the intersection between business and social values
 	2. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
 	3. **Park, J.** “Local Spillovers of Data Centers in Energy and Carbon Footprints,” work in progress
 	4. Dedrick, J.\*, Kim, J.\*, **Park, J.**\*, Shih, E.\* “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress [* Equal Contribution]
-
-	* 1.1. Technological Innovation for Environmental Sustainability
-		1. **Park, J.**\* and Shim, J.\* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” submitted [* Equal Contribution]
-		2. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the US Shale Boom,” submitted
+	5. **Park, J.**\* and Shim, J.\* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” in preparation for submission [* Equal Contribution]
+	6. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the US Shale Boom,” in preparation for submission
 
 2. Societal Impacts of IS/IT
 	1. **Park, J.** “The Sharing Economy and Local Economies: The Complementary Impact of Home-Sharing and Ride-Sharing Platforms on Tourism Employment,” submitted
@@ -71,17 +69,13 @@ My research interests lie at the intersection between business and social values
 	6. Kim, J., **Park, J.**, and Lee, J. “Gender-Blind or Gender-Biased? Gender Gap and Project Development Stage in Crowdfunding,” work in progress
 
 3. Business Value of IS/IT
-	1. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” work in progress
-	2. Bae, E. and **Park, J.** “Data (Center) Economy: Performance Implications of Data Center Proximity in Developing Economies,” work in progress
-	3. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” in preparation for submission
-
-* 3.1 Business Analytics
 	1. **Park, J.**, Kim, J., Cho, D., and Lee, B. “Pitching in Character: The Role of Video Pitch’s Personality Style in Online Crowdfunding,” under revision for 3rd round review at *MIS Quarterly*
-	2. **Park, J.** “Optimal Curriculum Design of Online Business Education: A Learning Analytics Approach,” work in progress
-
-* 3.2 E-Business Strategies
-	1. Shin, W., **Park, J.**, and Kim, H. "Turning Lemons into Lemonade: Fear Appeal and Online Shopping During Disasters and Afterward,” submitted
-	2. Kim, K., **Park, J.**, and Kim, H. "How Much Do You Rely on AI? AI-Based Quality Management in the Gig Economy,” work in progress
+	2. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” work in progress
+	3. **Park, J.** “Optimal Curriculum Design of Online Business Education: A Learning Analytics Approach,” work in progress
+	4. Bae, E. and **Park, J.** “Data (Center) Economy: Performance Implications of Data Center Proximity in Developing Economies,” work in progress
+	5. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” in preparation for submission
+	6. Shin, W., **Park, J.**, and Kim, H. "Turning Lemons into Lemonade: Fear Appeal and Online Shopping During Disasters and Afterward,” submitted
+	7. Kim, K., **Park, J.**, and Kim, H. "How Much Do You Rely on AI? AI-Based Quality Management in the Gig Economy,” work in progress
 <p></p>
 
 
