@@ -29,7 +29,7 @@ toc_icon: "bookmark"
 
 
 ## Causal Inference/Research Methodology Workshops
-<sub>Organizing the workshops</sub>
+<sub>Initiated and organized the workshops</sub>
 
 * Korea Summer Workshop on Causal Inference 2022 (Summer 2022, Online)
 	* Online seminar series to present research and best practices for causal inference
@@ -49,9 +49,6 @@ toc_icon: "bookmark"
 
 * MIS Summer Session 2018 - Research Design for Data Analytics (Summer 2018, KAIST)
 	* Non-credit session for PhD/MS students
-	* Module 1: (lecture) Research Design for Data Analytics
-	* Module 2: (hands-on) Causal Inference with STATA
-	* Module 3: (hands-on) Deep Learning with PyTorch
 	* [Website][summersession18-1] / [GitHub for hands-on codes][summersession18-2]
 
 * MIS Summer Session 2017 - Introduction to Economics of IS and Research Methodology (Summer 2017, KAIST)
