@@ -56,9 +56,9 @@ My research interests lie at the intersection between business and social values
 	1. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under 2nd round review at *Production and Operations Management*
 	2. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
 	3. **Park, J.** “Local Spillovers of Data Centers in Energy and Carbon Footprints,” work in progress
-	4. Dedrick, J.\*, Kim, J.\*, **Park, J.**\*, Shih, E.\* “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress [* Equal Contribution]
-	5. **Park, J.**\* and Shim, J.\* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” in preparation for submission [* Equal Contribution]
-	6. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the US Shale Boom,” in preparation for submission
+	4. **Park, J.**\* and Shim, J.\* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 101 Countries,” in preparation for submission [* Equal Contribution]
+	5. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the US Shale Boom,” in preparation for submission
+	6. Dedrick, J.\*, Kim, J.\*, **Park, J.**\*, Shih, E.\* “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress [* Equal Contribution]
 
 2. Societal Impacts of IS/IT
 	1. **Park, J.** “The Sharing Economy and Local Economies: The Complementary Impact of Home-Sharing and Ride-Sharing Platforms on Tourism Employment,” submitted
