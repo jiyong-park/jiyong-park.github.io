@@ -24,7 +24,7 @@ toc_icon: "bookmark"
   * [Data and Replication Code][ISR21-1]
 
 [MS22-1]: https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2022.4442
-[MISQ22-1]: https://jiyong-park.github.io/data/
+[MISQ22-1]: https://doi.org/10.7910/DVN/EKIGQ8
 [CACM22-1]: http://www.jobautomationindex.com
 [CACM22-2]: https://github.com/jonghkim/job-automation-index
 [ISR21-1]: https://jiyong-park.github.io/data/
