@@ -53,7 +53,7 @@ My research interests lie at the intersection between business and social values
 <sub>Full drafts of the following working papers, except work in progress, are available upon request.</sub>
 
 1. Green IS/IT & Green Technology
-	1. **Park, J.**, Han, K., and Lee, B. “Reconciling Economic and Environmental Goals: The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under 2nd round review at *Production and Operations Management*
+	1. **Park, J.**, Han, K., and Lee, B. “Can IT-Driven Growth be Sustainable? The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under 2nd round review at *Production and Operations Management*
 	2. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
 	3. **Park, J.** “Local Spillovers of Data Centers in Energy and Carbon Footprints,” work in progress
 	4. **Park, J.**\* and Shim, J.\* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 95 Countries,” submitted [* Equal Contribution]
