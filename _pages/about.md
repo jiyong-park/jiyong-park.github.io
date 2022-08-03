@@ -25,7 +25,7 @@ toc_icon: "bookmark"
 
 
 ## Honors, Awards, and Grants
-*	One of Top Emergent Research Forum (ERF) Papers, Americas Conference on Information Systems (AMCIS), 2022
+*	Top Emergent Research Forum (ERF) Papers, Americas Conference on Information Systems (AMCIS), 2022
 *	Best Short Paper Award Nominee, International Conference on Information Systems (ICIS), 2021
 * Best Student Paper Award Runner-up, Post-ICIS KrAIS Research Workshop, 2021
 * Best Reviewer Award, Post-ICIS KrAIS Research Workshop, 2021
