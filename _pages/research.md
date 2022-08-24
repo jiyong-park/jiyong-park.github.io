@@ -11,8 +11,8 @@ toc_icon: "bookmark"
 
 
 ## Research Interest
-My research interests lie at the intersection between business and social values of information systems and technology (IS/IT), primarily in three research areas geared toward Sustainability (environmental, social, and economic): (i) Green IS/IT & Green Technology, (ii) Societal Impacts of IS/IT, and (iii) IT Value.
-<p>Methodologically, my research has employed econometrics for causal inference and leveraged machine learning and NLP models for harnessing unstructured data.</p>
+My research interests lie at the intersection between business and social values of information systems and technology (IS/IT), primarily in three research areas along the three P’s of Sustainability (Planet, People, and Profit): (i) Green IS/IT & Green Technology, (ii) Societal Impacts of IS/IT, and (iii) IT Value.
+<p>Methodologically, my research employs econometric methodologies for causal inference as well as computational social science approaches to a range of business and social data.</p>
 
 
 
@@ -54,7 +54,7 @@ My research interests lie at the intersection between business and social values
 
 1. Green IS/IT & Green Technology
 	1. **Park, J.**, Han, K., and Lee, B. “Can IT-Driven Growth be Sustainable? The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under 2nd round review at *Production and Operations Management*
-	2. **Park, J.** “Hiding Carbon Footprint in the Cloud: Cloud Migration, Corporate Sustainability Disclosure, and Environmental Performance,” work in progress
+	2. **Park, J.** “Hiding Carbon Footprint in the Cloud: Cloud Migration, Corporate Carbon Disclosure, and Environmental Performance,” work in progress
 	3. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
 	4. **Park, J.** “Local Spillovers of Data Centers in Energy and Carbon Footprints,” work in progress
 	5. **Park, J.**\* and Shim, J.\* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 95 Countries,” submitted [* Equal Contribution]
@@ -70,7 +70,7 @@ My research interests lie at the intersection between business and social values
 3. IT Value
 	1. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” in preparation for submission
 	2. Bae, E. and **Park, J.** “Data (Center) Economy: Performance Implications of Data Center Proximity in Developing Economies,” work in progress
-	3. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” in preparation for submission
+	3. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” submitted
 	4. Shin, W., **Park, J.**, and Kim, H. "Turning Lemons into Lemonade: Fear Appeal and Online Shopping During Disasters and Afterward,” submitted
 	5. Kim, K., **Park, J.**, and Kim, H. "How Much Do You Rely on AI? AI-Based Quality Management in the Gig Economy,” work in progress
 

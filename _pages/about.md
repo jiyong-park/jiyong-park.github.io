@@ -18,7 +18,7 @@ toc_icon: "bookmark"
 	* Ph.D. in *Management Engineering* (Major: Information Systems)
 
 * **Pohang University of Science and Technology (POSTECH)**, Pohang, Korea (2008 - 2014)
-	* B.Eng. in *Industrial and Management Engineering*
+	* B.S. in *Industrial and Management Engineering*
 	* B.S. in *Mathematics*
 	* Minor in *Computer Science and Engineering*
 	* Graduate with Magna Cum Laude
