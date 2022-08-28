@@ -70,7 +70,7 @@ My research interests lie at the intersection between business and social values
 3. IT Value
 	1. **Park, J.** and Han, K. “Return on Cloud Computing Investment: The Role of Environmental Uncertainty,” in preparation for submission
 	2. Bae, E. and **Park, J.** “Data (Center) Economy: Performance Implications of Data Center Proximity in Developing Economies,” work in progress
-	3. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” submitted
+	3. Han, K., Koh, B., Nault, B., and **Park, J.** “Using Labor as a Measure of Transaction Costs to Assess the Impact of Information Technology,” in preparation for submission
 	4. Shin, W., **Park, J.**, and Kim, H. "Turning Lemons into Lemonade: Fear Appeal and Online Shopping During Disasters and Afterward,” submitted
 	5. Kim, K., **Park, J.**, and Kim, H. "How Much Do You Rely on AI? AI-Based Quality Management in the Gig Economy,” work in progress
 
