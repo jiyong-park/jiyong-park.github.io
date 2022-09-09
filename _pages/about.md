@@ -66,7 +66,7 @@ toc_icon: "bookmark"
 
 ## Service
 * Ad Hoc Reviewer
-	* Management Science, MIS Quarterly, Information Systems Research, Production and Operations Management, Information Systems Frontiers, Information & Management, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review, Communications of the ACM
+	* Management Science, MIS Quarterly, Information Systems Research, Production and Operations Management, Information Systems Frontiers, Information & Management, Decision Support Systems, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review, Communications of the ACM
 	* International Conference on Information Systems (ICIS), Americas Conference on Information Systems (AMCIS), Pacific Asia Conference on Information Systems (PACIS), European Conference on Information Systems (ECIS), INFORMS Conference on Information Systems and Technology (CIST), Hawaii International Conference on System Sciences (HICSS), International Conference on Electronic Commerce (ICEC)
 
 * Conference/Workshop Committee Member & Associate Editor
@@ -75,6 +75,7 @@ toc_icon: "bookmark"
 	* Minitrack Co-Chair (Bright ICT – Beyond Security and Privacy Concerns), Americas Conference on Information Systems (AMCIS) 2020
 	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022
 	* Program Committee, Post-ICIS KrAIS Research Workshop 2019, 2020, 2021
+	* Program Committee, Workshop on Information Technologies and Systems (WITS) 2022
 	* Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
 	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2021][9] [2020][8], [2019][7], [2018][6], [2017][5]
 
