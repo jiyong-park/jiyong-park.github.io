@@ -74,10 +74,10 @@ toc_icon: "bookmark"
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
 	* Minitrack Co-Chair (Bright ICT – Beyond Security and Privacy Concerns), Americas Conference on Information Systems (AMCIS) 2020
 	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022
-	* Program Committee, Post-ICIS KrAIS Research Workshop 2019, 2020, 2021
+	* Program Committee, Post-ICIS KrAIS Research Workshop 2019-2022
 	* Program Committee, Workshop on Information Technologies and Systems (WITS) 2022
-	* Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
-	* Technology/Organizing Chair & Web Coordinator, Bright Internet Global Summit (BIGS) [2022][10] [2021][9] [2020][8], [2019][7], [2018][6], [2017][5]
+	* Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][1]
+	* Technology/Organizing Chair & Web Coordinator, Bright Internet Global Summit (BIGS) 2017-2022 ([website][2])
 
 * Doctoral Student Supervision
 	* Yuzhang Han, Bryan School of Business and Economics, UNCG (Dissertation Committee; First Placement: York College of Pennsylvania)
@@ -85,12 +85,5 @@ toc_icon: "bookmark"
 
 
 
-[1]: https://www.business.kaist.edu/
-[2]: http://postech.edu/eng/
-[4]: https://wiseconf2017.wixsite.com/wise
-[5]: https://bigsconf2017.wixsite.com/bigs2017
-[6]: http://brightinternet.org/bigs2018/
-[7]: http://brightinternet.org/bigs2019/
-[8]: http://brightinternet.org/bigs2020/
-[9]: http://brightinternet.org/bigs2021/
-[10]: http://brightinternet.org/bigs2022/
+[1]: https://wiseconf2017.wixsite.com/wise
+[2]: http://brightinternet.org
