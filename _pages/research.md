@@ -19,6 +19,7 @@ My research interests lie at the intersection between business and social values
 ## Publications
 1. Green IS/IT & Green Technology
 	1. **Park, J.**, Han, K., and Lee, B., 2022. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” ***Management Science***, forthcoming. [[PAPER][MS22-1]][[SSRN][MS22-2]]
+		* Featured by the UNCG Bryan School's Magazine ([Article][MS22-3])
 
 2. Societal Impacts of IS/IT
 	1. **Park, J.** and Kim, J., 2022. "A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century," *Communications of the ACM* (65:5), pp.79-87. [[PAPER][CACM22-1]][[SSRN][CACM22-2]]
@@ -36,6 +37,7 @@ My research interests lie at the intersection between business and social values
 
 [MS22-1]:  https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4442
 [MS22-2]:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068114
+[MS22-3]:  https://bryanbusinessreport.uncg.edu/corporate-sustainabilitys-silver-lining/
 [CACM22-1]: https://cacm.acm.org/magazines/2022/5/260356-a-data-driven-exploration-of-the-race-between-human-labor-and-machines-in-the-21st-century/fulltext
 [CACM22-2]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924789
 [CACM22-3]: https://vimeo.com/700520130
