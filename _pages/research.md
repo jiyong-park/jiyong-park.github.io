@@ -11,13 +11,13 @@ toc_icon: "bookmark"
 
 
 ## Research Interest
-My research interests lie at the intersection between business and social values of information systems and technology (IS/IT), primarily in three research areas along the three P’s of Sustainability (Planet, People, and Profit): (i) Green IS/IT & Green Technology, (ii) Societal Impacts of IS/IT (including the Future of Work), and (iii) IT Value.
+My research interests lie at the intersection between business and social values of information systems and technology (IS/IT), primarily in three research areas along the triple bottom line of corporate sustainability (Planet, People, and Profit): (i) Green IS/IT (including green technological innovation), (ii) Societal Impacts of IS/IT (including the Future of Work), and (iii) IT Value.
 <p>Methodologically, my research employs econometric methodologies for causal inference as well as computational social science approaches to a range of business and social data.</p>
 
 
 
 ## Publications
-1. Green IS/IT & Green Technology
+1. Green IS/IT
 	1. **Park, J.**, Han, K., and Lee, B., 2022. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” ***Management Science***, forthcoming. [[PAPER][MS22-1]][[SSRN][MS22-2]]
 		* Featured by the UNCG Bryan School's Magazine ([Article][MS22-3])
 
