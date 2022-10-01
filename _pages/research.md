@@ -54,7 +54,7 @@ My research interests lie at the intersection between business and social values
 ## Working Papers
 <sub>Full drafts of the following working papers, except work in progress, are available upon request.</sub>
 
-1. Green IS/IT & Green Technology
+1. Green IS/IT
 	1. **Park, J.**, Han, K., and Lee, B. “Can IT-Driven Growth be Sustainable? The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” under 2nd round review at *Production and Operations Management*
 	2. **Park, J.** “Hiding Carbon Footprint in the Cloud: Cloud Migration, Corporate Carbon Disclosure, and Environmental Performance,” work in progress
 	3. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
