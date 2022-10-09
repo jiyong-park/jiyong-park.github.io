@@ -72,7 +72,6 @@ toc_icon: "bookmark"
 * Conference/Workshop Committee Member & Associate Editor
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
-	* Minitrack Co-Chair (Bright ICT – Beyond Security and Privacy Concerns), Americas Conference on Information Systems (AMCIS) 2020
 	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022
 	* Program Committee, Post-ICIS KrAIS Research Workshop 2019-2022
 	* Program Committee, Workshop on Information Technologies and Systems (WITS) 2022
