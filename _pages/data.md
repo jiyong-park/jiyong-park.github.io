@@ -7,11 +7,11 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 
-1. **Park, J.**, Han, K., and Lee, B., 2022. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” ***Management Science***, forthcoming.
+1. **Park, J.**, Han, K., and Lee, B., 2023. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” ***Management Science***, (69:3), pp.1639-1664.
   * [Data and Replication Code][MS22-1]
 
 
-2. **Park, J.**, Son, Y., and Angst, C., 2022. “Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly***, forthcoming.
+2. **Park, J.**, Son, Y., and Angst, C., 2023. “The Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly***, (47:1), pp.451-482.
   * [Data and Replication Code][MISQ22-1]
 
 

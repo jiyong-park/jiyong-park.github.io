@@ -18,3 +18,5 @@
 
 
 	5. Kyung, N., **Park, J.**, Kwon, J., and Lee, B. “Consumer Reaction to a Data Breach in Mobile Commerce: Evidence from a Natural Experiment,” in preparation for submission
+
+		1. Bae, E. and **Park, J.** “Data (Center) Economy: Performance Implications of Data Center Proximity in Developing Economies,” work in progress

@@ -1,29 +1,37 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-last_modified_at: 2022-06-01
+last_modified_at: 2023-08-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 
+## 2024
+* **[Undergraduate]** MIST 4600: Computer Programming in Business (Spring, UGA)
+
+## 2023
+* **[Graduate]** MIST 5730/MIST 6380 Advanced Data Management and Analytics (Fall, UGA)
+
+* **[Undergraduate]** ISM 425: Business Analytics (Spring, UNCG)
+
 ## 2022
-* **[Graduate]** ISM 760: Contemporary Research Methods in Information Systems (Fall, UNCG, USA)
+* **[Graduate]** ISM 760: Contemporary Research Methods in Information Systems (Fall, UNCG)
 
 * **[Undergraduate]** ISM 218: Database Systems (Spring/Fall, UNCG, USA)
 
 ## 2021
-* **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
+* **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG)
 
-* **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
+* **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG)
 
 ## 2020
-* **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
+* **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG)
 
-* **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG, USA)
+* **[Undergraduate]** ISM 218: Database Systems (Spring, UNCG)
 
 ## 2019
-* **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG, USA)
+* **[Graduate]** ISM 645: Principles of Predictive Analytics (Fall, UNCG)
 
 * **[Undergraduate]** MGT0044: Decision Support Systems (Spring, Hansung University, Korea)
 
