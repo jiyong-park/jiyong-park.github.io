@@ -72,17 +72,17 @@ toc_icon: "bookmark"
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
 	* Track Co-Chair (Green Information Systems: Designing a Digital and Sustainable Future), European Conference on Information Systems (ECIS) 2024
 	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022, 2023
-	* Workshop Co-Chair, KrAIS Summer Workshop 2023 (KrAIS: Korean Chapter of the Association for Information Systems)
+	* Workshop Co-Chair, KrAIS Summer Workshop 2023 (KrAIS: Korean Chapter of the Association for Information Systems) ([website][1])
 	* Program Committee, INFORMS Conference on Information Systems and Technologies (CIST) 2023
 	* Program Committee, Post-ICIS KrAIS Research Workshop 2019-2023
 	* Program Committee, Workshop on Information Technologies and Systems (WITS) 2022
-	* Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][1]
-	* Technology/Organizing Chair & Web Coordinator, Bright Internet Global Summit (BIGS) 2017-2023 ([website][2])
+	* Web Coordinator, Workshop on Information Systems and Economics (WISE) 2017 ([website][2])
+	* Technology/Organizing Chair & Web Coordinator, Bright Internet Global Summit (BIGS) 2017-2023 ([website][3])
 
 * Doctoral Student Supervision
 	* Yuzhang Han, Bryan School of Business and Economics, UNCG (Dissertation Committee; First Placement: York College of Pennsylvania)
 	* Nabid Alam, Bryan School of Business and Economics, UNCG (Dissertation Committee; First Placement: Emporia State University)
 
-
-[1]: https://wiseconf2017.wixsite.com/wise
-[2]: http://brightinternet.org
+[1]: https://sites.google.com/view/krais-summer2023
+[2]: https://wiseconf2017.wixsite.com/wise
+[3]: http://brightinternet.org
