@@ -26,7 +26,7 @@ toc_icon: "bookmark"
 
 
 ## Honors, Awards, and Grants
-*	2022-2023 Junior Research Excellence Award, Bryan School of Business and Economics, UNCG, 2023
+*	Junior Research Excellence Award, Bryan School of Business and Economics, UNCG, 2023
 *	ORE Internal Funding Program (University-Level Research Grant), UNCG, 2022
 *	UNCG International Travel Fund (University-Level Research Grant), UNCG, 2022
 *	Top Emergent Research Forum (ERF) Papers, Americas Conference on Information Systems (AMCIS), 2022
