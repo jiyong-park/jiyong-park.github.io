@@ -34,6 +34,7 @@ My research interests lie at the intersection between business and social values
 3. IT Value
 	1. **Park, J.**, Son, Y., and Angst, C., 2023. “The Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly***, (47:1), pp.451-482. [[PAPER][MISQ23-1]]
 		* Special Issue on "Digital Resilience"
+		* Non-technical summary published in LSE Business Review [Article][MISQ23-2]
 	2. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
 
 [MS22-1]:  https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4442
@@ -51,6 +52,7 @@ My research interests lie at the intersection between business and social values
 [ISR21-5]: https://pubsonline.informs.org/do/10.1287/orms.2021.03.31p?fbclid=IwAR3DQm9jJmQ7U9ggo0eayupYygtd9-3NSyxTZIp1GhIsLo2GLmyTphSyiYg
 [TMIS21-1]: https://dl.acm.org/doi/abs/10.1145/3351159
 [MISQ23-1]: https://misq.umn.edu/value-of-centralized-it-in-building-resilience-during-crises-evidence-from-u-s-higher-education-s-transition-to-emergency-remote-teaching.html
+[MISQ23-2]: https://blogs.lse.ac.uk/businessreview/2023/05/25/a-key-factor-helped-it-rescue-universities-during-the-covid-19-pandemic/
 [I&M21-1]: https://www.sciencedirect.com/science/article/pii/S0378720622000015
 
 
