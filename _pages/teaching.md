@@ -11,7 +11,7 @@ toc_icon: "bookmark"
 * **[Undergraduate]** MIST 4600: Computer Programming in Business (Spring, UGA)
 
 ## 2023
-* **[Graduate]** MIST 5730/MIST 6380 Advanced Data Management and Analytics (Fall, UGA)
+* **[Graduate]** MIST 5730 Advanced Data Management and Analytics (Fall, UGA)
 
 * **[Undergraduate]** ISM 425: Business Analytics (Spring, UNCG)
 
