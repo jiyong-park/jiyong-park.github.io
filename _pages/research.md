@@ -34,7 +34,7 @@ My research interests lie at the intersection between business and social values
 3. IT Value
 	1. **Park, J.**, Son, Y., and Angst, C., 2023. “The Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly***, (47:1), pp.451-482. [[PAPER][MISQ23-1]]
 		* Special Issue on "Digital Resilience"
-		* Non-technical summary published in LSE Business Review [[Article][MISQ23-2]]
+		* Non-technical summary published in LSE Business Review [[Article][MISQ23-2]] and in Mendoza College of Business at Notre Dame [[Article][MISQ23-3]]
 	2. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
 
 [MS22-1]:  https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4442
@@ -53,33 +53,10 @@ My research interests lie at the intersection between business and social values
 [TMIS21-1]: https://dl.acm.org/doi/abs/10.1145/3351159
 [MISQ23-1]: https://misq.umn.edu/value-of-centralized-it-in-building-resilience-during-crises-evidence-from-u-s-higher-education-s-transition-to-emergency-remote-teaching.html
 [MISQ23-2]: https://blogs.lse.ac.uk/businessreview/2023/05/25/a-key-factor-helped-it-rescue-universities-during-the-covid-19-pandemic/
+[MISQ23-3]: https://mendoza.nd.edu/news/how-it-governance-can-make-or-break-a-universitys-crisis-response/
 [I&M21-1]: https://www.sciencedirect.com/science/article/pii/S0378720622000015
 
-
-## Working Papers
-<sub>Full drafts of the following working papers, except work in progress, are available upon request.</sub>
-
-1. Green IS/IT
-	1. **Park, J.**, Park, Y., and Han, J. “Green Innovation Amidst Abundance of Fossil Energy: Firm-Level Evidence from Corporate Patents During the US Shale Boom,” Reject and Resubmit at *Management Science*
-	2. **Park, J.**, Han, K., and Lee, B. “Can IT-Driven Growth be Sustainable? The Role of Information Technology in Decoupling Productivity Growth and Energy Use,” submitted
-	3. **Park, J.** “Hiding Carbon Footprint in the Cloud: Cloud Migration, Corporate Carbon Disclosure, and Environmental Performance,” in preparation for submission
-	4. **Park, J.**, Chung, S., and Han, K. “Toward Green Data Centers: Environmental Regulation, Green Data Center Innovation, and Firm Value,” in preparation for submission
-	5. **Park, J.**\* and Shim, J.\* “Disproportionate Gains of Energy Efficiency from Industrial Robots: Firm-Level Evidence from 95 Countries,” submitted [* Equal Contribution]
-	6. Dedrick, J.\*, Kim, J.\*, **Park, J.**\*, Shih, E.\* “Information Technology Investment and Carbon Intensity in the Era of Cloud Computing: A Cross-National Study,” work in progress [* Equal Contribution]
-
-2. Societal Impacts of IS/IT
-	1. **Park, J.** “The Sharing Economy and Local Economies: The Complementary Impact of Home-Sharing and Ride-Sharing Platforms on Tourism Employment,” Major Revision at *Information Systems Research*
-	2. **Park, J.**, Han, K., and Lee, B. “Information and Communication Technology and Wage Inequality: The Role of Environmental Uncertainty,” in preparation for submission
-	3. Kim, D., **Park, J.**, Lee, C., and Zo, H. “Who Guards the Home? An Empirical Analysis of an Online Freelance Home Services Platform and Burglary,” submitted
-	4. Kim, D. and **Park, J.** “Is the Repeal of Net Neutrality a Necessary Evil? An Empirical Analysis of Net Neutrality and Cybercrime,” in preparation for submission
-	5. Kim, K., **Park, J.**, and Kim, H. "Toward Task-AI Fit: A Randomized Field Experiment on a Gig Economy Platform,” work in progress
-
-3. IT Value
-	1. Han, K., Koh, B., Nault, B., and **Park, J.** “The Differential Impact of IT Capital on Transaction and Transformation Labor,” in preparation for submission
-	2. Shin, W., **Park, J.**, and Kim, H. "Turning Lemons into Lemonade: Fear Appeal and Online Shopping During Disasters and Afterward,” submitted
-
 <p></p>
-
 
 ## Conference/Workshop Presentations
 1.	**Park, J.**, 2022. “Hiding Carbon Footprint in the Cloud: Cloud Migration, Corporate Carbon Disclosure, and Environmental Performance,” *Workshop on Information Systems and Economics (WISE), Copenhagen, Denmark*
