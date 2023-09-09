@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-![](/assets/images/home-photo.jpg)
+![](/assets/images/Park, Jiyong (Headshot).jpg)
 
 # Jiyong Park, Ph.D.
 

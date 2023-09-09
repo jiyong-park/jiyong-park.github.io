@@ -70,7 +70,7 @@ toc_icon: "bookmark"
 * Conference/Workshop Committee Member & Associate Editor
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
-	* Track Co-Chair (Green Information Systems: Designing a Digital and Sustainable Future), European Conference on Information Systems (ECIS) 2024
+	* Track Co-Chair (Green Information Systems and Sustainable Development), European Conference on Information Systems (ECIS) 2024
 	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022, 2023
 	* Workshop Co-Chair, KrAIS Summer Workshop 2023 (KrAIS: Korean Chapter of the Association for Information Systems) ([website][1])
 	* Program Committee, INFORMS Conference on Information Systems and Technologies (CIST) 2023
