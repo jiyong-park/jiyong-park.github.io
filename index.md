@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-[![](/assets/images/SDG.png){: .align-left .width-half}]
+![](/assets/images/home-photo.jpg)
 
 I am an Assistant Professor of Management Information Systems at the Terry College of Business at the University of Georgia.
 
