@@ -28,7 +28,7 @@ toc_icon: "bookmark"
 ## Honors, Awards, and Grants
 *	Junior Research Excellence Award, Bryan School of Business and Economics, UNCG, 2023
 *	ORE Internal Funding Program (University-Level Research Grant), UNCG, 2022
-*	UNCG International Travel Fund (University-Level Research Grant), UNCG, 2022
+*	UNCG International Travel Fund (University-Level Travel Grant), UNCG, 2022
 *	Top Emergent Research Forum (ERF) Papers, Americas Conference on Information Systems (AMCIS), 2022
 *	Best Short Paper Award Nominee, International Conference on Information Systems (ICIS), 2021
 * Best Student Paper Award Runner-up, Post-ICIS KrAIS Research Workshop, 2021
@@ -63,19 +63,22 @@ toc_icon: "bookmark"
 	* Naver Search (Data & Analytics Team) (2023), Lyft's Safety Advisory Council (2020)
 
 ## Service
-* Ad Hoc Reviewer
+* Journal Editorship
+	* Associate Editor, Information & Management, 2023 - Present
+
+* Journal Review
 	* Management Science, MIS Quarterly, Information Systems Research, Production and Operations Management, Information Systems Frontiers, Information & Management, Decision Support Systems, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review, Communications of the ACM
 	* International Conference on Information Systems (ICIS), Americas Conference on Information Systems (AMCIS), Pacific Asia Conference on Information Systems (PACIS), European Conference on Information Systems (ECIS), INFORMS Conference on Information Systems and Technology (CIST), Hawaii International Conference on System Sciences (HICSS), International Conference on Electronic Commerce (ICEC)
 
-* Conference/Workshop Committee Member & Associate Editor
+* Conference Service
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
 	* Track Co-Chair (Green Information Systems and Sustainable Development), European Conference on Information Systems (ECIS) 2024
 	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022, 2023
-	* Workshop Co-Chair, KrAIS Summer Workshop 2023 (KrAIS: Korean Chapter of the Association for Information Systems) ([website][1])
+	* Workshop Co-Chair, KrAIS Summer Workshop 2023 (Korean Chapter of the Association for Information Systems) ([website][1])
 	* Program Committee, INFORMS Conference on Information Systems and Technologies (CIST) 2023
 	* Program Committee, Post-ICIS KrAIS Research Workshop 2019-2023
-	* Program Committee, Workshop on Information Technologies and Systems (WITS) 2022
+	* Program Committee, Workshop on Information Technologies and Systems (WITS) 2022, 2023
 	* Web Coordinator, Workshop on Information Systems and Economics (WISE) 2017 ([website][2])
 	* Technology/Organizing Chair & Web Coordinator, Bright Internet Global Summit (BIGS) 2017-2023 ([website][3])
 
