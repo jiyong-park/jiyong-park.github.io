@@ -82,10 +82,6 @@ toc_icon: "bookmark"
 	* Web Coordinator, Workshop on Information Systems and Economics (WISE) 2017 ([website][2])
 	* Technology/Organizing Chair & Web Coordinator, Bright Internet Global Summit (BIGS) 2017-2023 ([website][3])
 
-* Doctoral Student Supervision
-	* Yuzhang Han, Bryan School of Business and Economics, UNCG (Dissertation Committee; First Placement: York College of Pennsylvania)
-	* Nabid Alam, Bryan School of Business and Economics, UNCG (Dissertation Committee; First Placement: Emporia State University)
-
 [1]: https://sites.google.com/view/krais-summer2023
 [2]: https://wiseconf2017.wixsite.com/wise
 [3]: http://brightinternet.org
