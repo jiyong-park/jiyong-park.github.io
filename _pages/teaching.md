@@ -11,7 +11,7 @@ toc_icon: "bookmark"
 * **[Undergraduate]** MIST 4600: Computer Programming in Business (Spring, UGA)
 
 ## 2023
-* **[Graduate]** MIST 5730 Advanced Data Management and Analytics (Fall, UGA)
+* **[Undergraduate]** MIST 5730 Advanced Data Management and Analytics (Fall, UGA)
 
 * **[Undergraduate]** ISM 425: Business Analytics (Spring, UNCG)
 
@@ -38,6 +38,9 @@ toc_icon: "bookmark"
 
 ## Causal Inference/Research Methodology Workshops
 <sub>Initiated and organized the workshops</sub>
+* Korea Summer Workshop on Causal Inference 2023 (Summer 2023, Online)
+	* Online lectures on causal inference methods
+	* [Website][summersession23]
 
 * Korea Summer Workshop on Causal Inference 2022 (Summer 2022, Online)
 	* Online seminar series to present research and best practices for causal inference
@@ -63,6 +66,7 @@ toc_icon: "bookmark"
 	* Non-credit session for PhD/MS students
 	* [Website][summersession17]
 
+[summersession23]: https://sites.google.com/view/causal-inference2023
 [summersession22]: https://sites.google.com/view/causal-inference2022
 [summersession21]: https://sites.google.com/view/causal-inference2021
 [summersession20]: https://sites.google.com/view/social-science-of-covid-19
