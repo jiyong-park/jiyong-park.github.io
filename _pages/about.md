@@ -64,9 +64,10 @@ toc_icon: "bookmark"
 
 ## Service
 * Journal Editorship
-	* Associate Editor, Information & Management, 2023 - Present
-	* Associate Editor, Information Systems Review (경영정보학연구; Journal of the Korea Society of Management Information Systems), 2023 - Present
-	
+	* Associate Editor, *Information & Management*, 2023 - Present
+	* Associate Editor, *Decision Support Systems*, 2023 - Present
+	* Associate Editor, *Information Systems Review* (경영정보학연구; Journal of the Korea Society of Management Information Systems), 2023 - Present
+
 * Journal Review
 	* Management Science, MIS Quarterly, Information Systems Research, Production and Operations Management, Information Systems Frontiers, Information & Management, Decision Support Systems, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review, Communications of the ACM
 	* International Conference on Information Systems (ICIS), Americas Conference on Information Systems (AMCIS), Pacific Asia Conference on Information Systems (PACIS), European Conference on Information Systems (ECIS), INFORMS Conference on Information Systems and Technology (CIST), Hawaii International Conference on System Sciences (HICSS), International Conference on Electronic Commerce (ICEC)
