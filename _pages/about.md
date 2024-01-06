@@ -25,16 +25,12 @@ toc_icon: "bookmark"
 	* Minor in *Computer Science and Engineering*
 
 
-## Honors, Awards, and Grants
+## Honors and Awards
 *	Junior Research Excellence Award, Bryan School of Business and Economics, UNCG, 2023
-*	ORE Internal Funding Program (University-Level Research Grant), UNCG, 2022
-*	UNCG International Travel Fund (University-Level Travel Grant), UNCG, 2022
 *	Top Emergent Research Forum (ERF) Papers, Americas Conference on Information Systems (AMCIS), 2022
 *	Best Short Paper Award Nominee, International Conference on Information Systems (ICIS), 2021
 * Best Student Paper Award Runner-up, Post-ICIS KrAIS Research Workshop, 2021
 * Best Reviewer Award, Post-ICIS KrAIS Research Workshop, 2021
-* Research Grant from the Barun ICT Research Center, Yonsei University, 2021
-* Dean's Research Scholar Award (Research Grant), Bryan School of Business and Economics, UNCG, 2021
 * Recognition of Faculty Excellence in Research and Creative Activity, UNCG, 2021 (University Level)
 * Best Paper Award, Korea Society of Management Information Systems (KMIS) Fall Conference, 2020
 * Best Student Paper Award Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
@@ -47,8 +43,15 @@ toc_icon: "bookmark"
 * Ph.D. Excellent Research Award, College of Business, KAIST, 2016
 * Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2015
 * Honorable Mention Work-in-Progress Award, Graduate School of Green Growth, KAIST, 2014
-* Ph.D. Fellowship, College of Business, KAIST, 2014 – 2018
+* Ph.D. Fellowship, College of Business, KAIST, 2014 – 2019
 
+## Grants
+*	The Presidential Interdisciplinary Seed Grant Program [E-Mobility] (University-Level Research Grant), UGA, 2023
+*	The Presidential Interdisciplinary Seed Grant Program [Upcycled Food] (University-Level Research Grant), UGA, 2023
+*	ORE Internal Funding Program [Carbon Emissions of Cloud Computing] (University-Level Research Grant), UNCG, 2022
+*	UNCG International Travel Fund (University-Level Travel Grant), UNCG, 2022
+* Dean's Research Scholar Award [Digital Transformation and Environmental Sustainability] (School-Level Research Grant), Bryan School of Business and Economics, UNCG, 2021
+* Research Grant [Remote Working and Mental Health] from the Barun ICT Research Center, Yonsei University, 2021
 
 ## Invited Talks and Seminars
 * Academic (US)
@@ -70,7 +73,7 @@ toc_icon: "bookmark"
 
 * Journal Review
 	* Information Systems Field: MIS Quarterly, Information Systems Research, Journal of the Association for Information Systems, Information & Management, Decision Support Systems, Information Systems Frontiers, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review
-	* Interdisciplinary: Management Science, Production and Operations Management, Communications of the ACM 
+	* Interdisciplinary: Management Science, Production and Operations Management, Communications of the ACM
 
 * Conference Service
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021
