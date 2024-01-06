@@ -51,7 +51,7 @@ toc_icon: "bookmark"
 *	ORE Internal Funding Program [Carbon Emissions of Cloud Computing] (University-Level Research Grant), UNCG, 2022
 *	UNCG International Travel Fund (University-Level Travel Grant), UNCG, 2022
 * Dean's Research Scholar Award [Digital Transformation and Environmental Sustainability] (School-Level Research Grant), Bryan School of Business and Economics, UNCG, 2021
-* Research Grant [Remote Working and Mental Health] from the Barun ICT Research Center, Yonsei University, 2021
+* Research Grant [Remote Work and Mental Health] from the Barun ICT Research Center, Yonsei University, 2021
 
 ## Invited Talks and Seminars
 * Academic (US)
