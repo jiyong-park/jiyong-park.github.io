@@ -28,7 +28,7 @@ toc_icon: "bookmark"
 ## Honors and Awards
 *	Junior Research Excellence Award, Bryan School of Business and Economics, UNCG, 2023
 *	Top Emergent Research Forum (ERF) Papers, Americas Conference on Information Systems (AMCIS), 2022
-*	Best Short Paper Award Nominee, International Conference on Information Systems (ICIS), 2021
+*	Best Short Paper Award Finalist, International Conference on Information Systems (ICIS), 2021
 * Best Student Paper Award Runner-up, Post-ICIS KrAIS Research Workshop, 2021
 * Best Reviewer Award, Post-ICIS KrAIS Research Workshop, 2021
 * Recognition of Faculty Excellence in Research and Creative Activity, UNCG, 2021 (University Level)
@@ -51,7 +51,7 @@ toc_icon: "bookmark"
 *	ORE Internal Funding Program [Carbon Emissions of Cloud Computing] (University-Level Research Grant), UNCG, 2022
 *	UNCG International Travel Fund (University-Level Travel Grant), UNCG, 2022
 * Dean's Research Scholar Award [Digital Transformation and Environmental Sustainability] (School-Level Research Grant), Bryan School of Business and Economics, UNCG, 2021
-* Research Grant [Remote Work and Mental Health] from the Barun ICT Research Center, Yonsei University, 2021
+* Barun ICT Research Grant [Remote Work and Mental Health],the Barun ICT Research Center, Yonsei University, 2021
 
 ## Invited Talks and Seminars
 * Academic (US)
