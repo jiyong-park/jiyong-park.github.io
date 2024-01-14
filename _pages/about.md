@@ -66,7 +66,7 @@ toc_icon: "bookmark"
 	* Naver Search (Data & Analytics Team) (2023), Lyft's Safety Advisory Council (2020)
 
 ## Service
-* Journal Editorship
+* Editorial Service
 	* Associate Editor, *Information & Management*, 2023 - Present
 	* Associate Editor, *Decision Support Systems*, 2023 - Present
 	* Associate Editor, *Information Systems Review* (경영정보학연구; Journal of the Korea Society of Management Information Systems), 2023 - Present
@@ -76,7 +76,7 @@ toc_icon: "bookmark"
 	* Interdisciplinary: Management Science, Production and Operations Management, Communications of the ACM
 
 * Conference Service
-	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021
+	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021, 2024
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
 	* Track Co-Chair (Green Information Systems and Sustainable Development), European Conference on Information Systems (ECIS) 2024
 	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022, 2023
