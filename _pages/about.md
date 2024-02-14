@@ -72,8 +72,8 @@ toc_icon: "bookmark"
 	* Associate Editor, *Information Systems Review* (경영정보학연구; Journal of the Korea Society of Management Information Systems), 2023 - Present
 
 * Journal Review
-	* Information Systems Field: MIS Quarterly, Information Systems Research, Journal of the Association for Information Systems, Information & Management, Decision Support Systems, Information Systems Frontiers, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review
-	* Interdisciplinary: Management Science, Production and Operations Management, Communications of the ACM
+	* [Information Systems] MIS Quarterly, Information Systems Research, Journal of the Association for Information Systems, Information & Management, Decision Support Systems, Information Systems Frontiers, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review
+	* [Others] Management Science, Production and Operations Management, Communications of the ACM
 
 * Conference Service
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021, 2024
