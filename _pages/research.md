@@ -20,6 +20,7 @@ My research interests lie at the intersection of the business and social values 
 1. Green IS/IT
 	1. **Park, J.**, Han, K., and Lee, B., 2023. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” ***Management Science***, (69:3), pp.1639-1664. [[PAPER][MS22-1]][[SSRN][MS22-2]]
 		* Featured by the UNCG Bryan School's Magazine ([Article][MS22-3])
+		* [Best Journal Paper in Green IS 2023][Award-1]
 
 2. Societal Impacts of IS/IT
 	1. Shin, W., **Park, J.**, and Kim, H., 2024. "Online Consumer Demand During and After Natural Disasters: Evidence from the COVID-19 Pandemic,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M24-2]]
@@ -30,7 +31,7 @@ My research interests lie at the intersection of the business and social values 
 	3. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," ***Information Systems Research*** (32:2), pp.497-516. [[PAPER][ISR21-1]][[SSRN][ISR21-2]]
 		* Non-technical summary ([Article in TechCrunch][ISR21-3])
 		* Featured by INFORMS ([Press Release][ISR21-4]) ([INFORMS Podcast][ISR21-5])
-		* Recognized by ISR editorial (Gopal et al. 2024) as a good example of using econometrics to validate theory 
+		* Recognized by ISR editorial (Gopal et al. 2024) as a good example of using econometrics to validate theory
 	4. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[PAPER][TMIS21-1]]
 
 3. IT Value
@@ -39,6 +40,7 @@ My research interests lie at the intersection of the business and social values 
 		* Non-technical summary published in LSE Business Review [[Article][MISQ23-2]] and in Mendoza College of Business at Notre Dame [[Article][MISQ23-3]]
 	2. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
 
+[Award-1]: https://communities.aisnet.org/siggreen/awards/winners
 [MS22-1]:  https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4442
 [MS22-2]:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068114
 [MS22-3]:  https://bryanbusinessreport.uncg.edu/corporate-sustainabilitys-silver-lining/
@@ -64,7 +66,7 @@ My research interests lie at the intersection of the business and social values 
 ## Conference Presentations
 * **Park, J.**, and Saldanha, T., 2024. “Hiding Carbon Footprint in the Cloud: Cloud Migration, Corporate Carbon Disclosure, and Environmental Performance,” *International Conference on Information Systems (ICIS)*, Bangkok, Thailand
 * Jung, M., **Park, J.**, and Pang, M.S., 2024. “Safety on Autopilot: An Empirical Investigation of Autonomous Driving and Traffic Safety,” *International Conference on Information Systems (ICIS)*, Bangkok, Thailand
-* **Park, J.**, Lee, M., Son, Y., and Lee, G., 2024. “The New Industrial Revolution: AI, Labor Unions, and the Future of Work,” *Workshop on Information Systems and Economics (WISE)*, Bangkok, Thailand
+* **Park, J.**, Lee, M., Son, Y., and Lee, G., 2024. “The New Industrial Revolution: AI, Labor Unions, and the Future of Work,” *Workshop on Information Systems and Economics (WISE)*, Bangkok, Thailand **[Best Paper Award Nominee]**
 * Jung, M., **Park, J.**, and Pang, M.S., 2024. “Autonomous Driving and Traffic Safety: Evidence from Tesla’s Autopilot,” *Workshop on Information Systems and Economics (WISE)*, Bangkok, Thailand
 * **Park, J.**, Lee, M., Son, Y., and Lee, G., 2024. “The New Industrial Revolution: AI, Labor Unions, and the Future of Work,” *Conference on Information Systems and Technology (CIST)*, Seattle, Washington, USA
 * Jung, M., **Park, J.**, and Pang, M.S., 2024. “Safety on Autopilot: An Empirical Investigation of Autonomous Driving and Traffic Safety,” *Conference on Information Systems and Technology (CIST)*, Seattle, Washington, USA
