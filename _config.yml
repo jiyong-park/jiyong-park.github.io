@@ -102,11 +102,11 @@ analytics:
 author:
   name             : "Jiyong Park, Ph.D."
   avatar           : "/assets/images/Park, Jiyong (Headshot).jpg"
-  bio              : "Assistant Professor of Management Information Systems at the University of Georgia"
+  bio              : "Assistant Professor of MIS at University of Georgia"
   location         : "Athens, Georgia, USA"
   email            : "jiyong.park@uga.edu"
   uri              :
-  home             : /about
+  home             : "https://www.terry.uga.edu/directory/jiyong-park/"
   bitbucket        :
   codepen          :
   dribbble         :
