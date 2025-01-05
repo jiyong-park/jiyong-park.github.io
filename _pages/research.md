@@ -30,6 +30,7 @@ My research interests lie at the intersection of the business and social values 
 	3. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," ***Information Systems Research*** (32:2), pp.497-516. [[PAPER][ISR21-1]][[SSRN][ISR21-2]]
 		* Non-technical summary ([Article in TechCrunch][ISR21-3])
 		* Featured by INFORMS ([Press Release][ISR21-4]) ([INFORMS Podcast][ISR21-5])
+		* Recognized by ISR editorial (Gopal et al. 2024) as a good example of using econometrics to validate theory 
 	4. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[PAPER][TMIS21-1]]
 
 3. IT Value
