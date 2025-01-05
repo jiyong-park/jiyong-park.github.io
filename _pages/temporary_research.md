@@ -18,7 +18,6 @@
 
 3. IT Value
 	1. Han, K., Koh, B., Nault, B., and **Park, J.** “The Differential Impact of IT Capital on Transaction and Transformation Labor,” in preparation for submission
-	2. Shin, W., **Park, J.**, and Kim, H. "Turning Lemons into Lemonade: Fear Appeal and Online Shopping During Disasters and Afterward,” submitted
 
 
 

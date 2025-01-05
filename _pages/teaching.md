@@ -1,11 +1,15 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-last_modified_at: 2023-08-01
+last_modified_at: 2025-01-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
+
+## 2025
+* **[Undergraduate]** MIST 4600: Computer Programming in Business (Spring, UGA)
+* **[Graduate]** MIST 6380: Advanced Data Management and Analytics (Spring, UGA)
 
 ## 2024
 * **[Undergraduate]** MIST 4600: Computer Programming in Business (Spring, UGA)
