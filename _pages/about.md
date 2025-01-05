@@ -81,6 +81,7 @@ toc_icon: "bookmark"
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021, 2024, 2025
 	* Associate Editor, European Conference on Information Systems (ECIS) 2025
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
+	* Workshop Co-Chair, SIG Green Pre-ICIS Workshop 2024
 	* Track Co-Chair (Conference Theme Track: Intelligent Technologies for a Better Future), Americas Conference on Information Systems (AMCIS) 2025
 	* Track Co-Chair (Green Information Systems and Sustainable Development), European Conference on Information Systems (ECIS) 2024
 	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022, 2023
