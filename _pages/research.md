@@ -31,7 +31,7 @@ My research interests lie at the intersection of the business and social values 
 	3. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," ***Information Systems Research*** (32:2), pp.497-516. [[PAPER][ISR21-1]][[SSRN][ISR21-2]]
 		* Non-technical summary ([Article in TechCrunch][ISR21-3])
 		* Featured by INFORMS ([Press Release][ISR21-4]) ([INFORMS Podcast][ISR21-5])
-		* Recognized by ISR editorial (Gopal et al. 2024) as a good example of using econometrics to validate theory
+		* Recognized by ISR editorial ([Gopal et al. 2024][Award-2]) as a good example of using econometrics to validate theory
 	4. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[PAPER][TMIS21-1]]
 
 3. IT Value
@@ -41,6 +41,7 @@ My research interests lie at the intersection of the business and social values 
 	2. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
 
 [Award-1]: https://communities.aisnet.org/siggreen/awards/winners
+[Award-2]: https://pubsonline.informs.org/doi/10.1287/isre.2024.editorial.v35.n3
 [MS22-1]:  https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4442
 [MS22-2]:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068114
 [MS22-3]:  https://bryanbusinessreport.uncg.edu/corporate-sustainabilitys-silver-lining/
