@@ -20,7 +20,7 @@ My research interests lie at the intersection of the business and social values 
 1. Green IS/IT
 	1. **Park, J.**, Han, K., and Lee, B., 2023. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” ***Management Science***, (69:3), pp.1639-1664. [[PAPER][MS22-1]][[SSRN][MS22-2]]
 		* Featured by the UNCG Bryan School's Magazine ([Article][MS22-3])
-		* [Best Journal Paper in Green IS 2023][Award-1]
+		* Best Journal Paper in Green IS 2023
 
 2. Societal Impacts of IS/IT
 	1. Shin, W., **Park, J.**, and Kim, H., 2024. "Online Consumer Demand During and After Natural Disasters: Evidence from the COVID-19 Pandemic,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M24-2]]
