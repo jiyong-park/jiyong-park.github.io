@@ -40,7 +40,7 @@ My research interests lie at the intersection of the business and social values 
 		* Non-technical summary published in LSE Business Review [[Article][MISQ23-2]] and in Mendoza College of Business at Notre Dame [[Article][MISQ23-3]]
 	2. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
 
-[Award-1]: https://communities.aisnet.org/siggreen/awards/winners
+[Award-11]: https://communities.aisnet.org/siggreen/awards/winners
 [Award-2]: https://pubsonline.informs.org/doi/10.1287/isre.2024.editorial.v35.n3
 [MS22-1]:  https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4442
 [MS22-2]:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068114
