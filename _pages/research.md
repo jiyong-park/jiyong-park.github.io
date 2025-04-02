@@ -18,7 +18,9 @@ My research interests lie at the intersection of the business and social values 
 
 ## Publications
 1. Green IS/IT
-	1. **Park, J.**, Han, K., and Lee, B., 2023. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” ***Management Science***, (69:3), pp.1639-1664. [[PAPER][MS22-1]][[SSRN][MS22-2]]
+	1. Kim, J.\*, **Park, J.**\*, and Dedrick, J., 2025. "An Empirical Investigation of Cloud Computing and Environmental Performance of Nations: Implications for Shared Responsibility in Cloud Computing, " ***Journal of the Association for Information Systems***, Accepted. (\*: Equal Contribution)
+		* Special Issue on "Digital Responsibility"
+	2. **Park, J.**, Han, K., and Lee, B., 2023. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” ***Management Science***, (69:3), pp.1639-1664. [[PAPER][MS22-1]][[SSRN][MS22-2]]
 		* Featured by the UNCG Bryan School's Magazine ([Article][MS22-3])
 		* [Best Journal Paper in Green IS 2023][Award-1]
 
@@ -61,6 +63,7 @@ My research interests lie at the intersection of the business and social values 
 [MISQ23-3]: https://mendoza.nd.edu/news/how-it-governance-can-make-or-break-a-universitys-crisis-response/
 [I&M21-1]: https://www.sciencedirect.com/science/article/pii/S0378720622000015
 [I&M24-2]: https://www.sciencedirect.com/science/article/pii/S0378720624000880
+
 
 <p></p>
 
