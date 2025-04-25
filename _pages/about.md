@@ -29,6 +29,7 @@ toc_icon: "bookmark"
 * Best Journal Paper in Green IS, AIS Special Interest Group in Green IS (SIG Green), 2024
 * AIS Distinguished Member, Association for Information Systems (AIS), 2024
 * Best Paper Award Nominee, Workshop on Information Systems and Economics (WISE), 2024
+* Best Paper Award Runner-Up, Korea Society of Management Information Systems (KMIS) Fall Conference, 2024
 *	Junior Research Excellence Award, Bryan School of Business and Economics, UNCG, 2023
 *	Top Emergent Research Forum (ERF) Papers, Americas Conference on Information Systems (AMCIS), 2022
 *	Best Short Paper Award Finalist, International Conference on Information Systems (ICIS), 2021
@@ -49,12 +50,13 @@ toc_icon: "bookmark"
 * Ph.D. Fellowship, College of Business, KAIST, 2014 – 2019
 
 ## Grants
+*	Terry College Seed Grant Program [Green Data Centers] (College-Level Research Grant), Terry College of Business, UGA, 2025
 *	ECMC Foundation Grant [Automation Technology and Higher Education], ECMC Foundation, 2024
 *	The Presidential Interdisciplinary Seed Grant Program [E-Mobility] (University-Level Research Grant), UGA, 2023
 *	The Presidential Interdisciplinary Seed Grant Program [Upcycled Food] (University-Level Research Grant), UGA, 2023
 *	ORE Internal Funding Program [Carbon Emissions of Cloud Computing] (University-Level Research Grant), UNCG, 2022
-* Dean's Research Scholar Award [Digital Transformation and Environmental Sustainability] (School-Level Research Grant), Bryan School of Business and Economics, UNCG, 2021
-* Barun ICT Research Grant [Remote Work and Mental Health],the Barun ICT Research Center, Yonsei University, 2021
+* Dean's Research Scholar Award [Digital Transformation and Environmental Sustainability] (College-Level Research Grant), Bryan School of Business and Economics, UNCG, 2021
+* Barun ICT Research Grant [Remote Work and Mental Health], Barun ICT Research Center, Yonsei University, 2021
 
 ## Invited Talks and Seminars
 * Academic (US)
