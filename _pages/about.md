@@ -10,7 +10,6 @@ toc_icon: "bookmark"
 ## Academic Appointments
 * **Terry College of Business, University of Georgia (UGA)**, Athens, GA, USA (Aug 2023 - Present)
 	* Assistant Professor of Management Information Systems (Tenure-Track)
- * test
 
 * **Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG)**, Greensboro, NC, USA (Aug 2019 - Jul 2023)
 	* Assistant Professor of Information Systems (Tenure-Track)
