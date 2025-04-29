@@ -29,6 +29,7 @@ toc_icon: "bookmark"
 * Best Journal Paper in Green IS, AIS Special Interest Group in Green IS (SIG Green), 2024
 * AIS Distinguished Member, Association for Information Systems (AIS), 2024
 * Best Paper Award Nominee, Workshop on Information Systems and Economics (WISE), 2024
+* Best Paper Award Runner-up, KrAIS Summer Workshop, 2024
 * Best Paper Award Runner-Up, Korea Society of Management Information Systems (KMIS) Fall Conference, 2024
 *	Junior Research Excellence Award, Bryan School of Business and Economics, UNCG, 2023
 *	Top Emergent Research Forum (ERF) Papers, Americas Conference on Information Systems (AMCIS), 2022
