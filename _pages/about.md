@@ -71,6 +71,12 @@ toc_icon: "bookmark"
 * Industry
 	* Naver Search, Lyft's Safety Advisory Council
 
+## Doctoral Student Supervision
+* Jaecheol Park, Sauder School of Business, University of British Columbia (Dissertation Committee; First Placement: Nanyang Technological University)
+* Fatima Mohammad, Bryan School of Business and Economics, UNC Greensboro (Dissertation Committee; First Placement: University of Nevada at Reno)
+* Nabid Alam, Bryan School of Business and Economics, UNC Greensboro (Dissertation Committee; First Placement: Emporia State University)
+* Yuzhang Han, Bryan School of Business and Economics, UNC Greensboro (Dissertation Committee; First Placement: York College of Pennsylvania)
+
 ## Service
 * Editorial Service
 	* Associate Editor, *Decision Support Systems*, 2024 - Present
