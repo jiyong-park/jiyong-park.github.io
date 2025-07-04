@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2025-01-01
+last_modified_at: 2025-07-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -26,6 +26,8 @@ toc_icon: "bookmark"
 
 
 ## Honors and Awards
+* Best Paper Award, International Conference on Electronic Commerce (ICEC), 2025
+* Best Student Paper Award Runner-up, KrAIS Summer Workshop, 2025
 * Best Journal Paper in Green IS, AIS Special Interest Group in Green IS (SIG Green), 2024
 * AIS Distinguished Member, Association for Information Systems (AIS), 2024
 * Best Paper Award Nominee, Workshop on Information Systems and Economics (WISE), 2024
@@ -60,16 +62,14 @@ toc_icon: "bookmark"
 * Barun ICT Research Grant [Remote Work and Mental Health], Barun ICT Research Center, Yonsei University, 2021
 
 ## Invited Talks and Seminars
-* Academic (US)
-	* Virginia Commonwealth University (2023), American University (2023), University of Georgia (2022), Penn State (2022), University of Illinois at Chicago (2022), Southern Methodist University (2022), Santa Clara University (2022), University of Florida (2022), University of North Carolina at Greensboro (2019), Chapman University (2018)
-	* Korean American Scientists and Engineers Association (KSEA) - NC Chapter (2021)
+* Academic (Global)
+	* Virginia Commonwealth University, American University, University of Georgia, Penn State, University of Illinois at Chicago, Southern Methodist University, Santa Clara University, University of Florida, University of North Carolina at Greensboro, Chapman University, Nanyang Technological University
+	* Korean American Scientists and Engineers Association (KSEA) - NC Chapter
 * Academic (Korea)
-	* KAIST (2023), POSTECH (2023), Korea University (2023, 2021), Yonsei University (2023, 2021), Kyung Hee University (2023, 2022, 2021), Ajou University (2023, 2022), Hanyang University (2022), Pusan National University (2021), Sungkyunkwan University (2020)
-	* Korean Artificial Intelligence Association (2022), Korean Academic Society of Business Administration (2021)
-* Academic (Others)
-	* Nanyang Technological University (2018)
+	* KAIST, POSTECH, Korea University, Yonsei University, Kyung Hee University, Ajou University, Hanyang University, Pusan National University, Sungkyunkwan University, Chung-Ang University
+	* Korean Artificial Intelligence Association, Korean Academic Society of Business Administration
 * Industry
-	* Naver Search (Data & Analytics Team) (2023), Lyft's Safety Advisory Council (2020)
+	* Naver Search, Lyft's Safety Advisory Council
 
 ## Service
 * Editorial Service
@@ -78,22 +78,24 @@ toc_icon: "bookmark"
 	* Associate Editor, *Information Systems Review* (경영정보학연구; Journal of the Korea Society of Management Information Systems), 2023 - Present
 
 * Journal Review
-	* MIS Quarterly, Information Systems Research, Management Science, Production and Operations Management, Journal of the Association for Information Systems, Information & Management, Decision Support Systems, Communications of the ACM, Information Systems Frontiers, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review
+	* MIS Quarterly, Information Systems Research, Management Science, Production and Operations Management, Journal of the Association for Information Systems, Information & Management, Decision Support Systems, Communications of the ACM, Communications of the AIS, Information Systems Frontiers, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review, Omega, etc.
 
 * Conference Service
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021, 2024, 2025
-	* Associate Editor, European Conference on Information Systems (ECIS) 2025
+	* Associate Editor, European Conference on Information Systems (ECIS) 2025, 2026
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
 	* Workshop Co-Chair, SIG Green Pre-ICIS Workshop 2024
 	* Track Co-Chair (Conference Theme Track: Intelligent Technologies for a Better Future), Americas Conference on Information Systems (AMCIS) 2025
 	* Track Co-Chair (Green Information Systems and Sustainable Development), European Conference on Information Systems (ECIS) 2024
 	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022, 2023
 	* Workshop Co-Chair, KrAIS Summer Workshop 2023 (Korean Chapter of the Association for Information Systems) ([website][1])
-	* Program Committee, INFORMS Conference on Information Systems and Technologies (CIST) 2023-2024
+	* Program Committee, INFORMS Conference on Information Systems and Technologies (CIST) 2023-2025
 	* Program Committee, Workshop on Information Technologies and Systems (WITS) 2022, 2023
 	* Web Coordinator, Workshop on Information Systems and Economics (WISE) 2017 ([website][2])
-	* Technology/Organizing Chair & Web Coordinator, Bright Internet Global Summit (BIGS) 2017-2024 ([website][3])
+	* Technology/Organizing Chair & Web Coordinator, Bright Internet Global Summit (BIGS) 2017-2025 ([website][3])
+  * Founding member, Korea Business Experimentation Symposium 2025 ([website][4])
 
 [1]: https://sites.google.com/view/krais-summer2023
 [2]: https://wiseconf2017.wixsite.com/wise
 [3]: http://brightinternet.org
+[4]: https://sites.google.com/view/business-experimentation2025
