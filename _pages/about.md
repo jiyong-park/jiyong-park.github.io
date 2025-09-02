@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2025-07-01
+last_modified_at: 2025-09-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -27,6 +27,7 @@ toc_icon: "bookmark"
 
 ## Honors and Awards
 * Best Paper Award, International Conference on Electronic Commerce (ICEC), 2025
+* Outstanding Reviewer, Americas Conference on Information Systems (AMCIS), 2025
 * Best Student Paper Award Runner-up, KrAIS Summer Workshop, 2025
 * Best Journal Paper in Green IS, AIS Special Interest Group in Green IS (SIG Green), 2024
 * AIS Distinguished Member, Association for Information Systems (AIS), 2024
