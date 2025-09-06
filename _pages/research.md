@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-last_modified_at: 2025-01-01
+last_modified_at: 2025-09-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -18,9 +18,9 @@ My research interests lie at the intersection of the business and social values 
 
 ## Publications
 1. Green IS/IT
-	1. Kim, J.\*, **Park, J.**\*, and Dedrick, J., 2025. "An Empirical Investigation of Cloud Computing and Environmental Performance of Nations: Implications for Shared Responsibility in Cloud Computing," ***Journal of the Association for Information Systems***, Accepted. (\* Equal Contribution)
+	1. Kim, J.\*, **Park, J.**\*, and Dedrick, J., 2025. "An Empirical Investigation of Cloud Computing and Environmental Performance of Nations: Implications for Shared Responsibility in Cloud Computing," ***Journal of the Association for Information Systems*** (26:5), pp.1239-1267. (\* Equal Contribution) [[PAPER][JAIS25-1]]
 		* Special Issue on "Digital Responsibility"
-	2. **Park, J.**, Han, K., and Lee, B., 2023. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” ***Management Science***, (69:3), pp.1639-1664. [[PAPER][MS22-1]][[SSRN][MS22-2]]
+	2. **Park, J.**, Han, K., and Lee, B., 2023. “Green Cloud? An Empirical Analysis of Cloud Computing and Energy Efficiency,” ***Management Science*** (69:3), pp.1639-1664. [[PAPER][MS22-1]][[SSRN][MS22-2]]
 		* Featured by the UNCG Bryan School's Magazine ([Article][MS22-3])
 		* [Best Journal Paper in Green IS 2023][Award-1]
 
@@ -37,7 +37,7 @@ My research interests lie at the intersection of the business and social values 
 	4. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[PAPER][TMIS21-1]]
 
 3. IT Value
-	1. **Park, J.**, Son, Y., and Angst, C., 2023. “The Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly***, (47:1), pp.451-482. [[PAPER][MISQ23-1]]
+	1. **Park, J.**, Son, Y., and Angst, C., 2023. “The Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly*** (47:1), pp.451-482. [[PAPER][MISQ23-1]]
 		* Special Issue on "Digital Resilience"
 		* Non-technical summary published in LSE Business Review [[Article][MISQ23-2]] and in Mendoza College of Business at Notre Dame [[Article][MISQ23-3]]
 	2. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
@@ -61,6 +61,7 @@ My research interests lie at the intersection of the business and social values 
 [MISQ23-1]: https://misq.umn.edu/value-of-centralized-it-in-building-resilience-during-crises-evidence-from-u-s-higher-education-s-transition-to-emergency-remote-teaching.html
 [MISQ23-2]: https://blogs.lse.ac.uk/businessreview/2023/05/25/a-key-factor-helped-it-rescue-universities-during-the-covid-19-pandemic/
 [MISQ23-3]: https://mendoza.nd.edu/news/how-it-governance-can-make-or-break-a-universitys-crisis-response/
+[I&M25-1]: https://aisel.aisnet.org/jais/vol26/iss5/9
 [I&M21-1]: https://www.sciencedirect.com/science/article/pii/S0378720622000015
 [I&M24-2]: https://www.sciencedirect.com/science/article/pii/S0378720624000880
 
