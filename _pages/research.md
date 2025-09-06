@@ -61,7 +61,7 @@ My research interests lie at the intersection of the business and social values 
 [MISQ23-1]: https://misq.umn.edu/value-of-centralized-it-in-building-resilience-during-crises-evidence-from-u-s-higher-education-s-transition-to-emergency-remote-teaching.html
 [MISQ23-2]: https://blogs.lse.ac.uk/businessreview/2023/05/25/a-key-factor-helped-it-rescue-universities-during-the-covid-19-pandemic/
 [MISQ23-3]: https://mendoza.nd.edu/news/how-it-governance-can-make-or-break-a-universitys-crisis-response/
-[I&M25-1]: https://aisel.aisnet.org/jais/vol26/iss5/9
+[JAIS25-1]: https://aisel.aisnet.org/jais/vol26/iss5/9
 [I&M21-1]: https://www.sciencedirect.com/science/article/pii/S0378720622000015
 [I&M24-2]: https://www.sciencedirect.com/science/article/pii/S0378720624000880
 
