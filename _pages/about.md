@@ -82,7 +82,7 @@ toc_icon: "bookmark"
 * Editorial Service
   * Associate Editor, *Decision Sciences Journal*, 2026 - Present
   * Associate Editor, *Decision Support Systems*, 2024 - Present
-	* Associate Editor, *Information & Management*, 2023 - Present
+  * Associate Editor, *Information & Management*, 2023 - Present
 
 * Journal Review
 	* Information Systems Research, Management Science, MIS Quarterly, Journal of the Association for Information Systems, Production and Operations Management, Research Policy, Information & Management, Decision Support Systems, Communications of the ACM, Communications of the AIS, Information Systems Frontiers, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review, Omega, etc.
