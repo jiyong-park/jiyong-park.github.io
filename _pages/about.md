@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2025-09-01
+last_modified_at: 2026-01-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -80,18 +80,18 @@ toc_icon: "bookmark"
 
 ## Service
 * Editorial Service
-	* Associate Editor, *Decision Support Systems*, 2024 - Present
+  * Associate Editor, *Decision Sciences Journal*, 2026 - Present
+  * Associate Editor, *Decision Support Systems*, 2024 - Present
 	* Associate Editor, *Information & Management*, 2023 - Present
-	* Associate Editor, *Information Systems Review* (경영정보학연구; Journal of the Korea Society of Management Information Systems), 2023 - Present
 
 * Journal Review
 	* Information Systems Research, Management Science, MIS Quarterly, Journal of the Association for Information Systems, Production and Operations Management, Research Policy, Information & Management, Decision Support Systems, Communications of the ACM, Communications of the AIS, Information Systems Frontiers, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review, Omega, etc.
 
 * Conference Service
-	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021, 2024, 2025
+	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021, 2024, 2025, 2026
 	* Associate Editor, European Conference on Information Systems (ECIS) 2025, 2026
 	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
-	* Workshop Co-Chair, SIG Green Pre-ICIS Workshop 2024
+	* Workshop Co-Chair, SIG Green Pre-ICIS Workshop 2024, 2025
 	* Track Co-Chair (Conference Theme Track: Intelligent Technologies for a Better Future), Americas Conference on Information Systems (AMCIS) 2025
 	* Track Co-Chair (Green Information Systems and Sustainable Development), European Conference on Information Systems (ECIS) 2024
 	* Minitrack Co-Chair (Cloud Computing and Sustainability), Americas Conference on Information Systems (AMCIS) 2022, 2023
