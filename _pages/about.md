@@ -16,9 +16,9 @@ toc_icon: "bookmark"
 
 
 ## Editorial Appointments
-* Associate Editor, *Decision Sciences Journal*, 2026 - Present
-* Associate Editor, *Decision Support Systems*, 2024 - Present
-* Associate Editor, *Information & Management*, 2023 - Present
+* Associate Editor, *Decision Sciences Journal* (2026 - Present)
+* Associate Editor, *Decision Support Systems* (2024 - Present)
+* Associate Editor, *Information & Management* (2023 - Present)
 
 
 ## Education
