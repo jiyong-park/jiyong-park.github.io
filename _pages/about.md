@@ -8,27 +8,27 @@ toc_icon: "bookmark"
 ---
 
 ## Academic Appointments
-* **Terry College of Business, University of Georgia (UGA)**, Athens, GA, USA (Aug 2023 - Present)
+* **Terry College of Business, University of Georgia (UGA)**, Athens, GA, USA (2023 - Present)
 	* Assistant Professor of Management Information Systems (Tenure-Track)
 
-* **Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG)**, Greensboro, NC, USA (Aug 2019 - Jul 2023)
+* **Bryan School of Business and Economics, University of North Carolina at Greensboro (UNCG)**, Greensboro, NC, USA (2019 - 2023)
 	* Assistant Professor of Information Systems (Tenure-Track)
+
+
+## Education
+* **Korea Advanced Institute of Science and Technology (KAIST)**, Seoul, Korea (2014 - 2019)
+	* Ph.D. in *Management Engineering* (Major: Information Systems)
+
+* **Pohang University of Science and Technology (POSTECH)**, Pohang, Korea (2008 - 2014)
+	* B.S. in *Industrial and Management Engineering*
+	* B.S. in *Mathematics*
+	* Minor in *Computer Science and Engineering*
 
 
 ## Editorial Appointments
 * Associate Editor, *Decision Sciences Journal* (2026 - Present)
 * Associate Editor, *Decision Support Systems* (2024 - Present)
 * Associate Editor, *Information & Management* (2023 - Present)
-
-
-## Education
-* **Korea Advanced Institute of Science and Technology (KAIST)**, Seoul, Korea (Feb 2014 - Jul 2019)
-	* Ph.D. in *Management Engineering* (Major: Information Systems)
-
-* **Pohang University of Science and Technology (POSTECH)**, Pohang, Korea (Mar 2008 - Feb 2014)
-	* B.S. in *Industrial and Management Engineering*
-	* B.S. in *Mathematics*
-	* Minor in *Computer Science and Engineering*
 
 
 ## Honors and Awards
