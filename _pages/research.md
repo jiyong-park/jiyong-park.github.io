@@ -41,7 +41,7 @@ My research interests lie at the intersection of the business and social values 
     * Best Paper Award
 	2. **Park, J.**, Son, Y., and Angst, C., 2023. “The Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly*** (47:1), pp.451-482. [[PAPER][MISQ23-1]]
 		* Special Issue on "Digital Resilience"
-		* Non-technical summary published in LSE Business Review [[Article][MISQ23-2]] and in Mendoza College of Business at Notre Dame [[Article][MISQ23-3]]
+		* Non-technical summary published in LSE Business Review [[Article][MISQ23-2]]
 	3. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
 
 [Award-1]: https://communities.aisnet.org/siggreen/awards/winners
@@ -62,7 +62,6 @@ My research interests lie at the intersection of the business and social values 
 [TMIS21-1]: https://dl.acm.org/doi/abs/10.1145/3351159
 [MISQ23-1]: https://misq.umn.edu/value-of-centralized-it-in-building-resilience-during-crises-evidence-from-u-s-higher-education-s-transition-to-emergency-remote-teaching.html
 [MISQ23-2]: https://blogs.lse.ac.uk/businessreview/2023/05/25/a-key-factor-helped-it-rescue-universities-during-the-covid-19-pandemic/
-[MISQ23-3]: https://mendoza.nd.edu/news/how-it-governance-can-make-or-break-a-universitys-crisis-response/
 [JAIS25-1]: https://aisel.aisnet.org/jais/vol26/iss5/9
 [I&M21-1]: https://www.sciencedirect.com/science/article/pii/S0378720622000015
 [I&M24-2]: https://www.sciencedirect.com/science/article/pii/S0378720624000880
