@@ -32,6 +32,7 @@ toc_icon: "bookmark"
 
 
 ## Honors and Awards
+* Best Paper Award, Korean Management Review, 2026
 * Best Paper Award, International Conference on Electronic Commerce (ICEC), 2025
 * Outstanding Reviewer, Americas Conference on Information Systems (AMCIS), 2025
 * Best Student Paper Award Runner-up, KrAIS Summer Workshop, 2025
@@ -61,7 +62,7 @@ toc_icon: "bookmark"
 
 ## Grants
 *	Terry College Seed Grant Program [Green Data Centers] (College-Level Research Grant), Terry College of Business, UGA, 2025
-*	ECMC Foundation Grant [Automation Technology and Higher Education], ECMC Foundation, 2024
+*	ECMC Foundation Grant [Automation Technology and Higher Education], ECMC Foundation, 2024 – 2026
 *	The Presidential Interdisciplinary Seed Grant Program [E-Mobility] (University-Level Research Grant), UGA, 2023
 *	The Presidential Interdisciplinary Seed Grant Program [Upcycled Food] (University-Level Research Grant), UGA, 2023
 *	ORE Internal Funding Program [Carbon Emissions of Cloud Computing] (University-Level Research Grant), UNCG, 2022
@@ -71,12 +72,12 @@ toc_icon: "bookmark"
 ## Invited Talks and Seminars
 * Academic (Global)
 	* Virginia Commonwealth University, American University, University of Georgia, Penn State, University of Illinois at Chicago, Southern Methodist University, Santa Clara University, University of Florida, University of North Carolina at Greensboro, Chapman University, Nanyang Technological University
-	* Korean American Scientists and Engineers Association (KSEA) - NC Chapter
+	* INFORMS Southeastern Michigan Chapter, Korean American Scientists and Engineers Association (KSEA)
 * Academic (Korea)
 	* KAIST, POSTECH, Korea University, Yonsei University, Kyung Hee University, Ajou University, Hanyang University, Pusan National University, Sungkyunkwan University, Chung-Ang University
-	* Korean Artificial Intelligence Association, Korean Academic Society of Business Administration
+	* Korea Society of Management Information Systems (KMIS), Korea Artificial Intelligence Association (KAIA), Korean Academic Society of Business Administration (KASBA)
 * Industry
-	* Naver Search, Lyft's Safety Advisory Council
+	* Naver, Lyft's Safety Advisory Council
 
 ## Doctoral Student Supervision
 * Jaecheol Park, Sauder School of Business, University of British Columbia (Dissertation Committee; First Placement: Nanyang Technological University)
@@ -86,7 +87,7 @@ toc_icon: "bookmark"
 
 ## Service
 * Journal Review
-	* Information Systems Research, Management Science, MIS Quarterly, Journal of the Association for Information Systems, Production and Operations Management, Research Policy, Information & Management, Decision Support Systems, Communications of the ACM, Communications of the AIS, Information Systems Frontiers, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review, Omega, etc.
+	* Management Science, Information Systems Research, MIS Quarterly, Journal of the Association for Information Systems, Production and Operations Management, Research Policy, Information & Management, Decision Support Systems, Communications of the ACM, Communications of the AIS, Information Systems Frontiers, Information Technology and Management, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review, Omega, etc.
 
 * Conference Service
 	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021, 2024, 2025, 2026
