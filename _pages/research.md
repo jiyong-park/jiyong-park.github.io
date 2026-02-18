@@ -37,12 +37,12 @@ My research interests lie at the intersection of the business and social values 
 	4. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[PAPER][TMIS21-1]]
 
 3. IT Value
-	1. **Park, J.** and Han, K., 2025. “Returns to Cloud Computing Investment: The Role of Environmental Uncertainty,” Korean Management Review, (54:6), pp.1851-1875. [[PAPER][KMR25-1]]
+  1. **Park, J.** and Han, K., 2025. “Returns to Cloud Computing Investment: The Role of Environmental Uncertainty,” *Korean Management Review*, (54:6), pp.1851-1875. [[PAPER][KMR25-1]]
     * Best Paper Award
   2. **Park, J.**, Son, Y., and Angst, C., 2023. “The Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly*** (47:1), pp.451-482. [[PAPER][MISQ23-1]]
 		* Special Issue on "Digital Resilience"
 		* Non-technical summary published in LSE Business Review [[Article][MISQ23-2]] and in Mendoza College of Business at Notre Dame [[Article][MISQ23-3]]
-	3. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
+  3. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
 
 [Award-1]: https://communities.aisnet.org/siggreen/awards/winners
 [Award-2]: https://pubsonline.informs.org/doi/10.1287/isre.2024.editorial.v35.n3
