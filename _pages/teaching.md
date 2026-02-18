@@ -42,13 +42,21 @@ toc_icon: "bookmark"
 
 ## Causal Inference Workshops
 <sub>Initiated and organized the workshops</sub>
+* Korea Business Experimentation Symposium 2025 (Summer 2025, Korea)
+	* First-ever workshop on business experimentation in Korea
+	* [Website][experimentation25]
+
+* Korea Summer Workshop on Causal Inference 2024 (Summer 2024, Online)
+	* Online workshop on causal inference
+	* [Website][summerworkshop24]
+
 * Korea Summer Workshop on Causal Inference 2023 (Summer 2023, Online)
-	* Online lectures on causal inference methods
-	* [Website][summersession23]
+	* Online workshop on causal inference
+	* [Website][summerworkshop23]
 
 * Korea Summer Workshop on Causal Inference 2022 (Summer 2022, Online)
 	* Online seminar series to present research and best practices for causal inference
-	* [Website][summersession22]
+	* [Website][summerworkshop22]
 
 * Korea Summer Session on Causal Inference 2021 (Summer 2021, Online)
 	* Online seminar series to introduce research methodologies and data analytical approaches in pursuit of causal inference
@@ -58,11 +66,11 @@ toc_icon: "bookmark"
 	* Online sessions to review empirical studies on COVID-19 with a particular focus on causal inference
 	* [Website][summersession20]
 
-* MIS Summer Session 2019 - Experimental Empirical Methods (Summer 2019, KAIST)
+* MIS Summer Session 2019 - Experimental Empirical Methods (Summer 2019, Korea)
 	* Non-credit session for PhD/MS students
 	* [Website][summersession19]
 
-* MIS Summer Session 2018 - Research Design for Data Analytics (Summer 2018, KAIST)
+* MIS Summer Session 2018 - Research Design for Data Analytics (Summer 2018, Korea)
 	* Non-credit session for PhD/MS students
 	* [Website][summersession18-1] / [GitHub for hands-on codes][summersession18-2]
 
@@ -70,8 +78,13 @@ toc_icon: "bookmark"
 	* Non-credit session for PhD/MS students
 	* [Website][summersession17]
 
-[summersession23]: https://sites.google.com/view/causal-inference2023
-[summersession22]: https://sites.google.com/view/causal-inference2022
+
+[experimentation25]: https://sites.google.com/view/business-experimentation2025
+
+[summerworkshop24]: https://sites.google.com/view/causal-inference2024
+[summerworkshop23]: https://sites.google.com/view/causal-inference2023
+[summerworkshop22]: https://sites.google.com/view/causal-inference2022
+
 [summersession21]: https://sites.google.com/view/causal-inference2021
 [summersession20]: https://sites.google.com/view/social-science-of-covid-19
 [summersession19]: https://sites.google.com/view/kaist-mis-session2019
