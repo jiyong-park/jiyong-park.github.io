@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-last_modified_at: 2025-09-01
+last_modified_at: 2026-06-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
@@ -37,10 +37,12 @@ My research interests lie at the intersection of the business and social values 
 	4. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[PAPER][TMIS21-1]]
 
 3. IT Value
-	1. **Park, J.**, Son, Y., and Angst, C., 2023. “The Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly*** (47:1), pp.451-482. [[PAPER][MISQ23-1]]
+	1. **Park, J.** and Han, K., 2025. “Returns to Cloud Computing Investment: The Role of Environmental Uncertainty,” Korean Management Review, (54:6), pp.1851-1875. [[PAPER][KMR25-1]]
+    * Best Paper Award
+  2. **Park, J.**, Son, Y., and Angst, C., 2023. “The Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly*** (47:1), pp.451-482. [[PAPER][MISQ23-1]]
 		* Special Issue on "Digital Resilience"
 		* Non-technical summary published in LSE Business Review [[Article][MISQ23-2]] and in Mendoza College of Business at Notre Dame [[Article][MISQ23-3]]
-	2. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
+	3. Gong, F., **Park, J.**, and Cao, Y., 2022. “The Impact of IT Spillovers on Technical Efficiency: The Role of IT Intensity and Supply Chain Relationships,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M21-1]]
 
 [Award-1]: https://communities.aisnet.org/siggreen/awards/winners
 [Award-2]: https://pubsonline.informs.org/doi/10.1287/isre.2024.editorial.v35.n3
@@ -64,11 +66,17 @@ My research interests lie at the intersection of the business and social values 
 [JAIS25-1]: https://aisel.aisnet.org/jais/vol26/iss5/9
 [I&M21-1]: https://www.sciencedirect.com/science/article/pii/S0378720622000015
 [I&M24-2]: https://www.sciencedirect.com/science/article/pii/S0378720624000880
-
+[KMR25-1]: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12504034
 
 <p></p>
 
 ## Conference Presentations
+*	Kim, S., Ahn, D., Choi, B., **Park, J.**, Yang, J., Yoo, B., and Yum, K., 2025. “When More Control Backfires: The Paradox of User Control in Algorithmic Decision-Making,” Workshop on Information Systems and Economics (WISE), Nashville, Tennessee, USA
+*	Kim, S., Ahn, D., Choi, B., **Park, J.**, Yang, J., Yoo, B., and Yum, K., 2025. “Controllability in Algorithmic Decision-Making: Field Evidence from a Robo-Advisor,” International Conference on Information Systems (ICIS), Nashville, Tennessee, USA
+*	Jun, S., **Park, J.**, and Boudreau, M.C., 2025. “Walking the AI Talk: AI Washing and Data Breach Risks,” International Conference on Information Systems (ICIS), Nashville, Tennessee, USA
+*	Song, P., Lakhiwal, A., **Park, J.**, Xue, L., and Jia, R., 2025. “Plugging into Confidence: How Platform Interoperability Reshapes Electric Vehicle Charging Behavior and Charging Network Efficiency,” Conference on Information Systems and Technology (CIST), Atlanta, Georgia, USA
+*	Kim, S., Ahn, D., Choi, B., **Park, J.**, Yang, J., Yoo, B., and Yum, K., 2025. “Controllability in Algorithmic Decision-Making: Field Evidence from a Robo-Advisor,” Conference on Information Systems and Technology (CIST), Atlanta, Georgia, USA
+*	**Park, J.**, and Bae, E., 2025. “Data (Center) Economy: The Impact of Data Centers on Firm Performance in Developing Economies, Americas Conference on Information Systems (AMCIS), Montreal, Canada
 * **Park, J.**, and Saldanha, T., 2024. “Hiding Carbon Footprint in the Cloud: Cloud Migration, Corporate Carbon Disclosure, and Environmental Performance,” *International Conference on Information Systems (ICIS)*, Bangkok, Thailand
 * Jung, M., **Park, J.**, and Pang, M.S., 2024. “Safety on Autopilot: An Empirical Investigation of Autonomous Driving and Traffic Safety,” *International Conference on Information Systems (ICIS)*, Bangkok, Thailand
 * **Park, J.**, Lee, M., Son, Y., and Lee, G., 2024. “The New Industrial Revolution: AI, Labor Unions, and the Future of Work,” *Workshop on Information Systems and Economics (WISE)*, Bangkok, Thailand **[Best Paper Award Nominee]**
