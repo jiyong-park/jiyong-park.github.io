@@ -25,17 +25,17 @@ My research interests lie at the intersection of the business and social values 
 		* [Best Journal Paper in Green IS 2023][Award-1]
 
 2. Societal Impacts of IS/IT
-  1. Mohammed, F., Dissanayake, I., **Park, J.**, Singh, R., and Dedrick, J., 2026. "Signaling Strategies in Supply-Driven Online Labor Markets: A Signal Portfolio Perspective," ***Journal of the Association for Information Systems***, forthcoming. [[PAPER][JAIS26-1]]
-  2. Shin, W., **Park, J.**, and Kim, H., 2024. "Online Consumer Demand During and After Natural Disasters: Evidence from the COVID-19 Pandemic,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M24-2]]
-  3. **Park, J.** and Kim, J., 2022. "A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century," *Communications of the ACM* (65:5), pp.79-87. [[PAPER][CACM22-1]][[SSRN][CACM22-2]]
+	1. Mohammed, F., Dissanayake, I., **Park, J.**, Singh, R., and Dedrick, J., 2026. "Signaling Strategies in Supply-Driven Online Labor Markets: A Signal Portfolio Perspective," ***Journal of the Association for Information Systems***, forthcoming. [[PAPER][JAIS26-1]]
+	2. Shin, W., **Park, J.**, and Kim, H., 2024. "Online Consumer Demand During and After Natural Disasters: Evidence from the COVID-19 Pandemic,” *Information & Management* (59:2), pp.103589. [[PAPER][I&M24-2]]
+	3. **Park, J.** and Kim, J., 2022. "A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century," *Communications of the ACM* (65:5), pp.79-87. [[PAPER][CACM22-1]][[SSRN][CACM22-2]]
     * Non-technical summary ([Video in CACM][CACM22-3])
     * [Website for Job Automation Index][CACM22-4]
     * Featured by the UNCG Bryan School's Blog ([Blog][CACM22-5])
-  4. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," ***Information Systems Research*** (32:2), pp.497-516. [[PAPER][ISR21-1]][[SSRN][ISR21-2]]
+	4. **Park, J.**, Pang, M.S., Kim, J., and Lee, B., 2021. "The Deterrent Effect of Ride-Sharing on Sexual Assault and Investigation of Situational Contingencies," ***Information Systems Research*** (32:2), pp.497-516. [[PAPER][ISR21-1]][[SSRN][ISR21-2]]
 		* Non-technical summary ([Article in TechCrunch][ISR21-3])
 		* Featured by INFORMS ([Press Release][ISR21-4]) ([INFORMS Podcast][ISR21-5])
 		* Recognized by ISR editorial ([Gopal et al. 2024][Award-2]) as a good example of using econometrics to validate theory
-  5. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[PAPER][TMIS21-1]]
+	5. **Park, J.**, Cho, D., Lee, J.K. and Lee, B., 2019. “The Economics of Cybercrime: The Role of Broadband and Socioeconomic Status,” *ACM Transactions on Management Information Systems* (10:4), pp.1-23. [[PAPER][TMIS21-1]]
 
 3. IT Value
 	1. **Park, J.** and Han, K., 2025. “Returns to Cloud Computing Investment: The Role of Environmental Uncertainty,” *Korean Management Review*, (54:6), pp.1851-1875. [[PAPER][KMR25-1]]
