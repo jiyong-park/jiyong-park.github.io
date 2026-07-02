@@ -9,8 +9,8 @@ toc_icon: "bookmark"
 
 ## 2026
 * **[Undergraduate]** MIST 4600: Computer Programming in Business (Spring, UGA)
-* **[Graduate - MS]** MIST 6380: Advanced Data Management and Analytics (Spring, UGA)
-* **[Graduate - PhD]** MIST 9715: Quantitative Methods for Information Systems Research (Spring, UGA)
+* **[Graduate - MS]** MIST 6380: Advanced Data Management and Analytics (Spring/Fall, UGA)
+* **[Graduate - PhD]** MIST 9715: Quantitative Methods for Information Systems Research (Spring/Fall, UGA)
 
 ## 2025
 * **[Undergraduate]** MIST 4600: Computer Programming in Business (Spring, UGA)
