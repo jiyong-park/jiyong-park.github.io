@@ -39,7 +39,7 @@ My research interests lie at the intersection of the business and social values 
 
 3. IT Value
 	1. **Park, J.** and Han, K., 2025. “Returns to Cloud Computing Investment: The Role of Environmental Uncertainty,” *Korean Management Review*, (54:6), pp.1851-1875. [[PAPER][KMR25-1]]
-		* Best Paper Award
+		* Best Paper Award in the Journal
 	2. **Park, J.**, Son, Y., and Angst, C., 2023. “The Value of Centralized IT in Building Resilience During Crises: Evidence from U.S. Higher Education’s Transition to Emergency Remote Teaching,” ***MIS Quarterly*** (47:1), pp.451-482. [[PAPER][MISQ23-1]]
 		* Special Issue on "Digital Resilience"
 		* Non-technical summary published in LSE Business Review [[Article][MISQ23-2]]
