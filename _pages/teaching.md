@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-last_modified_at: 2026-01-01
+last_modified_at: 2026-07-01
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
